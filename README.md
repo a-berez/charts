@@ -4,9 +4,11 @@
 
 ## Список турниров
 
-- [ШЧР 2025](shchr25/shchr2025.html)
+- [ШЧР 2025](https://a-berez.github.io/charts/shchr25/shchr2025.html)
 
-- [Финал Лиги вузов 2025](lv25/lv25.html)
+- [Финал Лиги вузов 2025](https://a-berez.github.io/charts/lv25/lv25.html)
+
+- [Нехрустальная сова 2025 и зеркала](https://a-berez.github.io/charts/nesova25/owls.html)
 
 ## Другое
 
