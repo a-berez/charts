@@ -4,6 +4,10 @@
 
 ## Список турниров
 
+- [ДЧР 2025](https://a-berez.github.io/charts/dchr25/dchr2025.html)
+
+- [СтудЧР 2025](https://a-berez.github.io/charts/studchr25/studchr2025.html)
+
 - [ШЧР 2025](https://a-berez.github.io/charts/shchr25/shchr2025.html)
 
 - [Финал Лиги вузов 2025](https://a-berez.github.io/charts/lv25/lv25.html)
