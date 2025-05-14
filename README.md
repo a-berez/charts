@@ -4,6 +4,8 @@
 
 ## Список турниров
 
+- [Весна в ЛЭТИ](https://a-berez.github.io/charts/vvl25)
+
 - [ДЧР 2025](https://a-berez.github.io/charts/dchr25/dchr25.html)
 
 - [СтудЧР 2025](https://a-berez.github.io/charts/studchr25/studchr25.html)
