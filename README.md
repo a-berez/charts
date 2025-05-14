@@ -6,15 +6,15 @@
 
 - [Весна в ЛЭТИ](https://a-berez.github.io/charts/vvl25)
 
-- [ДЧР 2025](https://a-berez.github.io/charts/dchr25/dchr25.html)
+- [ДЧР 2025](https://a-berez.github.io/charts/dchr25)
 
-- [СтудЧР 2025](https://a-berez.github.io/charts/studchr25/studchr25.html)
+- [СтудЧР 2025](https://a-berez.github.io/charts/studchr25)
 
-- [ШЧР 2025](https://a-berez.github.io/charts/shchr25/shchr2025.html)
+- [ШЧР 2025](https://a-berez.github.io/charts/shchr25)
 
-- [Финал Лиги вузов 2025](https://a-berez.github.io/charts/lv25/lv25.html)
+- [Финал Лиги вузов 2025](https://a-berez.github.io/charts/lv25)
 
-- [Нехрустальная сова 2025 и зеркала](https://a-berez.github.io/charts/nesova25/owls.html)
+- [Нехрустальная сова 2025 и зеркала](https://a-berez.github.io/charts/nesova25)
 
 ## Другое
 
