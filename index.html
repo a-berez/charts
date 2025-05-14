@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Визуализации турниров</title>
+		<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet" />
+		<style>
+			/* Основные стили */
+			html {
+			  font-family: 'Noto Sans', Tahoma, sans-serif;
+			  height: auto;
+			}
+
+			body {
+			  font-family: 'Noto Sans', 'Helvetica', sans-serif;
+			  margin: 0;
+			  padding: 0;
+			  display: flex;
+			  flex-direction: column;
+			  height: auto;
+			  min-height: unset;
+			  line-height: 1.6;
+			  background-color: #f5f5f5;
+			  font-size: 16px;
+			  box-sizing: border-box;
+			}
+
+			h1, h2, h3 {
+			  text-align: center;
+			  font-weight: 700;
+			  word-wrap: break-word;
+			}
+
+			h1 {
+			  font-size: 2.2rem;
+			  margin-bottom: 1rem;
+			  color: #71c0a1;
+			}
+
+			h2 {
+			  font-size: 1.5rem;
+			  margin-bottom: 0.8rem;
+			}
+
+			h3 {
+			  font-size: 1.2em;
+			}
+
+			a {
+			  text-decoration: none;
+			  color: #3498db;
+			}
+
+			a:hover {
+			  text-decoration: underline;
+			}
+
+			ul {
+			  padding-left: 25px;
+			}
+
+			li {
+			  margin-bottom: 8px;
+			}
+
+			/* Центрирование описания */
+			.description {
+			  text-align: center;
+			}
+
+			.container {
+			  width: 100%;
+			  max-width: 1200px;
+			  margin: 20px auto 20px auto; /* Отступ сверху и снизу */
+			  box-sizing: border-box;
+			  background-color: white;
+			  padding: 15px;
+			  border-radius: 8px;
+			  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+			}
+
+			.content {
+			  display: flex;
+			  justify-content: center;
+			  width: 100%;
+			  padding: 0;
+			  height: auto;
+			}
+
+			/* Стили для футера */
+			footer, .footer {
+			  margin-top: 20px;
+			  margin-bottom: 0;
+			  text-align: center;
+			  font-size: 14px;
+			  color: #666;
+			  width: 100%;
+			  box-sizing: border-box;
+			  max-width: 100%;
+			  border-top: 1px solid #eee;
+			}
+
+			.footer p:last-child {
+			  margin-bottom: 0;
+			}
+
+			@media (max-width: 768px) {
+			  .container {
+			    padding: 10px;
+			  }
+
+			  h1 {
+			    font-size: 1.8rem;
+			  }
+
+			  h2 {
+			    font-size: 1.3rem;
+			  }
+			}
+		</style>
+	</head>
+
+	<body>
+		<div class="content">
+			<div class="container">
+				<h1>Визуализации турниров</h1>
+				<p class="description">Тут хранятся различные визуализации результатов турниров, которыми я хочу поделиться</p>
+
+				<h2>Список турниров</h2>
+				<ul>
+					<li><a href="https://a-berez.github.io/charts/dchr25/dchr25.html" target="_blank">ДЧР 2025</a></li>
+					<li><a href="https://a-berez.github.io/charts/studchr25/studchr25.html" target="_blank">СтудЧР 2025</a></li>
+					<li><a href="https://a-berez.github.io/charts/shchr25/shchr2025.html" target="_blank">ШЧР 2025</a></li>
+					<li><a href="https://a-berez.github.io/charts/lv25/lv25.html" target="_blank">Финал Лиги вузов 2025</a></li>
+					<li><a href="https://a-berez.github.io/charts/nesova25/owls.html" target="_blank">Нехрустальная сова 2025 и зеркала</a></li>
+				</ul>
+				<div class="footer">
+					<p>Визуализации сделаны скриптом <a href="https://github.com/a-berez/games_features/tree/main/chart_generator" target="_blank">chart_generator</a>.</p>
+					<p>
+						Для создания интерактивных таблиц используется библиотека <a href="https://github.com/antoniokov/replay-table" target="_blank">Replay Table</a> от
+						<a href="https://github.com/antoniokov/" target="_blank">Антона Иокова</a>.
+					</p>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
