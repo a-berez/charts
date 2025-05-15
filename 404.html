@@ -1,9 +1,9 @@
-ить <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ru">
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<title>Визуализации турниров</title>
+		<title>Страница не найдена - Ошибка 404</title>
 		<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet" />
 		<style>
 			/* Основные стили */
@@ -56,14 +56,6 @@
 			  text-decoration: underline;
 			}
 
-			ul {
-			  padding-left: 25px;
-			}
-
-			li {
-			  margin-bottom: 8px;
-			}
-
 			/* Центрирование описания */
 			.description {
 			  text-align: center;
@@ -105,6 +97,41 @@
 			  margin-bottom: 0;
 			}
 
+			/* Стили для страницы 404 */
+			.error-code {
+			  font-size: 8rem;
+			  font-weight: 700;
+			  color: #6464a6;
+			  margin: 0;
+			  line-height: 1;
+			  text-align: center;
+			}
+
+			.error-message {
+			  margin-top: 0;
+			  margin-bottom: 2rem;
+			  text-align: center;
+			  font-size: 1.5rem;
+			}
+
+			.home-button {
+			  display: block;
+			  width: 200px;
+			  margin: 30px auto;
+			  padding: 12px 20px;
+			  background-color: #6464a6;
+			  color: white;
+			  text-align: center;
+			  border-radius: 4px;
+			  font-weight: 700;
+			  transition: background-color 0.3s ease;
+			}
+
+			.home-button:hover {
+			  background-color: #5ba88a;
+			  text-decoration: none;
+			}
+
 			@media (max-width: 768px) {
 			  .container {
 			    padding: 10px;
@@ -117,37 +144,31 @@
 			  h2 {
 			    font-size: 1.3rem;
 			  }
+
+			  .error-code {
+			    font-size: 6rem;
+			  }
+
+			  .error-message {
+			    font-size: 1.2rem;
+			  }
 			}
 		</style>
-	<link rel="icon" type="image/png" href="/charts/favicon/favicon-96x96.png" sizes="96x96" />
-<link rel="icon" type="image/svg+xml" href="/charts/favicon/favicon.svg" />
-<link rel="shortcut icon" href="/charts/favicon/favicon.ico" />
-<link rel="apple-touch-icon" sizes="180x180" href="/charts/favicon/apple-touch-icon.png" />
-<link rel="manifest" href="/charts/favicon/site.webmanifest" />
-</head>
+		<link rel="icon" type="image/png" href="/charts/favicon/favicon-96x96.png" sizes="96x96" />
+		<link rel="icon" type="image/svg+xml" href="/charts/favicon/favicon.svg" />
+		<link rel="shortcut icon" href="/charts/favicon/favicon.ico" />
+		<link rel="apple-touch-icon" sizes="180x180" href="/charts/favicon/apple-touch-icon.png" />
+		<link rel="manifest" href="/charts/favicon/site.webmanifest" />
+	</head>
 
 	<body>
 		<div class="content">
 			<div class="container">
-				<h1>Визуализации турниров</h1>
-				<p class="description">Тут хранятся различные визуализации результатов турниров, которыми я хочу поделиться</p>
-
-				<h2>Список турниров</h2>
-				<ul>
-					<li><a href="/charts/vvl25" target="_blank">Весна в ЛЭТИ</a></li>
-					<li><a href="/charts/dchr25" target="_blank">ДЧР 2025</a></li>
-					<li><a href="/charts/studchr25" target="_blank">СтудЧР 2025</a></li>
-					<li><a href="/charts/shchr25" target="_blank">ШЧР 2025</a></li>
-					<li><a href="/charts/lv25" target="_blank">Финал Лиги вузов 2025</a></li>
-					<li><a href="/charts/nesova25" target="_blank">Нехрустальная сова 2025 и зеркала</a></li>
-				</ul>
-				<div class="footer">
-					<p>Визуализации сделаны скриптом <a href="https://github.com/a-berez/games_features/tree/main/chart_generator" target="_blank">chart_generator</a>.</p>
-					<p>
-						Для создания интерактивных таблиц используется библиотека <a href="https://github.com/antoniokov/replay-table" target="_blank">Replay Table</a> от
-						<a href="https://github.com/antoniokov/" target="_blank">Антона Иокова</a>.
-					</p>
-				</div>
+				<h1>Страница не найдена</h1>
+				<p class="error-code">404</p>
+				<p class="error-message">Извините, запрашиваемая страница не существует</p>
+				<p class="description">Возможно, страница была удалена, перемещена или введен неверный URL-адрес</p>
+				<a href="/" class="home-button">На главную</a>
 			</div>
 		</div>
 	</body>
