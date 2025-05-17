@@ -2470,10 +2470,10 @@
       "homeTeamName": "Orenburg",
       "awayTeamName": "Krasnodar",
       "result": {
-        "goalsHomeTeam": null,
-        "goalsAwayTeam": null
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
       },
-      "status": "TIMED"
+      "status": "FINISHED"
     },
     {
       "date": "2025-05-17T14:30:00Z",
@@ -2481,10 +2481,10 @@
       "homeTeamName": "Khimki",
       "awayTeamName": "Rubin Kazan",
       "result": {
-        "goalsHomeTeam": null,
-        "goalsAwayTeam": null
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
       },
-      "status": "TIMED"
+      "status": "FINISHED"
     },
     {
       "date": "2025-05-17T17:00:00Z",
@@ -2492,10 +2492,10 @@
       "homeTeamName": "Pari NN",
       "awayTeamName": "Fakel Voronezh",
       "result": {
-        "goalsHomeTeam": null,
-        "goalsAwayTeam": null
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
       },
-      "status": "TIMED"
+      "status": "FINISHED"
     },
     {
       "date": "2025-05-18T11:30:00Z",
