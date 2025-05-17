@@ -1,0 +1,2644 @@
+{
+  "fixtures": [
+    {
+      "date": "2024-07-20T13:00:00Z",
+      "matchday": 1,
+      "homeTeamName": "Lokomotiv Moscow",
+      "awayTeamName": "Akron Togliatti",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-07-20T15:30:00Z",
+      "matchday": 1,
+      "homeTeamName": "Krylya Sovetov",
+      "awayTeamName": "Zenit",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 4
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-07-20T18:00:00Z",
+      "matchday": 1,
+      "homeTeamName": "Dynamo Moscow",
+      "awayTeamName": "Fakel Voronezh",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-07-20T18:00:00Z",
+      "matchday": 1,
+      "homeTeamName": "FK Rostov",
+      "awayTeamName": "CSKA Moscow",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-07-21T15:30:00Z",
+      "matchday": 1,
+      "homeTeamName": "Orenburg",
+      "awayTeamName": "Spartak Moscow",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-07-21T18:00:00Z",
+      "matchday": 1,
+      "homeTeamName": "Akhmat Grozny",
+      "awayTeamName": "Krasnodar",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-07-21T18:00:00Z",
+      "matchday": 1,
+      "homeTeamName": "Khimki",
+      "awayTeamName": "Dynamo Makhachkala",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-07-22T18:00:00Z",
+      "matchday": 1,
+      "homeTeamName": "Pari NN",
+      "awayTeamName": "Rubin Kazan",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 4
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-07-26T16:00:00Z",
+      "matchday": 2,
+      "homeTeamName": "Krylya Sovetov",
+      "awayTeamName": "FK Rostov",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-07-27T13:00:00Z",
+      "matchday": 2,
+      "homeTeamName": "Pari NN",
+      "awayTeamName": "CSKA Moscow",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-07-27T15:30:00Z",
+      "matchday": 2,
+      "homeTeamName": "Dynamo Moscow",
+      "awayTeamName": "Lokomotiv Moscow",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-07-27T15:30:00Z",
+      "matchday": 2,
+      "homeTeamName": "Rubin Kazan",
+      "awayTeamName": "Zenit",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 4
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-07-27T18:00:00Z",
+      "matchday": 2,
+      "homeTeamName": "Fakel Voronezh",
+      "awayTeamName": "Akron Togliatti",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-07-28T13:00:00Z",
+      "matchday": 2,
+      "homeTeamName": "Khimki",
+      "awayTeamName": "Spartak Moscow",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-07-28T15:30:00Z",
+      "matchday": 2,
+      "homeTeamName": "Orenburg",
+      "awayTeamName": "Akhmat Grozny",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-07-28T18:00:00Z",
+      "matchday": 2,
+      "homeTeamName": "Krasnodar",
+      "awayTeamName": "Dynamo Makhachkala",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-03T13:00:00Z",
+      "matchday": 3,
+      "homeTeamName": "Akron Togliatti",
+      "awayTeamName": "Dynamo Moscow",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-03T15:30:00Z",
+      "matchday": 3,
+      "homeTeamName": "Zenit",
+      "awayTeamName": "FK Rostov",
+      "result": {
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-03T18:00:00Z",
+      "matchday": 3,
+      "homeTeamName": "Rubin Kazan",
+      "awayTeamName": "Khimki",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-04T13:30:00Z",
+      "matchday": 3,
+      "homeTeamName": "CSKA Moscow",
+      "awayTeamName": "Orenburg",
+      "result": {
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-04T15:30:00Z",
+      "matchday": 3,
+      "homeTeamName": "Fakel Voronezh",
+      "awayTeamName": "Krasnodar",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-04T18:30:00Z",
+      "matchday": 3,
+      "homeTeamName": "Akhmat Grozny",
+      "awayTeamName": "Lokomotiv Moscow",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 5
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-04T18:30:00Z",
+      "matchday": 3,
+      "homeTeamName": "Dynamo Makhachkala",
+      "awayTeamName": "Pari NN",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-05T18:00:00Z",
+      "matchday": 3,
+      "homeTeamName": "Spartak Moscow",
+      "awayTeamName": "Krylya Sovetov",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-09T16:30:00Z",
+      "matchday": 4,
+      "homeTeamName": "Pari NN",
+      "awayTeamName": "Khimki",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-09T18:45:00Z",
+      "matchday": 4,
+      "homeTeamName": "FK Rostov",
+      "awayTeamName": "Rubin Kazan",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-10T13:00:00Z",
+      "matchday": 4,
+      "homeTeamName": "Lokomotiv Moscow",
+      "awayTeamName": "Dynamo Makhachkala",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-10T15:30:00Z",
+      "matchday": 4,
+      "homeTeamName": "Orenburg",
+      "awayTeamName": "Akron Togliatti",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-10T15:30:00Z",
+      "matchday": 4,
+      "homeTeamName": "Zenit",
+      "awayTeamName": "Dynamo Moscow",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-10T18:00:00Z",
+      "matchday": 4,
+      "homeTeamName": "Krasnodar",
+      "awayTeamName": "CSKA Moscow",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-11T15:30:00Z",
+      "matchday": 4,
+      "homeTeamName": "Krylya Sovetov",
+      "awayTeamName": "Fakel Voronezh",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-11T18:00:00Z",
+      "matchday": 4,
+      "homeTeamName": "Spartak Moscow",
+      "awayTeamName": "Akhmat Grozny",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-17T15:00:00Z",
+      "matchday": 5,
+      "homeTeamName": "Dynamo Moscow",
+      "awayTeamName": "Krylya Sovetov",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-17T17:30:00Z",
+      "matchday": 5,
+      "homeTeamName": "FK Rostov",
+      "awayTeamName": "Orenburg",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-18T13:00:00Z",
+      "matchday": 5,
+      "homeTeamName": "Khimki",
+      "awayTeamName": "Zenit",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-18T15:30:00Z",
+      "matchday": 5,
+      "homeTeamName": "CSKA Moscow",
+      "awayTeamName": "Lokomotiv Moscow",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-18T15:30:00Z",
+      "matchday": 5,
+      "homeTeamName": "Spartak Moscow",
+      "awayTeamName": "Fakel Voronezh",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-18T18:00:00Z",
+      "matchday": 5,
+      "homeTeamName": "Krasnodar",
+      "awayTeamName": "Pari NN",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-19T15:30:00Z",
+      "matchday": 5,
+      "homeTeamName": "Akron Togliatti",
+      "awayTeamName": "Rubin Kazan",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-19T18:00:00Z",
+      "matchday": 5,
+      "homeTeamName": "Dynamo Makhachkala",
+      "awayTeamName": "Akhmat Grozny",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-23T18:00:00Z",
+      "matchday": 6,
+      "homeTeamName": "Rubin Kazan",
+      "awayTeamName": "Dynamo Makhachkala",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-24T13:00:00Z",
+      "matchday": 6,
+      "homeTeamName": "CSKA Moscow",
+      "awayTeamName": "Akron Togliatti",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-24T15:30:00Z",
+      "matchday": 6,
+      "homeTeamName": "Fakel Voronezh",
+      "awayTeamName": "Orenburg",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-24T15:30:00Z",
+      "matchday": 6,
+      "homeTeamName": "Zenit",
+      "awayTeamName": "Spartak Moscow",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-24T18:00:00Z",
+      "matchday": 6,
+      "homeTeamName": "Akhmat Grozny",
+      "awayTeamName": "Khimki",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 3
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-25T13:00:00Z",
+      "matchday": 6,
+      "homeTeamName": "Krylya Sovetov",
+      "awayTeamName": "Pari NN",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-25T15:30:00Z",
+      "matchday": 6,
+      "homeTeamName": "Dynamo Moscow",
+      "awayTeamName": "Krasnodar",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-25T18:00:00Z",
+      "matchday": 6,
+      "homeTeamName": "Lokomotiv Moscow",
+      "awayTeamName": "FK Rostov",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-31T13:00:00Z",
+      "matchday": 7,
+      "homeTeamName": "Khimki",
+      "awayTeamName": "CSKA Moscow",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-31T15:30:00Z",
+      "matchday": 7,
+      "homeTeamName": "Pari NN",
+      "awayTeamName": "Zenit",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-31T17:45:00Z",
+      "matchday": 7,
+      "homeTeamName": "Spartak Moscow",
+      "awayTeamName": "Rubin Kazan",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-08-31T18:00:00Z",
+      "matchday": 7,
+      "homeTeamName": "Akhmat Grozny",
+      "awayTeamName": "Akron Togliatti",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-09-01T13:00:00Z",
+      "matchday": 7,
+      "homeTeamName": "Orenburg",
+      "awayTeamName": "Dynamo Moscow",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-09-01T15:30:00Z",
+      "matchday": 7,
+      "homeTeamName": "Krylya Sovetov",
+      "awayTeamName": "Dynamo Makhachkala",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-09-01T17:45:00Z",
+      "matchday": 7,
+      "homeTeamName": "Lokomotiv Moscow",
+      "awayTeamName": "Krasnodar",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-09-01T18:00:00Z",
+      "matchday": 7,
+      "homeTeamName": "FK Rostov",
+      "awayTeamName": "Fakel Voronezh",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-09-13T18:15:00Z",
+      "matchday": 8,
+      "homeTeamName": "Rubin Kazan",
+      "awayTeamName": "Krylya Sovetov",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-09-14T10:00:00Z",
+      "matchday": 8,
+      "homeTeamName": "Orenburg",
+      "awayTeamName": "Lokomotiv Moscow",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 4
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-09-14T12:15:00Z",
+      "matchday": 8,
+      "homeTeamName": "Fakel Voronezh",
+      "awayTeamName": "Pari NN",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-09-14T14:30:00Z",
+      "matchday": 8,
+      "homeTeamName": "CSKA Moscow",
+      "awayTeamName": "Zenit",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-09-14T17:00:00Z",
+      "matchday": 8,
+      "homeTeamName": "Krasnodar",
+      "awayTeamName": "FK Rostov",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-09-15T12:15:00Z",
+      "matchday": 8,
+      "homeTeamName": "Dynamo Moscow",
+      "awayTeamName": "Akhmat Grozny",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-09-15T14:30:00Z",
+      "matchday": 8,
+      "homeTeamName": "Akron Togliatti",
+      "awayTeamName": "Khimki",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-09-15T17:00:00Z",
+      "matchday": 8,
+      "homeTeamName": "Dynamo Makhachkala",
+      "awayTeamName": "Spartak Moscow",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-09-21T12:00:00Z",
+      "matchday": 9,
+      "homeTeamName": "Akron Togliatti",
+      "awayTeamName": "Krasnodar",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 5
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-09-21T14:30:00Z",
+      "matchday": 9,
+      "homeTeamName": "Zenit",
+      "awayTeamName": "Fakel Voronezh",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-09-21T17:00:00Z",
+      "matchday": 9,
+      "homeTeamName": "Rubin Kazan",
+      "awayTeamName": "CSKA Moscow",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-09-22T12:15:00Z",
+      "matchday": 9,
+      "homeTeamName": "Khimki",
+      "awayTeamName": "Orenburg",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-09-22T14:30:00Z",
+      "matchday": 9,
+      "homeTeamName": "FK Rostov",
+      "awayTeamName": "Dynamo Makhachkala",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-09-22T14:30:00Z",
+      "matchday": 9,
+      "homeTeamName": "Spartak Moscow",
+      "awayTeamName": "Dynamo Moscow",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-09-22T17:00:00Z",
+      "matchday": 9,
+      "homeTeamName": "Pari NN",
+      "awayTeamName": "Lokomotiv Moscow",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-09-23T16:30:00Z",
+      "matchday": 9,
+      "homeTeamName": "Akhmat Grozny",
+      "awayTeamName": "Krylya Sovetov",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-09-27T14:30:00Z",
+      "matchday": 10,
+      "homeTeamName": "Orenburg",
+      "awayTeamName": "Pari NN",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-09-27T17:00:00Z",
+      "matchday": 10,
+      "homeTeamName": "Fakel Voronezh",
+      "awayTeamName": "Rubin Kazan",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-09-28T12:00:00Z",
+      "matchday": 10,
+      "homeTeamName": "CSKA Moscow",
+      "awayTeamName": "Akhmat Grozny",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-09-28T14:30:00Z",
+      "matchday": 10,
+      "homeTeamName": "Lokomotiv Moscow",
+      "awayTeamName": "Spartak Moscow",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-09-28T17:30:00Z",
+      "matchday": 10,
+      "homeTeamName": "Krasnodar",
+      "awayTeamName": "Zenit",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-09-28T18:00:00Z",
+      "matchday": 10,
+      "homeTeamName": "FK Rostov",
+      "awayTeamName": "Akron Togliatti",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-09-29T14:30:00Z",
+      "matchday": 10,
+      "homeTeamName": "Krylya Sovetov",
+      "awayTeamName": "Khimki",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-09-29T17:00:00Z",
+      "matchday": 10,
+      "homeTeamName": "Dynamo Makhachkala",
+      "awayTeamName": "Dynamo Moscow",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-10-05T12:00:00Z",
+      "matchday": 11,
+      "homeTeamName": "Akron Togliatti",
+      "awayTeamName": "Pari NN",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-10-05T14:30:00Z",
+      "matchday": 11,
+      "homeTeamName": "Zenit",
+      "awayTeamName": "Orenburg",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-10-05T17:00:00Z",
+      "matchday": 11,
+      "homeTeamName": "Rubin Kazan",
+      "awayTeamName": "Akhmat Grozny",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-10-05T17:00:00Z",
+      "matchday": 11,
+      "homeTeamName": "Spartak Moscow",
+      "awayTeamName": "FK Rostov",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-10-06T12:00:00Z",
+      "matchday": 11,
+      "homeTeamName": "Fakel Voronezh",
+      "awayTeamName": "Dynamo Makhachkala",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-10-06T14:30:00Z",
+      "matchday": 11,
+      "homeTeamName": "Lokomotiv Moscow",
+      "awayTeamName": "Krylya Sovetov",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-10-06T17:00:00Z",
+      "matchday": 11,
+      "homeTeamName": "Dynamo Moscow",
+      "awayTeamName": "CSKA Moscow",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-10-06T17:00:00Z",
+      "matchday": 11,
+      "homeTeamName": "Krasnodar",
+      "awayTeamName": "Khimki",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-10-18T16:00:00Z",
+      "matchday": 12,
+      "homeTeamName": "Akron Togliatti",
+      "awayTeamName": "Zenit",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 5
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-10-18T18:15:00Z",
+      "matchday": 12,
+      "homeTeamName": "Akhmat Grozny",
+      "awayTeamName": "Fakel Voronezh",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-10-19T12:00:00Z",
+      "matchday": 12,
+      "homeTeamName": "Pari NN",
+      "awayTeamName": "FK Rostov",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-10-19T14:30:00Z",
+      "matchday": 12,
+      "homeTeamName": "Khimki",
+      "awayTeamName": "Lokomotiv Moscow",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-10-19T14:30:00Z",
+      "matchday": 12,
+      "homeTeamName": "Spartak Moscow",
+      "awayTeamName": "Krasnodar",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-10-19T17:00:00Z",
+      "matchday": 12,
+      "homeTeamName": "Dynamo Makhachkala",
+      "awayTeamName": "CSKA Moscow",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-10-20T14:30:00Z",
+      "matchday": 12,
+      "homeTeamName": "Orenburg",
+      "awayTeamName": "Krylya Sovetov",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-10-20T17:00:00Z",
+      "matchday": 12,
+      "homeTeamName": "Rubin Kazan",
+      "awayTeamName": "Dynamo Moscow",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 4
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-10-26T12:00:00Z",
+      "matchday": 13,
+      "homeTeamName": "Dynamo Makhachkala",
+      "awayTeamName": "Akron Togliatti",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-10-26T14:30:00Z",
+      "matchday": 13,
+      "homeTeamName": "CSKA Moscow",
+      "awayTeamName": "Fakel Voronezh",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-10-26T17:00:00Z",
+      "matchday": 13,
+      "homeTeamName": "FK Rostov",
+      "awayTeamName": "Akhmat Grozny",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-10-27T09:00:00Z",
+      "matchday": 13,
+      "homeTeamName": "Orenburg",
+      "awayTeamName": "Rubin Kazan",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-10-27T11:15:00Z",
+      "matchday": 13,
+      "homeTeamName": "Pari NN",
+      "awayTeamName": "Spartak Moscow",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-10-27T13:30:00Z",
+      "matchday": 13,
+      "homeTeamName": "Khimki",
+      "awayTeamName": "Dynamo Moscow",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 4
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-10-27T16:30:00Z",
+      "matchday": 13,
+      "homeTeamName": "Zenit",
+      "awayTeamName": "Lokomotiv Moscow",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-10-28T15:30:00Z",
+      "matchday": 13,
+      "homeTeamName": "Krylya Sovetov",
+      "awayTeamName": "Krasnodar",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-11-01T16:00:00Z",
+      "matchday": 14,
+      "homeTeamName": "Dynamo Moscow",
+      "awayTeamName": "FK Rostov",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-11-02T15:00:00Z",
+      "matchday": 14,
+      "homeTeamName": "Lokomotiv Moscow",
+      "awayTeamName": "Rubin Kazan",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-11-02T15:00:00Z",
+      "matchday": 14,
+      "homeTeamName": "Zenit",
+      "awayTeamName": "Dynamo Makhachkala",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-11-02T17:45:00Z",
+      "matchday": 14,
+      "homeTeamName": "CSKA Moscow",
+      "awayTeamName": "Spartak Moscow",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-11-03T10:00:00Z",
+      "matchday": 14,
+      "homeTeamName": "Akron Togliatti",
+      "awayTeamName": "Krylya Sovetov",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-11-03T12:15:00Z",
+      "matchday": 14,
+      "homeTeamName": "Akhmat Grozny",
+      "awayTeamName": "Pari NN",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-11-03T14:30:00Z",
+      "matchday": 14,
+      "homeTeamName": "Fakel Voronezh",
+      "awayTeamName": "Khimki",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-11-03T16:45:00Z",
+      "matchday": 14,
+      "homeTeamName": "Krasnodar",
+      "awayTeamName": "Orenburg",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-11-09T11:00:00Z",
+      "matchday": 15,
+      "homeTeamName": "Lokomotiv Moscow",
+      "awayTeamName": "Fakel Voronezh",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-11-09T13:30:00Z",
+      "matchday": 15,
+      "homeTeamName": "Dynamo Makhachkala",
+      "awayTeamName": "Orenburg",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-11-09T16:00:00Z",
+      "matchday": 15,
+      "homeTeamName": "FK Rostov",
+      "awayTeamName": "Khimki",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-11-09T16:30:00Z",
+      "matchday": 15,
+      "homeTeamName": "Dynamo Moscow",
+      "awayTeamName": "Pari NN",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-11-10T10:00:00Z",
+      "matchday": 15,
+      "homeTeamName": "Krylya Sovetov",
+      "awayTeamName": "CSKA Moscow",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-11-10T12:15:00Z",
+      "matchday": 15,
+      "homeTeamName": "Spartak Moscow",
+      "awayTeamName": "Akron Togliatti",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-11-10T14:30:00Z",
+      "matchday": 15,
+      "homeTeamName": "Akhmat Grozny",
+      "awayTeamName": "Zenit",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-11-10T16:45:00Z",
+      "matchday": 15,
+      "homeTeamName": "Rubin Kazan",
+      "awayTeamName": "Krasnodar",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-11-22T16:00:00Z",
+      "matchday": 16,
+      "homeTeamName": "Rubin Kazan",
+      "awayTeamName": "Akron Togliatti",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-11-23T09:00:00Z",
+      "matchday": 16,
+      "homeTeamName": "Orenburg",
+      "awayTeamName": "Zenit",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-11-23T11:15:00Z",
+      "matchday": 16,
+      "homeTeamName": "CSKA Moscow",
+      "awayTeamName": "FK Rostov",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-11-23T13:30:00Z",
+      "matchday": 16,
+      "homeTeamName": "Khimki",
+      "awayTeamName": "Krasnodar",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-11-23T15:00:00Z",
+      "matchday": 16,
+      "homeTeamName": "Spartak Moscow",
+      "awayTeamName": "Lokomotiv Moscow",
+      "result": {
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-11-24T11:00:00Z",
+      "matchday": 16,
+      "homeTeamName": "Krylya Sovetov",
+      "awayTeamName": "Akhmat Grozny",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-11-24T13:30:00Z",
+      "matchday": 16,
+      "homeTeamName": "Fakel Voronezh",
+      "awayTeamName": "Dynamo Moscow",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-11-24T16:00:00Z",
+      "matchday": 16,
+      "homeTeamName": "Pari NN",
+      "awayTeamName": "Dynamo Makhachkala",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-11-30T11:00:00Z",
+      "matchday": 17,
+      "homeTeamName": "Akron Togliatti",
+      "awayTeamName": "Orenburg",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-11-30T13:30:00Z",
+      "matchday": 17,
+      "homeTeamName": "CSKA Moscow",
+      "awayTeamName": "Rubin Kazan",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-11-30T16:00:00Z",
+      "matchday": 17,
+      "homeTeamName": "FK Rostov",
+      "awayTeamName": "Pari NN",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-12-01T11:00:00Z",
+      "matchday": 17,
+      "homeTeamName": "Lokomotiv Moscow",
+      "awayTeamName": "Khimki",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-12-01T13:30:00Z",
+      "matchday": 17,
+      "homeTeamName": "Zenit",
+      "awayTeamName": "Krylya Sovetov",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-12-01T16:00:00Z",
+      "matchday": 17,
+      "homeTeamName": "Dynamo Makhachkala",
+      "awayTeamName": "Fakel Voronezh",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-12-01T16:30:00Z",
+      "matchday": 17,
+      "homeTeamName": "Krasnodar",
+      "awayTeamName": "Spartak Moscow",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-12-02T16:00:00Z",
+      "matchday": 17,
+      "homeTeamName": "Akhmat Grozny",
+      "awayTeamName": "Dynamo Moscow",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-12-07T11:00:00Z",
+      "matchday": 18,
+      "homeTeamName": "Spartak Moscow",
+      "awayTeamName": "Pari NN",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-12-07T13:30:00Z",
+      "matchday": 18,
+      "homeTeamName": "FK Rostov",
+      "awayTeamName": "Krylya Sovetov",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-12-07T13:30:00Z",
+      "matchday": 18,
+      "homeTeamName": "Zenit",
+      "awayTeamName": "Akron Togliatti",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-12-07T16:00:00Z",
+      "matchday": 18,
+      "homeTeamName": "Dynamo Makhachkala",
+      "awayTeamName": "Rubin Kazan",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-12-08T11:00:00Z",
+      "matchday": 18,
+      "homeTeamName": "Dynamo Moscow",
+      "awayTeamName": "Khimki",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-12-08T13:30:00Z",
+      "matchday": 18,
+      "homeTeamName": "Fakel Voronezh",
+      "awayTeamName": "CSKA Moscow",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-12-08T16:00:00Z",
+      "matchday": 18,
+      "homeTeamName": "Akhmat Grozny",
+      "awayTeamName": "Orenburg",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2024-12-08T16:30:00Z",
+      "matchday": 18,
+      "homeTeamName": "Krasnodar",
+      "awayTeamName": "Lokomotiv Moscow",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-02-28T16:00:00Z",
+      "matchday": 19,
+      "homeTeamName": "Dynamo Makhachkala",
+      "awayTeamName": "Lokomotiv Moscow",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-03-01T11:00:00Z",
+      "matchday": 19,
+      "homeTeamName": "Pari NN",
+      "awayTeamName": "Akron Togliatti",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-03-01T13:30:00Z",
+      "matchday": 19,
+      "homeTeamName": "Zenit",
+      "awayTeamName": "CSKA Moscow",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-03-01T16:00:00Z",
+      "matchday": 19,
+      "homeTeamName": "Akhmat Grozny",
+      "awayTeamName": "Rubin Kazan",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-03-01T16:30:00Z",
+      "matchday": 19,
+      "homeTeamName": "Krasnodar",
+      "awayTeamName": "Krylya Sovetov",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-03-02T11:00:00Z",
+      "matchday": 19,
+      "homeTeamName": "Khimki",
+      "awayTeamName": "Fakel Voronezh",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-03-02T13:30:00Z",
+      "matchday": 19,
+      "homeTeamName": "Spartak Moscow",
+      "awayTeamName": "Orenburg",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-03-02T16:30:00Z",
+      "matchday": 19,
+      "homeTeamName": "FK Rostov",
+      "awayTeamName": "Dynamo Moscow",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-03-07T15:00:00Z",
+      "matchday": 20,
+      "homeTeamName": "Pari NN",
+      "awayTeamName": "Krasnodar",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-03-07T17:15:00Z",
+      "matchday": 20,
+      "homeTeamName": "Lokomotiv Moscow",
+      "awayTeamName": "Akhmat Grozny",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-03-08T09:00:00Z",
+      "matchday": 20,
+      "homeTeamName": "Orenburg",
+      "awayTeamName": "FK Rostov",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-03-08T11:30:00Z",
+      "matchday": 20,
+      "homeTeamName": "Fakel Voronezh",
+      "awayTeamName": "Zenit",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-03-08T14:00:00Z",
+      "matchday": 20,
+      "homeTeamName": "CSKA Moscow",
+      "awayTeamName": "Khimki",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-03-08T16:30:00Z",
+      "matchday": 20,
+      "homeTeamName": "Dynamo Moscow",
+      "awayTeamName": "Dynamo Makhachkala",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-03-09T13:30:00Z",
+      "matchday": 20,
+      "homeTeamName": "Krylya Sovetov",
+      "awayTeamName": "Akron Togliatti",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-03-09T16:30:00Z",
+      "matchday": 20,
+      "homeTeamName": "Rubin Kazan",
+      "awayTeamName": "Spartak Moscow",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-03-15T09:00:00Z",
+      "matchday": 21,
+      "homeTeamName": "Orenburg",
+      "awayTeamName": "Fakel Voronezh",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-03-15T11:30:00Z",
+      "matchday": 21,
+      "homeTeamName": "Khimki",
+      "awayTeamName": "Akhmat Grozny",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-03-15T14:00:00Z",
+      "matchday": 21,
+      "homeTeamName": "Dynamo Makhachkala",
+      "awayTeamName": "Krylya Sovetov",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-03-15T16:30:00Z",
+      "matchday": 21,
+      "homeTeamName": "Lokomotiv Moscow",
+      "awayTeamName": "Dynamo Moscow",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-03-16T10:00:00Z",
+      "matchday": 21,
+      "homeTeamName": "Akron Togliatti",
+      "awayTeamName": "CSKA Moscow",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-03-16T12:15:00Z",
+      "matchday": 21,
+      "homeTeamName": "Rubin Kazan",
+      "awayTeamName": "Pari NN",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-03-16T14:00:00Z",
+      "matchday": 21,
+      "homeTeamName": "FK Rostov",
+      "awayTeamName": "Krasnodar",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-03-16T16:45:00Z",
+      "matchday": 21,
+      "homeTeamName": "Spartak Moscow",
+      "awayTeamName": "Zenit",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-03-28T15:30:00Z",
+      "matchday": 22,
+      "homeTeamName": "Krylya Sovetov",
+      "awayTeamName": "Lokomotiv Moscow",
+      "result": {
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-03-29T11:00:00Z",
+      "matchday": 22,
+      "homeTeamName": "Dynamo Moscow",
+      "awayTeamName": "Orenburg",
+      "result": {
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-03-29T13:30:00Z",
+      "matchday": 22,
+      "homeTeamName": "Khimki",
+      "awayTeamName": "Pari NN",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-03-29T16:30:00Z",
+      "matchday": 22,
+      "homeTeamName": "CSKA Moscow",
+      "awayTeamName": "Dynamo Makhachkala",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-03-30T12:00:00Z",
+      "matchday": 22,
+      "homeTeamName": "Krasnodar",
+      "awayTeamName": "Fakel Voronezh",
+      "result": {
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-03-30T14:30:00Z",
+      "matchday": 22,
+      "homeTeamName": "Akhmat Grozny",
+      "awayTeamName": "Spartak Moscow",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-03-30T17:30:00Z",
+      "matchday": 22,
+      "homeTeamName": "Zenit",
+      "awayTeamName": "Rubin Kazan",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-03-31T16:30:00Z",
+      "matchday": 22,
+      "homeTeamName": "Akron Togliatti",
+      "awayTeamName": "FK Rostov",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-04-04T17:00:00Z",
+      "matchday": 23,
+      "homeTeamName": "Pari NN",
+      "awayTeamName": "Orenburg",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-04-05T11:00:00Z",
+      "matchday": 23,
+      "homeTeamName": "Krylya Sovetov",
+      "awayTeamName": "Rubin Kazan",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-04-05T13:15:00Z",
+      "matchday": 23,
+      "homeTeamName": "Fakel Voronezh",
+      "awayTeamName": "Akhmat Grozny",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-04-05T15:30:00Z",
+      "matchday": 23,
+      "homeTeamName": "Lokomotiv Moscow",
+      "awayTeamName": "Zenit",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-04-05T17:45:00Z",
+      "matchday": 23,
+      "homeTeamName": "Krasnodar",
+      "awayTeamName": "Akron Togliatti",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-04-06T12:00:00Z",
+      "matchday": 23,
+      "homeTeamName": "Dynamo Makhachkala",
+      "awayTeamName": "Khimki",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-04-06T14:30:00Z",
+      "matchday": 23,
+      "homeTeamName": "FK Rostov",
+      "awayTeamName": "Spartak Moscow",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-04-06T17:30:00Z",
+      "matchday": 23,
+      "homeTeamName": "CSKA Moscow",
+      "awayTeamName": "Dynamo Moscow",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-04-11T17:30:00Z",
+      "matchday": 24,
+      "homeTeamName": "Spartak Moscow",
+      "awayTeamName": "Dynamo Makhachkala",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-04-12T10:00:00Z",
+      "matchday": 24,
+      "homeTeamName": "Orenburg",
+      "awayTeamName": "CSKA Moscow",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-04-12T12:30:00Z",
+      "matchday": 24,
+      "homeTeamName": "Pari NN",
+      "awayTeamName": "Dynamo Moscow",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-04-12T15:00:00Z",
+      "matchday": 24,
+      "homeTeamName": "Rubin Kazan",
+      "awayTeamName": "Lokomotiv Moscow",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-04-12T17:30:00Z",
+      "matchday": 24,
+      "homeTeamName": "Akhmat Grozny",
+      "awayTeamName": "FK Rostov",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-04-13T12:30:00Z",
+      "matchday": 24,
+      "homeTeamName": "Akron Togliatti",
+      "awayTeamName": "Fakel Voronezh",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-04-13T15:00:00Z",
+      "matchday": 24,
+      "homeTeamName": "Zenit",
+      "awayTeamName": "Krasnodar",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-04-13T17:30:00Z",
+      "matchday": 24,
+      "homeTeamName": "Khimki",
+      "awayTeamName": "Krylya Sovetov",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-04-19T10:00:00Z",
+      "matchday": 25,
+      "homeTeamName": "Orenburg",
+      "awayTeamName": "Dynamo Makhachkala",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-04-19T12:30:00Z",
+      "matchday": 25,
+      "homeTeamName": "Akron Togliatti",
+      "awayTeamName": "Spartak Moscow",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-04-19T15:00:00Z",
+      "matchday": 25,
+      "homeTeamName": "Lokomotiv Moscow",
+      "awayTeamName": "Pari NN",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-04-19T17:30:00Z",
+      "matchday": 25,
+      "homeTeamName": "Krasnodar",
+      "awayTeamName": "Akhmat Grozny",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-04-20T12:00:00Z",
+      "matchday": 25,
+      "homeTeamName": "Dynamo Moscow",
+      "awayTeamName": "Rubin Kazan",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-04-20T12:00:00Z",
+      "matchday": 25,
+      "homeTeamName": "Fakel Voronezh",
+      "awayTeamName": "FK Rostov",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-04-20T14:30:00Z",
+      "matchday": 25,
+      "homeTeamName": "Zenit",
+      "awayTeamName": "Khimki",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-04-20T17:30:00Z",
+      "matchday": 25,
+      "homeTeamName": "CSKA Moscow",
+      "awayTeamName": "Krylya Sovetov",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-04-25T17:30:00Z",
+      "matchday": 26,
+      "homeTeamName": "Dynamo Makhachkala",
+      "awayTeamName": "Krasnodar",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-04-26T12:00:00Z",
+      "matchday": 26,
+      "homeTeamName": "Dynamo Moscow",
+      "awayTeamName": "Zenit",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-04-26T12:00:00Z",
+      "matchday": 26,
+      "homeTeamName": "Pari NN",
+      "awayTeamName": "Akhmat Grozny",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-04-26T14:30:00Z",
+      "matchday": 26,
+      "homeTeamName": "FK Rostov",
+      "awayTeamName": "Lokomotiv Moscow",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-04-26T17:30:00Z",
+      "matchday": 26,
+      "homeTeamName": "Spartak Moscow",
+      "awayTeamName": "CSKA Moscow",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-04-27T12:00:00Z",
+      "matchday": 26,
+      "homeTeamName": "Krylya Sovetov",
+      "awayTeamName": "Orenburg",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-04-27T14:30:00Z",
+      "matchday": 26,
+      "homeTeamName": "Khimki",
+      "awayTeamName": "Akron Togliatti",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-04-27T17:00:00Z",
+      "matchday": 26,
+      "homeTeamName": "Rubin Kazan",
+      "awayTeamName": "Fakel Voronezh",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-05-02T16:00:00Z",
+      "matchday": 27,
+      "homeTeamName": "Akron Togliatti",
+      "awayTeamName": "Dynamo Makhachkala",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-05-03T15:00:00Z",
+      "matchday": 27,
+      "homeTeamName": "Lokomotiv Moscow",
+      "awayTeamName": "Orenburg",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-05-03T17:30:00Z",
+      "matchday": 27,
+      "homeTeamName": "Krasnodar",
+      "awayTeamName": "Rubin Kazan",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-05-04T12:00:00Z",
+      "matchday": 27,
+      "homeTeamName": "Fakel Voronezh",
+      "awayTeamName": "Spartak Moscow",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-05-04T14:30:00Z",
+      "matchday": 27,
+      "homeTeamName": "Akhmat Grozny",
+      "awayTeamName": "CSKA Moscow",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-05-04T17:30:00Z",
+      "matchday": 27,
+      "homeTeamName": "Khimki",
+      "awayTeamName": "FK Rostov",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-05-04T17:30:00Z",
+      "matchday": 27,
+      "homeTeamName": "Zenit",
+      "awayTeamName": "Pari NN",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-05-05T16:30:00Z",
+      "matchday": 27,
+      "homeTeamName": "Krylya Sovetov",
+      "awayTeamName": "Dynamo Moscow",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-05-10T12:30:00Z",
+      "matchday": 28,
+      "homeTeamName": "Orenburg",
+      "awayTeamName": "Khimki",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-05-10T15:00:00Z",
+      "matchday": 28,
+      "homeTeamName": "Dynamo Makhachkala",
+      "awayTeamName": "Zenit",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-05-10T17:30:00Z",
+      "matchday": 28,
+      "homeTeamName": "CSKA Moscow",
+      "awayTeamName": "Krasnodar",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-05-11T12:00:00Z",
+      "matchday": 28,
+      "homeTeamName": "Akron Togliatti",
+      "awayTeamName": "Akhmat Grozny",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-05-11T14:30:00Z",
+      "matchday": 28,
+      "homeTeamName": "Fakel Voronezh",
+      "awayTeamName": "Lokomotiv Moscow",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-05-11T17:30:00Z",
+      "matchday": 28,
+      "homeTeamName": "Dynamo Moscow",
+      "awayTeamName": "Spartak Moscow",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-05-11T17:30:00Z",
+      "matchday": 28,
+      "homeTeamName": "Rubin Kazan",
+      "awayTeamName": "FK Rostov",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-05-12T17:00:00Z",
+      "matchday": 28,
+      "homeTeamName": "Pari NN",
+      "awayTeamName": "Krylya Sovetov",
+      "result": {
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 2
+      },
+      "status": "FINISHED"
+    },
+    {
+      "date": "2025-05-17T12:00:00Z",
+      "matchday": 29,
+      "homeTeamName": "Orenburg",
+      "awayTeamName": "Krasnodar",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "status": "TIMED"
+    },
+    {
+      "date": "2025-05-17T14:30:00Z",
+      "matchday": 29,
+      "homeTeamName": "Khimki",
+      "awayTeamName": "Rubin Kazan",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "status": "TIMED"
+    },
+    {
+      "date": "2025-05-17T17:00:00Z",
+      "matchday": 29,
+      "homeTeamName": "Pari NN",
+      "awayTeamName": "Fakel Voronezh",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "status": "TIMED"
+    },
+    {
+      "date": "2025-05-18T11:30:00Z",
+      "matchday": 29,
+      "homeTeamName": "Krylya Sovetov",
+      "awayTeamName": "Spartak Moscow",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "status": "TIMED"
+    },
+    {
+      "date": "2025-05-18T12:00:00Z",
+      "matchday": 29,
+      "homeTeamName": "Akhmat Grozny",
+      "awayTeamName": "Dynamo Makhachkala",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "status": "TIMED"
+    },
+    {
+      "date": "2025-05-18T14:30:00Z",
+      "matchday": 29,
+      "homeTeamName": "Dynamo Moscow",
+      "awayTeamName": "Akron Togliatti",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "status": "TIMED"
+    },
+    {
+      "date": "2025-05-18T17:00:00Z",
+      "matchday": 29,
+      "homeTeamName": "FK Rostov",
+      "awayTeamName": "Zenit",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "status": "TIMED"
+    },
+    {
+      "date": "2025-05-19T18:30:00Z",
+      "matchday": 29,
+      "homeTeamName": "Lokomotiv Moscow",
+      "awayTeamName": "CSKA Moscow",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "status": "TIMED"
+    },
+    {
+      "date": "2025-05-24T14:30:00Z",
+      "matchday": 30,
+      "homeTeamName": "Zenit",
+      "awayTeamName": "Akhmat Grozny",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "status": "TIMED"
+    },
+    {
+      "date": "2025-05-24T14:30:00Z",
+      "matchday": 30,
+      "homeTeamName": "Spartak Moscow",
+      "awayTeamName": "Khimki",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "status": "TIMED"
+    },
+    {
+      "date": "2025-05-24T14:30:00Z",
+      "matchday": 30,
+      "homeTeamName": "Krasnodar",
+      "awayTeamName": "Dynamo Moscow",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "status": "TIMED"
+    },
+    {
+      "date": "2025-05-24T14:30:00Z",
+      "matchday": 30,
+      "homeTeamName": "CSKA Moscow",
+      "awayTeamName": "Pari NN",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "status": "TIMED"
+    },
+    {
+      "date": "2025-05-24T14:30:00Z",
+      "matchday": 30,
+      "homeTeamName": "Fakel Voronezh",
+      "awayTeamName": "Krylya Sovetov",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "status": "TIMED"
+    },
+    {
+      "date": "2025-05-24T14:30:00Z",
+      "matchday": 30,
+      "homeTeamName": "Rubin Kazan",
+      "awayTeamName": "Orenburg",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "status": "TIMED"
+    },
+    {
+      "date": "2025-05-24T14:30:00Z",
+      "matchday": 30,
+      "homeTeamName": "Dynamo Makhachkala",
+      "awayTeamName": "FK Rostov",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "status": "TIMED"
+    },
+    {
+      "date": "2025-05-24T14:30:00Z",
+      "matchday": 30,
+      "homeTeamName": "Akron Togliatti",
+      "awayTeamName": "Lokomotiv Moscow",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "status": "TIMED"
+    }
+  ]
+}
