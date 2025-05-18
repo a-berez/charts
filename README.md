@@ -14,6 +14,8 @@
 
 - [Финал Лиги вузов 2025](https://a-berez.github.io/charts/lv25)
 
+- [СЧРБ 2025](https://a-berez.github.io/charts/schrb25)
+
 - [Нехрустальная сова 2025 и зеркала](https://a-berez.github.io/charts/nesova25)
 
 ## Другое
