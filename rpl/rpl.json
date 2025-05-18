@@ -2503,10 +2503,10 @@
       "homeTeamName": "Krylya Sovetov",
       "awayTeamName": "Spartak Moscow",
       "result": {
-        "goalsHomeTeam": null,
-        "goalsAwayTeam": null
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
       },
-      "status": "TIMED"
+      "status": "FINISHED"
     },
     {
       "date": "2025-05-18T12:00:00Z",
@@ -2514,10 +2514,10 @@
       "homeTeamName": "Akhmat Grozny",
       "awayTeamName": "Dynamo Makhachkala",
       "result": {
-        "goalsHomeTeam": null,
-        "goalsAwayTeam": null
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
       },
-      "status": "TIMED"
+      "status": "FINISHED"
     },
     {
       "date": "2025-05-18T14:30:00Z",

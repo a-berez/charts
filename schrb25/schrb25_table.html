@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>Студенческий чемпионат Беларуси</title>
+
+		<!-- Подключаем шрифт Noto Sans с Google Fonts -->
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet" />
+
+		<!-- Подключаем D3.js -->
+		<script type="text/javascript" src="https://d3js.org/d3.v4.min.js"></script>
+
+		<!-- Подключаем Replay Table -->
+		<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/replay-table/dist/replay-table.min.js"></script>
+
+		<!-- Подключаем стили -->
+		<link rel="stylesheet" type="text/css" href="/charts/schrb25/chart_generator_style.css" />
+		<link rel="icon" type="image/png" href="/charts/favicon/favicon-96x96.png" sizes="96x96" />
+		<link rel="icon" type="image/svg+xml" href="/charts/favicon/favicon.svg" />
+		<link rel="shortcut icon" href="/charts/favicon/favicon.ico" />
+		<link rel="apple-touch-icon" sizes="180x180" href="/charts/favicon/apple-touch-icon.png" />
+		<link rel="manifest" href="/charts/favicon/site.webmanifest" />
+	</head>
+	<body>
+		<div class="container">
+			<h1>Студенческий чемпионат Беларуси</h1>
+
+			<div class="tournament-info">
+				<p>Следите за изменением положения команд после каждого вопроса</p>
+				<p>Интерактивный график можно посмотреть <a href="schrb25_chart.html">тут</a></p>
+			</div>
+
+			<div class="content">
+				<div class="replayTable" id="chgk-table" data-source="schrb25.csv" data-preset="chgk"></div>
+			</div>
+
+			<footer>
+				<p>Сгенерировано с помощью <a href="https://github.com/a-berez/games_features/tree/main/chart_generator" target="_blank">chart_generator</a></p>
+				<p>ID турнира: <a href="https://rating.chgk.info/tournament/11207" target="_blank">11207</a></p>
+				<p>Создано с помощью библиотеки <a href="https://github.com/antoniokov/replay-table">Replay Table</a> by <a href="https://github.com/antoniokov/">antoniokov</a></p>
+			</footer>
+		</div>
+		<div class="flag-links">
+			<h3>Дополнительные графики по флагам:</h3>
+			<ul>
+				<li>Студенческие команды: <a href="/charts/schrb25/schrb25_stud_chart.html" target="_blank">график</a>, <a href="/charts/schrb25/schrb25_stud_table.html" target="_blank">таблица</a></li>
+			</ul>
+		</div>
+		<!-- Подключаем скрипты -->
+		<script type="text/javascript" src="/charts/schrb25/chart_generator_scripts.js"></script>
+	</body>
+</html>
