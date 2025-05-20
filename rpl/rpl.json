@@ -2547,10 +2547,10 @@
       "homeTeamName": "Lokomotiv Moscow",
       "awayTeamName": "CSKA Moscow",
       "result": {
-        "goalsHomeTeam": null,
-        "goalsAwayTeam": null
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
       },
-      "status": "TIMED"
+      "status": "FINISHED"
     },
     {
       "date": "2025-05-24T14:30:00Z",
