@@ -6,6 +6,8 @@
 
 - [Весна в ЛЭТИ](https://a-berez.github.io/charts/vvl25)
 
+- [ЧРБ 2025](https://a-berez.github.io/charts/chrb25)
+
 - [ДЧР 2025](https://a-berez.github.io/charts/dchr25)
 
 - [СтудЧР 2025](https://a-berez.github.io/charts/studchr25)
@@ -17,6 +19,12 @@
 - [СЧРБ 2025](https://a-berez.github.io/charts/schrb25)
 
 - [Нехрустальная сова 2025 и зеркала](https://a-berez.github.io/charts/nesova25)
+
+- [Боровские муралы 2025](https://a-berez.github.io/charts/borovsk25)
+
+## Бонус
+
+- [РПЛ 2024/25](https://a-berez.github.io/charts/rpl)
 
 ## Другое
 

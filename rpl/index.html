@@ -51,6 +51,7 @@
   <body>
     <div class="container">
       <h1>Таблица Российской Премьер-Лиги</h1>
+	  <p>Порядок мест при равенстве очков может не соответствовать реальному</p>
 
       <!-- Replay Table для РПЛ -->
       <div class="replayTable" id="replay-russian-premier-league" data-source="rpl.json" data-format="football-data.org" data-order-by="points,goalsDifference,goalsFor" data-visualizer="sparklines"></div>
@@ -61,7 +62,8 @@
     </div>
 
     <footer>
-      <p>Данные Российской Премьер-Лиги. Визуализация с помощью Replay Table.</p>
+      <p>Данные <a href="https://premierliga.ru" target="_blank">Российской Премьер-Лиги</a></p>
+	  <p>Визуализация с помощью <a href="https://github.com/antoniokov/replay-table" target="_blank">Replay Table</a>.</p>
     </footer>
   </body>
 </html>
