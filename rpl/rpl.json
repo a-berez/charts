@@ -2558,10 +2558,10 @@
       "homeTeamName": "Zenit",
       "awayTeamName": "Akhmat Grozny",
       "result": {
-        "goalsHomeTeam": null,
-        "goalsAwayTeam": null
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
       },
-      "status": "TIMED"
+      "status": "FINISHED"
     },
     {
       "date": "2025-05-24T14:30:00Z",
@@ -2569,10 +2569,10 @@
       "homeTeamName": "Spartak Moscow",
       "awayTeamName": "Khimki",
       "result": {
-        "goalsHomeTeam": null,
-        "goalsAwayTeam": null
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 0
       },
-      "status": "TIMED"
+      "status": "FINISHED"
     },
     {
       "date": "2025-05-24T14:30:00Z",
@@ -2580,10 +2580,10 @@
       "homeTeamName": "Krasnodar",
       "awayTeamName": "Dynamo Moscow",
       "result": {
-        "goalsHomeTeam": null,
-        "goalsAwayTeam": null
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
       },
-      "status": "TIMED"
+      "status": "FINISHED"
     },
     {
       "date": "2025-05-24T14:30:00Z",
@@ -2591,10 +2591,10 @@
       "homeTeamName": "CSKA Moscow",
       "awayTeamName": "Pari NN",
       "result": {
-        "goalsHomeTeam": null,
-        "goalsAwayTeam": null
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
       },
-      "status": "TIMED"
+      "status": "FINISHED"
     },
     {
       "date": "2025-05-24T14:30:00Z",
@@ -2602,10 +2602,10 @@
       "homeTeamName": "Fakel Voronezh",
       "awayTeamName": "Krylya Sovetov",
       "result": {
-        "goalsHomeTeam": null,
-        "goalsAwayTeam": null
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
       },
-      "status": "TIMED"
+      "status": "FINISHED"
     },
     {
       "date": "2025-05-24T14:30:00Z",
@@ -2613,10 +2613,10 @@
       "homeTeamName": "Rubin Kazan",
       "awayTeamName": "Orenburg",
       "result": {
-        "goalsHomeTeam": null,
-        "goalsAwayTeam": null
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 2
       },
-      "status": "TIMED"
+      "status": "FINISHED"
     },
     {
       "date": "2025-05-24T14:30:00Z",
@@ -2624,10 +2624,10 @@
       "homeTeamName": "Dynamo Makhachkala",
       "awayTeamName": "FK Rostov",
       "result": {
-        "goalsHomeTeam": null,
-        "goalsAwayTeam": null
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
       },
-      "status": "TIMED"
+      "status": "FINISHED"
     },
     {
       "date": "2025-05-24T14:30:00Z",
@@ -2635,10 +2635,10 @@
       "homeTeamName": "Akron Togliatti",
       "awayTeamName": "Lokomotiv Moscow",
       "result": {
-        "goalsHomeTeam": null,
-        "goalsAwayTeam": null
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
       },
-      "status": "TIMED"
+      "status": "FINISHED"
     }
   ]
 }
