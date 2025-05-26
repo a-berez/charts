@@ -1,924 +1,924 @@
 {
   "fixtures": [
     {
-      "date": "2024-08-17T17:30:00Z",
+      "date": "2024-08-17T16:30:00Z",
       "status": "FINISHED",
       "matchday": 1,
-      "homeTeamName": "Genoa",
-      "awayTeamName": "Inter",
+      "homeTeamName": "Genoa CFC",
+      "awayTeamName": "FC Internazionale Milano",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2024-08-17T17:30:00Z",
+      "date": "2024-08-17T16:30:00Z",
       "status": "FINISHED",
       "matchday": 1,
-      "homeTeamName": "Parma",
-      "awayTeamName": "Fiorentina",
+      "homeTeamName": "Parma Calcio 1913",
+      "awayTeamName": "ACF Fiorentina",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2024-08-17T19:45:00Z",
+      "date": "2024-08-17T18:45:00Z",
       "status": "FINISHED",
       "matchday": 1,
-      "homeTeamName": "Empoli",
-      "awayTeamName": "Monza",
+      "homeTeamName": "Empoli FC",
+      "awayTeamName": "AC Monza",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2024-08-17T19:45:00Z",
+      "date": "2024-08-17T18:45:00Z",
       "status": "FINISHED",
       "matchday": 1,
-      "homeTeamName": "Milan",
-      "awayTeamName": "Torino",
+      "homeTeamName": "AC Milan",
+      "awayTeamName": "Torino FC",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2024-08-18T17:30:00Z",
+      "date": "2024-08-18T16:30:00Z",
       "status": "FINISHED",
       "matchday": 1,
-      "homeTeamName": "Bologna",
-      "awayTeamName": "Udinese",
+      "homeTeamName": "Bologna FC 1909",
+      "awayTeamName": "Udinese Calcio",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2024-08-18T17:30:00Z",
+      "date": "2024-08-18T16:30:00Z",
       "status": "FINISHED",
       "matchday": 1,
-      "homeTeamName": "Verona",
-      "awayTeamName": "Napoli",
+      "homeTeamName": "Hellas Verona FC",
+      "awayTeamName": "SSC Napoli",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2024-08-18T19:45:00Z",
+      "date": "2024-08-18T18:45:00Z",
       "status": "FINISHED",
       "matchday": 1,
-      "homeTeamName": "Cagliari",
-      "awayTeamName": "Roma",
+      "homeTeamName": "Cagliari Calcio",
+      "awayTeamName": "AS Roma",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2024-08-18T19:45:00Z",
+      "date": "2024-08-18T18:45:00Z",
       "status": "FINISHED",
       "matchday": 1,
-      "homeTeamName": "Lazio",
-      "awayTeamName": "Venezia",
+      "homeTeamName": "SS Lazio",
+      "awayTeamName": "Venezia FC",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2024-08-19T17:30:00Z",
+      "date": "2024-08-19T16:30:00Z",
       "status": "FINISHED",
       "matchday": 1,
-      "homeTeamName": "Lecce",
-      "awayTeamName": "Atalanta",
+      "homeTeamName": "US Lecce",
+      "awayTeamName": "Atalanta BC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 4
       }
     },
     {
-      "date": "2024-08-19T19:45:00Z",
+      "date": "2024-08-19T18:45:00Z",
       "status": "FINISHED",
       "matchday": 1,
-      "homeTeamName": "Juventus",
-      "awayTeamName": "Como",
+      "homeTeamName": "Juventus FC",
+      "awayTeamName": "Como 1907",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2024-08-24T17:30:00Z",
+      "date": "2024-08-24T16:30:00Z",
       "status": "FINISHED",
       "matchday": 2,
-      "homeTeamName": "Parma",
-      "awayTeamName": "Milan",
+      "homeTeamName": "Parma Calcio 1913",
+      "awayTeamName": "AC Milan",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2024-08-24T17:30:00Z",
+      "date": "2024-08-24T16:30:00Z",
       "status": "FINISHED",
       "matchday": 2,
-      "homeTeamName": "Udinese",
-      "awayTeamName": "Lazio",
+      "homeTeamName": "Udinese Calcio",
+      "awayTeamName": "SS Lazio",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2024-08-24T19:45:00Z",
+      "date": "2024-08-24T18:45:00Z",
       "status": "FINISHED",
       "matchday": 2,
-      "homeTeamName": "Inter",
-      "awayTeamName": "Lecce",
+      "homeTeamName": "FC Internazionale Milano",
+      "awayTeamName": "US Lecce",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2024-08-24T19:45:00Z",
+      "date": "2024-08-24T18:45:00Z",
       "status": "FINISHED",
       "matchday": 2,
-      "homeTeamName": "Monza",
-      "awayTeamName": "Genoa",
+      "homeTeamName": "AC Monza",
+      "awayTeamName": "Genoa CFC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2024-08-25T17:30:00Z",
+      "date": "2024-08-25T16:30:00Z",
       "status": "FINISHED",
       "matchday": 2,
-      "homeTeamName": "Fiorentina",
-      "awayTeamName": "Venezia",
+      "homeTeamName": "ACF Fiorentina",
+      "awayTeamName": "Venezia FC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2024-08-25T17:30:00Z",
+      "date": "2024-08-25T16:30:00Z",
       "status": "FINISHED",
       "matchday": 2,
-      "homeTeamName": "Torino",
-      "awayTeamName": "Atalanta",
+      "homeTeamName": "Torino FC",
+      "awayTeamName": "Atalanta BC",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2024-08-25T19:45:00Z",
+      "date": "2024-08-25T18:45:00Z",
       "status": "FINISHED",
       "matchday": 2,
-      "homeTeamName": "Napoli",
-      "awayTeamName": "Bologna",
+      "homeTeamName": "SSC Napoli",
+      "awayTeamName": "Bologna FC 1909",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2024-08-25T19:45:00Z",
+      "date": "2024-08-25T18:45:00Z",
       "status": "FINISHED",
       "matchday": 2,
-      "homeTeamName": "Roma",
-      "awayTeamName": "Empoli",
+      "homeTeamName": "AS Roma",
+      "awayTeamName": "Empoli FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2024-08-26T17:30:00Z",
+      "date": "2024-08-26T16:30:00Z",
       "status": "FINISHED",
       "matchday": 2,
-      "homeTeamName": "Cagliari",
-      "awayTeamName": "Como",
+      "homeTeamName": "Cagliari Calcio",
+      "awayTeamName": "Como 1907",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2024-08-26T19:45:00Z",
+      "date": "2024-08-26T18:45:00Z",
       "status": "FINISHED",
       "matchday": 2,
-      "homeTeamName": "Verona",
-      "awayTeamName": "Juventus",
+      "homeTeamName": "Hellas Verona FC",
+      "awayTeamName": "Juventus FC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 3
       }
     },
     {
-      "date": "2024-08-30T17:30:00Z",
+      "date": "2024-08-30T16:30:00Z",
       "status": "FINISHED",
       "matchday": 3,
-      "homeTeamName": "Venezia",
-      "awayTeamName": "Torino",
+      "homeTeamName": "Venezia FC",
+      "awayTeamName": "Torino FC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2024-08-30T19:45:00Z",
+      "date": "2024-08-30T18:45:00Z",
       "status": "FINISHED",
       "matchday": 3,
-      "homeTeamName": "Inter",
-      "awayTeamName": "Atalanta",
+      "homeTeamName": "FC Internazionale Milano",
+      "awayTeamName": "Atalanta BC",
       "result": {
         "goalsHomeTeam": 4,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2024-08-31T17:30:00Z",
+      "date": "2024-08-31T16:30:00Z",
       "status": "FINISHED",
       "matchday": 3,
-      "homeTeamName": "Bologna",
-      "awayTeamName": "Empoli",
+      "homeTeamName": "Bologna FC 1909",
+      "awayTeamName": "Empoli FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2024-08-31T17:30:00Z",
+      "date": "2024-08-31T16:30:00Z",
       "status": "FINISHED",
       "matchday": 3,
-      "homeTeamName": "Lecce",
-      "awayTeamName": "Cagliari",
+      "homeTeamName": "US Lecce",
+      "awayTeamName": "Cagliari Calcio",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2024-08-31T19:45:00Z",
+      "date": "2024-08-31T18:45:00Z",
       "status": "FINISHED",
       "matchday": 3,
-      "homeTeamName": "Lazio",
-      "awayTeamName": "Milan",
+      "homeTeamName": "SS Lazio",
+      "awayTeamName": "AC Milan",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2024-08-31T19:45:00Z",
+      "date": "2024-08-31T18:45:00Z",
       "status": "FINISHED",
       "matchday": 3,
-      "homeTeamName": "Napoli",
-      "awayTeamName": "Parma",
+      "homeTeamName": "SSC Napoli",
+      "awayTeamName": "Parma Calcio 1913",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2024-09-01T17:30:00Z",
+      "date": "2024-09-01T16:30:00Z",
       "status": "FINISHED",
       "matchday": 3,
-      "homeTeamName": "Fiorentina",
-      "awayTeamName": "Monza",
+      "homeTeamName": "ACF Fiorentina",
+      "awayTeamName": "AC Monza",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2024-09-01T17:30:00Z",
+      "date": "2024-09-01T16:30:00Z",
       "status": "FINISHED",
       "matchday": 3,
-      "homeTeamName": "Genoa",
-      "awayTeamName": "Verona",
+      "homeTeamName": "Genoa CFC",
+      "awayTeamName": "Hellas Verona FC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2024-09-01T19:45:00Z",
+      "date": "2024-09-01T18:45:00Z",
       "status": "FINISHED",
       "matchday": 3,
-      "homeTeamName": "Juventus",
-      "awayTeamName": "Roma",
+      "homeTeamName": "Juventus FC",
+      "awayTeamName": "AS Roma",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2024-09-01T19:45:00Z",
+      "date": "2024-09-01T18:45:00Z",
       "status": "FINISHED",
       "matchday": 3,
-      "homeTeamName": "Udinese",
-      "awayTeamName": "Como",
+      "homeTeamName": "Udinese Calcio",
+      "awayTeamName": "Como 1907",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2024-09-14T14:00:00Z",
+      "date": "2024-09-14T13:00:00Z",
       "status": "FINISHED",
       "matchday": 4,
-      "homeTeamName": "Como",
-      "awayTeamName": "Bologna",
+      "homeTeamName": "Como 1907",
+      "awayTeamName": "Bologna FC 1909",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2024-09-14T17:00:00Z",
+      "date": "2024-09-14T16:00:00Z",
       "status": "FINISHED",
       "matchday": 4,
-      "homeTeamName": "Empoli",
-      "awayTeamName": "Juventus",
+      "homeTeamName": "Empoli FC",
+      "awayTeamName": "Juventus FC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2024-09-14T19:45:00Z",
+      "date": "2024-09-14T18:45:00Z",
       "status": "FINISHED",
       "matchday": 4,
-      "homeTeamName": "Milan",
-      "awayTeamName": "Venezia",
+      "homeTeamName": "AC Milan",
+      "awayTeamName": "Venezia FC",
       "result": {
         "goalsHomeTeam": 4,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2024-09-15T11:30:00Z",
+      "date": "2024-09-15T10:30:00Z",
       "status": "FINISHED",
       "matchday": 4,
-      "homeTeamName": "Genoa",
-      "awayTeamName": "Roma",
+      "homeTeamName": "Genoa CFC",
+      "awayTeamName": "AS Roma",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2024-09-15T14:00:00Z",
+      "date": "2024-09-15T13:00:00Z",
       "status": "FINISHED",
       "matchday": 4,
-      "homeTeamName": "Atalanta",
-      "awayTeamName": "Fiorentina",
+      "homeTeamName": "Atalanta BC",
+      "awayTeamName": "ACF Fiorentina",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2024-09-15T14:00:00Z",
+      "date": "2024-09-15T13:00:00Z",
       "status": "FINISHED",
       "matchday": 4,
-      "homeTeamName": "Torino",
-      "awayTeamName": "Lecce",
+      "homeTeamName": "Torino FC",
+      "awayTeamName": "US Lecce",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2024-09-15T17:00:00Z",
+      "date": "2024-09-15T16:00:00Z",
       "status": "FINISHED",
       "matchday": 4,
-      "homeTeamName": "Cagliari",
-      "awayTeamName": "Napoli",
+      "homeTeamName": "Cagliari Calcio",
+      "awayTeamName": "SSC Napoli",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 4
       }
     },
     {
-      "date": "2024-09-15T19:45:00Z",
+      "date": "2024-09-15T18:45:00Z",
       "status": "FINISHED",
       "matchday": 4,
-      "homeTeamName": "Monza",
-      "awayTeamName": "Inter",
+      "homeTeamName": "AC Monza",
+      "awayTeamName": "FC Internazionale Milano",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2024-09-16T17:30:00Z",
+      "date": "2024-09-16T16:30:00Z",
       "status": "FINISHED",
       "matchday": 4,
-      "homeTeamName": "Parma",
-      "awayTeamName": "Udinese",
+      "homeTeamName": "Parma Calcio 1913",
+      "awayTeamName": "Udinese Calcio",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 3
       }
     },
     {
-      "date": "2024-09-16T19:45:00Z",
+      "date": "2024-09-16T18:45:00Z",
       "status": "FINISHED",
       "matchday": 4,
-      "homeTeamName": "Lazio",
-      "awayTeamName": "Verona",
+      "homeTeamName": "SS Lazio",
+      "awayTeamName": "Hellas Verona FC",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2024-09-20T17:30:00Z",
+      "date": "2024-09-20T16:30:00Z",
       "status": "FINISHED",
       "matchday": 5,
-      "homeTeamName": "Cagliari",
-      "awayTeamName": "Empoli",
+      "homeTeamName": "Cagliari Calcio",
+      "awayTeamName": "Empoli FC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2024-09-20T19:45:00Z",
+      "date": "2024-09-20T18:45:00Z",
       "status": "FINISHED",
       "matchday": 5,
-      "homeTeamName": "Verona",
-      "awayTeamName": "Torino",
+      "homeTeamName": "Hellas Verona FC",
+      "awayTeamName": "Torino FC",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 3
       }
     },
     {
-      "date": "2024-09-21T14:00:00Z",
+      "date": "2024-09-21T13:00:00Z",
       "status": "FINISHED",
       "matchday": 5,
-      "homeTeamName": "Venezia",
-      "awayTeamName": "Genoa",
+      "homeTeamName": "Venezia FC",
+      "awayTeamName": "Genoa CFC",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2024-09-21T17:00:00Z",
+      "date": "2024-09-21T16:00:00Z",
       "status": "FINISHED",
       "matchday": 5,
-      "homeTeamName": "Juventus",
-      "awayTeamName": "Napoli",
+      "homeTeamName": "Juventus FC",
+      "awayTeamName": "SSC Napoli",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2024-09-21T19:45:00Z",
+      "date": "2024-09-21T18:45:00Z",
       "status": "FINISHED",
       "matchday": 5,
-      "homeTeamName": "Lecce",
-      "awayTeamName": "Parma",
+      "homeTeamName": "US Lecce",
+      "awayTeamName": "Parma Calcio 1913",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2024-09-22T11:30:00Z",
+      "date": "2024-09-22T10:30:00Z",
       "status": "FINISHED",
       "matchday": 5,
-      "homeTeamName": "Fiorentina",
-      "awayTeamName": "Lazio",
+      "homeTeamName": "ACF Fiorentina",
+      "awayTeamName": "SS Lazio",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2024-09-22T14:00:00Z",
+      "date": "2024-09-22T13:00:00Z",
       "status": "FINISHED",
       "matchday": 5,
-      "homeTeamName": "Monza",
-      "awayTeamName": "Bologna",
+      "homeTeamName": "AC Monza",
+      "awayTeamName": "Bologna FC 1909",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2024-09-22T17:00:00Z",
+      "date": "2024-09-22T16:00:00Z",
       "status": "FINISHED",
       "matchday": 5,
-      "homeTeamName": "Roma",
-      "awayTeamName": "Udinese",
+      "homeTeamName": "AS Roma",
+      "awayTeamName": "Udinese Calcio",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2024-09-22T19:45:00Z",
+      "date": "2024-09-22T18:45:00Z",
       "status": "FINISHED",
       "matchday": 5,
-      "homeTeamName": "Inter",
-      "awayTeamName": "Milan",
+      "homeTeamName": "FC Internazionale Milano",
+      "awayTeamName": "AC Milan",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2024-09-24T19:45:00Z",
+      "date": "2024-09-24T18:45:00Z",
       "status": "FINISHED",
       "matchday": 5,
-      "homeTeamName": "Atalanta",
-      "awayTeamName": "Como",
+      "homeTeamName": "Atalanta BC",
+      "awayTeamName": "Como 1907",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 3
       }
     },
     {
-      "date": "2024-09-27T19:45:00Z",
+      "date": "2024-09-27T18:45:00Z",
       "status": "FINISHED",
       "matchday": 6,
-      "homeTeamName": "Milan",
-      "awayTeamName": "Lecce",
+      "homeTeamName": "AC Milan",
+      "awayTeamName": "US Lecce",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2024-09-28T14:00:00Z",
+      "date": "2024-09-28T13:00:00Z",
       "status": "FINISHED",
       "matchday": 6,
-      "homeTeamName": "Udinese",
-      "awayTeamName": "Inter",
+      "homeTeamName": "Udinese Calcio",
+      "awayTeamName": "FC Internazionale Milano",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 3
       }
     },
     {
-      "date": "2024-09-28T17:00:00Z",
+      "date": "2024-09-28T16:00:00Z",
       "status": "FINISHED",
       "matchday": 6,
-      "homeTeamName": "Genoa",
-      "awayTeamName": "Juventus",
+      "homeTeamName": "Genoa CFC",
+      "awayTeamName": "Juventus FC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 3
       }
     },
     {
-      "date": "2024-09-28T19:45:00Z",
+      "date": "2024-09-28T18:45:00Z",
       "status": "FINISHED",
       "matchday": 6,
-      "homeTeamName": "Bologna",
-      "awayTeamName": "Atalanta",
+      "homeTeamName": "Bologna FC 1909",
+      "awayTeamName": "Atalanta BC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2024-09-29T11:30:00Z",
+      "date": "2024-09-29T10:30:00Z",
       "status": "FINISHED",
       "matchday": 6,
-      "homeTeamName": "Torino",
-      "awayTeamName": "Lazio",
+      "homeTeamName": "Torino FC",
+      "awayTeamName": "SS Lazio",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 3
       }
     },
     {
-      "date": "2024-09-29T14:00:00Z",
+      "date": "2024-09-29T13:00:00Z",
       "status": "FINISHED",
       "matchday": 6,
-      "homeTeamName": "Como",
-      "awayTeamName": "Verona",
+      "homeTeamName": "Como 1907",
+      "awayTeamName": "Hellas Verona FC",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2024-09-29T14:00:00Z",
+      "date": "2024-09-29T13:00:00Z",
       "status": "FINISHED",
       "matchday": 6,
-      "homeTeamName": "Roma",
-      "awayTeamName": "Venezia",
+      "homeTeamName": "AS Roma",
+      "awayTeamName": "Venezia FC",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2024-09-29T17:00:00Z",
+      "date": "2024-09-29T16:00:00Z",
       "status": "FINISHED",
       "matchday": 6,
-      "homeTeamName": "Empoli",
-      "awayTeamName": "Fiorentina",
+      "homeTeamName": "Empoli FC",
+      "awayTeamName": "ACF Fiorentina",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2024-09-29T19:45:00Z",
+      "date": "2024-09-29T18:45:00Z",
       "status": "FINISHED",
       "matchday": 6,
-      "homeTeamName": "Napoli",
-      "awayTeamName": "Monza",
+      "homeTeamName": "SSC Napoli",
+      "awayTeamName": "AC Monza",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2024-09-30T19:45:00Z",
+      "date": "2024-09-30T18:45:00Z",
       "status": "FINISHED",
       "matchday": 6,
-      "homeTeamName": "Parma",
-      "awayTeamName": "Cagliari",
+      "homeTeamName": "Parma Calcio 1913",
+      "awayTeamName": "Cagliari Calcio",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 3
       }
     },
     {
-      "date": "2024-10-04T17:30:00Z",
+      "date": "2024-10-04T16:30:00Z",
       "status": "FINISHED",
       "matchday": 7,
-      "homeTeamName": "Napoli",
-      "awayTeamName": "Como",
+      "homeTeamName": "SSC Napoli",
+      "awayTeamName": "Como 1907",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2024-10-04T19:45:00Z",
+      "date": "2024-10-04T18:45:00Z",
       "status": "FINISHED",
       "matchday": 7,
-      "homeTeamName": "Verona",
-      "awayTeamName": "Venezia",
+      "homeTeamName": "Hellas Verona FC",
+      "awayTeamName": "Venezia FC",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2024-10-05T14:00:00Z",
+      "date": "2024-10-05T13:00:00Z",
       "status": "FINISHED",
       "matchday": 7,
-      "homeTeamName": "Udinese",
-      "awayTeamName": "Lecce",
+      "homeTeamName": "Udinese Calcio",
+      "awayTeamName": "US Lecce",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2024-10-05T17:00:00Z",
+      "date": "2024-10-05T16:00:00Z",
       "status": "FINISHED",
       "matchday": 7,
-      "homeTeamName": "Atalanta",
-      "awayTeamName": "Genoa",
+      "homeTeamName": "Atalanta BC",
+      "awayTeamName": "Genoa CFC",
       "result": {
         "goalsHomeTeam": 5,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2024-10-05T19:45:00Z",
+      "date": "2024-10-05T18:45:00Z",
       "status": "FINISHED",
       "matchday": 7,
-      "homeTeamName": "Inter",
-      "awayTeamName": "Torino",
+      "homeTeamName": "FC Internazionale Milano",
+      "awayTeamName": "Torino FC",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2024-10-06T11:30:00Z",
+      "date": "2024-10-06T10:30:00Z",
       "status": "FINISHED",
       "matchday": 7,
-      "homeTeamName": "Juventus",
-      "awayTeamName": "Cagliari",
+      "homeTeamName": "Juventus FC",
+      "awayTeamName": "Cagliari Calcio",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2024-10-06T14:00:00Z",
+      "date": "2024-10-06T13:00:00Z",
       "status": "FINISHED",
       "matchday": 7,
-      "homeTeamName": "Bologna",
-      "awayTeamName": "Parma",
+      "homeTeamName": "Bologna FC 1909",
+      "awayTeamName": "Parma Calcio 1913",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2024-10-06T14:00:00Z",
+      "date": "2024-10-06T13:00:00Z",
       "status": "FINISHED",
       "matchday": 7,
-      "homeTeamName": "Lazio",
-      "awayTeamName": "Empoli",
+      "homeTeamName": "SS Lazio",
+      "awayTeamName": "Empoli FC",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2024-10-06T17:00:00Z",
+      "date": "2024-10-06T16:00:00Z",
       "status": "FINISHED",
       "matchday": 7,
-      "homeTeamName": "Monza",
-      "awayTeamName": "Roma",
+      "homeTeamName": "AC Monza",
+      "awayTeamName": "AS Roma",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2024-10-06T19:45:00Z",
+      "date": "2024-10-06T18:45:00Z",
       "status": "FINISHED",
       "matchday": 7,
-      "homeTeamName": "Fiorentina",
-      "awayTeamName": "Milan",
+      "homeTeamName": "ACF Fiorentina",
+      "awayTeamName": "AC Milan",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2024-10-19T14:00:00Z",
+      "date": "2024-10-19T13:00:00Z",
       "status": "FINISHED",
       "matchday": 8,
-      "homeTeamName": "Como",
-      "awayTeamName": "Parma",
+      "homeTeamName": "Como 1907",
+      "awayTeamName": "Parma Calcio 1913",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2024-10-19T14:00:00Z",
+      "date": "2024-10-19T13:00:00Z",
       "status": "FINISHED",
       "matchday": 8,
-      "homeTeamName": "Genoa",
-      "awayTeamName": "Bologna",
+      "homeTeamName": "Genoa CFC",
+      "awayTeamName": "Bologna FC 1909",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2024-10-19T17:00:00Z",
+      "date": "2024-10-19T16:00:00Z",
       "status": "FINISHED",
       "matchday": 8,
-      "homeTeamName": "Milan",
-      "awayTeamName": "Udinese",
+      "homeTeamName": "AC Milan",
+      "awayTeamName": "Udinese Calcio",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2024-10-19T19:45:00Z",
+      "date": "2024-10-19T18:45:00Z",
       "status": "FINISHED",
       "matchday": 8,
-      "homeTeamName": "Juventus",
-      "awayTeamName": "Lazio",
+      "homeTeamName": "Juventus FC",
+      "awayTeamName": "SS Lazio",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2024-10-20T11:30:00Z",
+      "date": "2024-10-20T10:30:00Z",
       "status": "FINISHED",
       "matchday": 8,
-      "homeTeamName": "Empoli",
-      "awayTeamName": "Napoli",
+      "homeTeamName": "Empoli FC",
+      "awayTeamName": "SSC Napoli",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2024-10-20T14:00:00Z",
+      "date": "2024-10-20T13:00:00Z",
       "status": "FINISHED",
       "matchday": 8,
-      "homeTeamName": "Lecce",
-      "awayTeamName": "Fiorentina",
+      "homeTeamName": "US Lecce",
+      "awayTeamName": "ACF Fiorentina",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 6
       }
     },
     {
-      "date": "2024-10-20T14:00:00Z",
+      "date": "2024-10-20T13:00:00Z",
       "status": "FINISHED",
       "matchday": 8,
-      "homeTeamName": "Venezia",
-      "awayTeamName": "Atalanta",
+      "homeTeamName": "Venezia FC",
+      "awayTeamName": "Atalanta BC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2024-10-20T17:00:00Z",
+      "date": "2024-10-20T16:00:00Z",
       "status": "FINISHED",
       "matchday": 8,
-      "homeTeamName": "Cagliari",
-      "awayTeamName": "Torino",
+      "homeTeamName": "Cagliari Calcio",
+      "awayTeamName": "Torino FC",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2024-10-20T19:45:00Z",
+      "date": "2024-10-20T18:45:00Z",
       "status": "FINISHED",
       "matchday": 8,
-      "homeTeamName": "Roma",
-      "awayTeamName": "Inter",
+      "homeTeamName": "AS Roma",
+      "awayTeamName": "FC Internazionale Milano",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2024-10-21T19:45:00Z",
+      "date": "2024-10-21T18:45:00Z",
       "status": "FINISHED",
       "matchday": 8,
-      "homeTeamName": "Verona",
-      "awayTeamName": "Monza",
+      "homeTeamName": "Hellas Verona FC",
+      "awayTeamName": "AC Monza",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 3
       }
     },
     {
-      "date": "2024-10-25T17:30:00Z",
+      "date": "2024-10-25T16:30:00Z",
       "status": "FINISHED",
       "matchday": 9,
-      "homeTeamName": "Udinese",
-      "awayTeamName": "Cagliari",
+      "homeTeamName": "Udinese Calcio",
+      "awayTeamName": "Cagliari Calcio",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2024-10-25T19:45:00Z",
+      "date": "2024-10-25T18:45:00Z",
       "status": "FINISHED",
       "matchday": 9,
-      "homeTeamName": "Torino",
-      "awayTeamName": "Como",
+      "homeTeamName": "Torino FC",
+      "awayTeamName": "Como 1907",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2024-10-26T14:00:00Z",
+      "date": "2024-10-26T13:00:00Z",
       "status": "FINISHED",
       "matchday": 9,
-      "homeTeamName": "Napoli",
-      "awayTeamName": "Lecce",
+      "homeTeamName": "SSC Napoli",
+      "awayTeamName": "US Lecce",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2024-10-26T19:45:00Z",
+      "date": "2024-10-26T18:45:00Z",
       "status": "FINISHED",
       "matchday": 9,
-      "homeTeamName": "Atalanta",
-      "awayTeamName": "Verona",
+      "homeTeamName": "Atalanta BC",
+      "awayTeamName": "Hellas Verona FC",
       "result": {
         "goalsHomeTeam": 6,
         "goalsAwayTeam": 1
@@ -928,8 +928,8 @@
       "date": "2024-10-27T11:30:00Z",
       "status": "FINISHED",
       "matchday": 9,
-      "homeTeamName": "Parma",
-      "awayTeamName": "Empoli",
+      "homeTeamName": "Parma Calcio 1913",
+      "awayTeamName": "Empoli FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
@@ -939,8 +939,8 @@
       "date": "2024-10-27T14:00:00Z",
       "status": "FINISHED",
       "matchday": 9,
-      "homeTeamName": "Lazio",
-      "awayTeamName": "Genoa",
+      "homeTeamName": "SS Lazio",
+      "awayTeamName": "Genoa CFC",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 0
@@ -950,8 +950,8 @@
       "date": "2024-10-27T14:00:00Z",
       "status": "FINISHED",
       "matchday": 9,
-      "homeTeamName": "Monza",
-      "awayTeamName": "Venezia",
+      "homeTeamName": "AC Monza",
+      "awayTeamName": "Venezia FC",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 2
@@ -961,8 +961,8 @@
       "date": "2024-10-27T17:00:00Z",
       "status": "FINISHED",
       "matchday": 9,
-      "homeTeamName": "Inter",
-      "awayTeamName": "Juventus",
+      "homeTeamName": "FC Internazionale Milano",
+      "awayTeamName": "Juventus FC",
       "result": {
         "goalsHomeTeam": 4,
         "goalsAwayTeam": 4
@@ -972,8 +972,8 @@
       "date": "2024-10-27T19:45:00Z",
       "status": "FINISHED",
       "matchday": 9,
-      "homeTeamName": "Fiorentina",
-      "awayTeamName": "Roma",
+      "homeTeamName": "ACF Fiorentina",
+      "awayTeamName": "AS Roma",
       "result": {
         "goalsHomeTeam": 5,
         "goalsAwayTeam": 1
@@ -983,8 +983,8 @@
       "date": "2024-10-29T17:30:00Z",
       "status": "FINISHED",
       "matchday": 10,
-      "homeTeamName": "Cagliari",
-      "awayTeamName": "Bologna",
+      "homeTeamName": "Cagliari Calcio",
+      "awayTeamName": "Bologna FC 1909",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 2
@@ -994,8 +994,8 @@
       "date": "2024-10-29T17:30:00Z",
       "status": "FINISHED",
       "matchday": 10,
-      "homeTeamName": "Lecce",
-      "awayTeamName": "Verona",
+      "homeTeamName": "US Lecce",
+      "awayTeamName": "Hellas Verona FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
@@ -1004,9 +1004,9 @@
     {
       "date": "2024-10-29T19:45:00Z",
       "status": "FINISHED",
-      "matchday": 9,
-      "homeTeamName": "Milan",
-      "awayTeamName": "Napoli",
+      "matchday": 10,
+      "homeTeamName": "AC Milan",
+      "awayTeamName": "SSC Napoli",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 2
@@ -1016,8 +1016,8 @@
       "date": "2024-10-30T17:30:00Z",
       "status": "FINISHED",
       "matchday": 10,
-      "homeTeamName": "Empoli",
-      "awayTeamName": "Inter",
+      "homeTeamName": "Empoli FC",
+      "awayTeamName": "FC Internazionale Milano",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 3
@@ -1027,8 +1027,8 @@
       "date": "2024-10-30T17:30:00Z",
       "status": "FINISHED",
       "matchday": 10,
-      "homeTeamName": "Venezia",
-      "awayTeamName": "Udinese",
+      "homeTeamName": "Venezia FC",
+      "awayTeamName": "Udinese Calcio",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 2
@@ -1038,8 +1038,8 @@
       "date": "2024-10-30T19:45:00Z",
       "status": "FINISHED",
       "matchday": 10,
-      "homeTeamName": "Atalanta",
-      "awayTeamName": "Monza",
+      "homeTeamName": "Atalanta BC",
+      "awayTeamName": "AC Monza",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 0
@@ -1049,8 +1049,8 @@
       "date": "2024-10-30T19:45:00Z",
       "status": "FINISHED",
       "matchday": 10,
-      "homeTeamName": "Juventus",
-      "awayTeamName": "Parma",
+      "homeTeamName": "Juventus FC",
+      "awayTeamName": "Parma Calcio 1913",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 2
@@ -1060,8 +1060,8 @@
       "date": "2024-10-31T17:30:00Z",
       "status": "FINISHED",
       "matchday": 10,
-      "homeTeamName": "Genoa",
-      "awayTeamName": "Fiorentina",
+      "homeTeamName": "Genoa CFC",
+      "awayTeamName": "ACF Fiorentina",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 1
@@ -1071,8 +1071,8 @@
       "date": "2024-10-31T19:45:00Z",
       "status": "FINISHED",
       "matchday": 10,
-      "homeTeamName": "Como",
-      "awayTeamName": "Lazio",
+      "homeTeamName": "Como 1907",
+      "awayTeamName": "SS Lazio",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 5
@@ -1082,8 +1082,8 @@
       "date": "2024-10-31T19:45:00Z",
       "status": "FINISHED",
       "matchday": 10,
-      "homeTeamName": "Roma",
-      "awayTeamName": "Torino",
+      "homeTeamName": "AS Roma",
+      "awayTeamName": "Torino FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
@@ -1092,9 +1092,9 @@
     {
       "date": "2024-11-02T14:00:00Z",
       "status": "FINISHED",
-      "matchday": 10,
-      "homeTeamName": "Bologna",
-      "awayTeamName": "Lecce",
+      "matchday": 11,
+      "homeTeamName": "Bologna FC 1909",
+      "awayTeamName": "US Lecce",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
@@ -1104,8 +1104,8 @@
       "date": "2024-11-02T17:00:00Z",
       "status": "FINISHED",
       "matchday": 11,
-      "homeTeamName": "Udinese",
-      "awayTeamName": "Juventus",
+      "homeTeamName": "Udinese Calcio",
+      "awayTeamName": "Juventus FC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 2
@@ -1115,8 +1115,8 @@
       "date": "2024-11-02T19:45:00Z",
       "status": "FINISHED",
       "matchday": 11,
-      "homeTeamName": "Monza",
-      "awayTeamName": "Milan",
+      "homeTeamName": "AC Monza",
+      "awayTeamName": "AC Milan",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 1
@@ -1126,8 +1126,8 @@
       "date": "2024-11-03T11:30:00Z",
       "status": "FINISHED",
       "matchday": 11,
-      "homeTeamName": "Napoli",
-      "awayTeamName": "Atalanta",
+      "homeTeamName": "SSC Napoli",
+      "awayTeamName": "Atalanta BC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 3
@@ -1137,8 +1137,8 @@
       "date": "2024-11-03T14:00:00Z",
       "status": "FINISHED",
       "matchday": 11,
-      "homeTeamName": "Torino",
-      "awayTeamName": "Fiorentina",
+      "homeTeamName": "Torino FC",
+      "awayTeamName": "ACF Fiorentina",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 1
@@ -1148,8 +1148,8 @@
       "date": "2024-11-03T17:00:00Z",
       "status": "FINISHED",
       "matchday": 11,
-      "homeTeamName": "Verona",
-      "awayTeamName": "Roma",
+      "homeTeamName": "Hellas Verona FC",
+      "awayTeamName": "AS Roma",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 2
@@ -1159,8 +1159,8 @@
       "date": "2024-11-03T19:45:00Z",
       "status": "FINISHED",
       "matchday": 11,
-      "homeTeamName": "Inter",
-      "awayTeamName": "Venezia",
+      "homeTeamName": "FC Internazionale Milano",
+      "awayTeamName": "Venezia FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
@@ -1170,8 +1170,8 @@
       "date": "2024-11-04T17:30:00Z",
       "status": "FINISHED",
       "matchday": 11,
-      "homeTeamName": "Empoli",
-      "awayTeamName": "Como",
+      "homeTeamName": "Empoli FC",
+      "awayTeamName": "Como 1907",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
@@ -1181,8 +1181,8 @@
       "date": "2024-11-04T17:30:00Z",
       "status": "FINISHED",
       "matchday": 11,
-      "homeTeamName": "Parma",
-      "awayTeamName": "Genoa",
+      "homeTeamName": "Parma Calcio 1913",
+      "awayTeamName": "Genoa CFC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 1
@@ -1192,8 +1192,8 @@
       "date": "2024-11-04T19:45:00Z",
       "status": "FINISHED",
       "matchday": 11,
-      "homeTeamName": "Lazio",
-      "awayTeamName": "Cagliari",
+      "homeTeamName": "SS Lazio",
+      "awayTeamName": "Cagliari Calcio",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
@@ -1203,8 +1203,8 @@
       "date": "2024-11-07T19:45:00Z",
       "status": "FINISHED",
       "matchday": 12,
-      "homeTeamName": "Genoa",
-      "awayTeamName": "Como",
+      "homeTeamName": "Genoa CFC",
+      "awayTeamName": "Como 1907",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
@@ -1214,8 +1214,8 @@
       "date": "2024-11-08T19:45:00Z",
       "status": "FINISHED",
       "matchday": 12,
-      "homeTeamName": "Lecce",
-      "awayTeamName": "Empoli",
+      "homeTeamName": "US Lecce",
+      "awayTeamName": "Empoli FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
@@ -1225,8 +1225,8 @@
       "date": "2024-11-09T14:00:00Z",
       "status": "FINISHED",
       "matchday": 12,
-      "homeTeamName": "Venezia",
-      "awayTeamName": "Parma",
+      "homeTeamName": "Venezia FC",
+      "awayTeamName": "Parma Calcio 1913",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 2
@@ -1236,8 +1236,8 @@
       "date": "2024-11-09T17:00:00Z",
       "status": "FINISHED",
       "matchday": 12,
-      "homeTeamName": "Cagliari",
-      "awayTeamName": "Milan",
+      "homeTeamName": "Cagliari Calcio",
+      "awayTeamName": "AC Milan",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 3
@@ -1247,8 +1247,8 @@
       "date": "2024-11-09T19:45:00Z",
       "status": "FINISHED",
       "matchday": 12,
-      "homeTeamName": "Juventus",
-      "awayTeamName": "Torino",
+      "homeTeamName": "Juventus FC",
+      "awayTeamName": "Torino FC",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 0
@@ -1258,8 +1258,8 @@
       "date": "2024-11-10T11:30:00Z",
       "status": "FINISHED",
       "matchday": 12,
-      "homeTeamName": "Atalanta",
-      "awayTeamName": "Udinese",
+      "homeTeamName": "Atalanta BC",
+      "awayTeamName": "Udinese Calcio",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
@@ -1269,8 +1269,8 @@
       "date": "2024-11-10T14:00:00Z",
       "status": "FINISHED",
       "matchday": 12,
-      "homeTeamName": "Fiorentina",
-      "awayTeamName": "Verona",
+      "homeTeamName": "ACF Fiorentina",
+      "awayTeamName": "Hellas Verona FC",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 1
@@ -1280,8 +1280,8 @@
       "date": "2024-11-10T14:00:00Z",
       "status": "FINISHED",
       "matchday": 12,
-      "homeTeamName": "Roma",
-      "awayTeamName": "Bologna",
+      "homeTeamName": "AS Roma",
+      "awayTeamName": "Bologna FC 1909",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 3
@@ -1291,8 +1291,8 @@
       "date": "2024-11-10T17:00:00Z",
       "status": "FINISHED",
       "matchday": 12,
-      "homeTeamName": "Monza",
-      "awayTeamName": "Lazio",
+      "homeTeamName": "AC Monza",
+      "awayTeamName": "SS Lazio",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 1
@@ -1302,8 +1302,8 @@
       "date": "2024-11-10T19:45:00Z",
       "status": "FINISHED",
       "matchday": 12,
-      "homeTeamName": "Inter",
-      "awayTeamName": "Napoli",
+      "homeTeamName": "FC Internazionale Milano",
+      "awayTeamName": "SSC Napoli",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
@@ -1313,8 +1313,8 @@
       "date": "2024-11-23T14:00:00Z",
       "status": "FINISHED",
       "matchday": 13,
-      "homeTeamName": "Verona",
-      "awayTeamName": "Inter",
+      "homeTeamName": "Hellas Verona FC",
+      "awayTeamName": "FC Internazionale Milano",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 5
@@ -1323,9 +1323,9 @@
     {
       "date": "2024-11-23T17:00:00Z",
       "status": "FINISHED",
-      "matchday": 12,
-      "homeTeamName": "Milan",
-      "awayTeamName": "Juventus",
+      "matchday": 13,
+      "homeTeamName": "AC Milan",
+      "awayTeamName": "Juventus FC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 0
@@ -1335,8 +1335,8 @@
       "date": "2024-11-23T19:45:00Z",
       "status": "FINISHED",
       "matchday": 13,
-      "homeTeamName": "Parma",
-      "awayTeamName": "Atalanta",
+      "homeTeamName": "Parma Calcio 1913",
+      "awayTeamName": "Atalanta BC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 3
@@ -1346,8 +1346,8 @@
       "date": "2024-11-24T11:30:00Z",
       "status": "FINISHED",
       "matchday": 13,
-      "homeTeamName": "Genoa",
-      "awayTeamName": "Cagliari",
+      "homeTeamName": "Genoa CFC",
+      "awayTeamName": "Cagliari Calcio",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 2
@@ -1357,8 +1357,8 @@
       "date": "2024-11-24T14:00:00Z",
       "status": "FINISHED",
       "matchday": 13,
-      "homeTeamName": "Como",
-      "awayTeamName": "Fiorentina",
+      "homeTeamName": "Como 1907",
+      "awayTeamName": "ACF Fiorentina",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 2
@@ -1368,8 +1368,8 @@
       "date": "2024-11-24T14:00:00Z",
       "status": "FINISHED",
       "matchday": 13,
-      "homeTeamName": "Torino",
-      "awayTeamName": "Monza",
+      "homeTeamName": "Torino FC",
+      "awayTeamName": "AC Monza",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
@@ -1379,8 +1379,8 @@
       "date": "2024-11-24T17:00:00Z",
       "status": "FINISHED",
       "matchday": 13,
-      "homeTeamName": "Napoli",
-      "awayTeamName": "Roma",
+      "homeTeamName": "SSC Napoli",
+      "awayTeamName": "AS Roma",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
@@ -1390,8 +1390,8 @@
       "date": "2024-11-24T19:45:00Z",
       "status": "FINISHED",
       "matchday": 13,
-      "homeTeamName": "Lazio",
-      "awayTeamName": "Bologna",
+      "homeTeamName": "SS Lazio",
+      "awayTeamName": "Bologna FC 1909",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 0
@@ -1401,8 +1401,8 @@
       "date": "2024-11-25T17:30:00Z",
       "status": "FINISHED",
       "matchday": 13,
-      "homeTeamName": "Empoli",
-      "awayTeamName": "Udinese",
+      "homeTeamName": "Empoli FC",
+      "awayTeamName": "Udinese Calcio",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
@@ -1412,8 +1412,8 @@
       "date": "2024-11-25T19:45:00Z",
       "status": "FINISHED",
       "matchday": 13,
-      "homeTeamName": "Venezia",
-      "awayTeamName": "Lecce",
+      "homeTeamName": "Venezia FC",
+      "awayTeamName": "US Lecce",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 1
@@ -1423,8 +1423,8 @@
       "date": "2024-11-29T19:45:00Z",
       "status": "FINISHED",
       "matchday": 14,
-      "homeTeamName": "Cagliari",
-      "awayTeamName": "Verona",
+      "homeTeamName": "Cagliari Calcio",
+      "awayTeamName": "Hellas Verona FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
@@ -1434,8 +1434,8 @@
       "date": "2024-11-30T14:00:00Z",
       "status": "FINISHED",
       "matchday": 14,
-      "homeTeamName": "Como",
-      "awayTeamName": "Monza",
+      "homeTeamName": "Como 1907",
+      "awayTeamName": "AC Monza",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
@@ -1444,9 +1444,9 @@
     {
       "date": "2024-11-30T17:00:00Z",
       "status": "FINISHED",
-      "matchday": 13,
-      "homeTeamName": "Milan",
-      "awayTeamName": "Empoli",
+      "matchday": 14,
+      "homeTeamName": "AC Milan",
+      "awayTeamName": "Empoli FC",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 0
@@ -1455,9 +1455,9 @@
     {
       "date": "2024-11-30T19:45:00Z",
       "status": "FINISHED",
-      "matchday": 13,
-      "homeTeamName": "Bologna",
-      "awayTeamName": "Venezia",
+      "matchday": 14,
+      "homeTeamName": "Bologna FC 1909",
+      "awayTeamName": "Venezia FC",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 0
@@ -1467,8 +1467,8 @@
       "date": "2024-12-01T11:30:00Z",
       "status": "FINISHED",
       "matchday": 14,
-      "homeTeamName": "Udinese",
-      "awayTeamName": "Genoa",
+      "homeTeamName": "Udinese Calcio",
+      "awayTeamName": "Genoa CFC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 2
@@ -1478,8 +1478,8 @@
       "date": "2024-12-01T14:00:00Z",
       "status": "FINISHED",
       "matchday": 14,
-      "homeTeamName": "Parma",
-      "awayTeamName": "Lazio",
+      "homeTeamName": "Parma Calcio 1913",
+      "awayTeamName": "SS Lazio",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 1
@@ -1489,8 +1489,8 @@
       "date": "2024-12-01T14:00:00Z",
       "status": "FINISHED",
       "matchday": 14,
-      "homeTeamName": "Torino",
-      "awayTeamName": "Napoli",
+      "homeTeamName": "Torino FC",
+      "awayTeamName": "SSC Napoli",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 1
@@ -1500,8 +1500,8 @@
       "date": "2024-12-01T19:45:00Z",
       "status": "FINISHED",
       "matchday": 14,
-      "homeTeamName": "Lecce",
-      "awayTeamName": "Juventus",
+      "homeTeamName": "US Lecce",
+      "awayTeamName": "Juventus FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
@@ -1511,8 +1511,8 @@
       "date": "2024-12-02T19:45:00Z",
       "status": "FINISHED",
       "matchday": 14,
-      "homeTeamName": "Roma",
-      "awayTeamName": "Atalanta",
+      "homeTeamName": "AS Roma",
+      "awayTeamName": "Atalanta BC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 2
@@ -1521,9 +1521,9 @@
     {
       "date": "2024-12-06T17:30:00Z",
       "status": "FINISHED",
-      "matchday": 14,
-      "homeTeamName": "Inter",
-      "awayTeamName": "Parma",
+      "matchday": 15,
+      "homeTeamName": "FC Internazionale Milano",
+      "awayTeamName": "Parma Calcio 1913",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 1
@@ -1533,8 +1533,8 @@
       "date": "2024-12-06T19:45:00Z",
       "status": "FINISHED",
       "matchday": 15,
-      "homeTeamName": "Atalanta",
-      "awayTeamName": "Milan",
+      "homeTeamName": "Atalanta BC",
+      "awayTeamName": "AC Milan",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
@@ -1544,8 +1544,8 @@
       "date": "2024-12-07T14:00:00Z",
       "status": "FINISHED",
       "matchday": 15,
-      "homeTeamName": "Genoa",
-      "awayTeamName": "Torino",
+      "homeTeamName": "Genoa CFC",
+      "awayTeamName": "Torino FC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 0
@@ -1555,8 +1555,8 @@
       "date": "2024-12-07T17:00:00Z",
       "status": "FINISHED",
       "matchday": 15,
-      "homeTeamName": "Juventus",
-      "awayTeamName": "Bologna",
+      "homeTeamName": "Juventus FC",
+      "awayTeamName": "Bologna FC 1909",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 2
@@ -1566,8 +1566,8 @@
       "date": "2024-12-07T19:45:00Z",
       "status": "FINISHED",
       "matchday": 15,
-      "homeTeamName": "Roma",
-      "awayTeamName": "Lecce",
+      "homeTeamName": "AS Roma",
+      "awayTeamName": "US Lecce",
       "result": {
         "goalsHomeTeam": 4,
         "goalsAwayTeam": 1
@@ -1576,9 +1576,9 @@
     {
       "date": "2024-12-08T11:30:00Z",
       "status": "FINISHED",
-      "matchday": 14,
-      "homeTeamName": "Fiorentina",
-      "awayTeamName": "Cagliari",
+      "matchday": 15,
+      "homeTeamName": "ACF Fiorentina",
+      "awayTeamName": "Cagliari Calcio",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
@@ -1588,8 +1588,8 @@
       "date": "2024-12-08T14:00:00Z",
       "status": "FINISHED",
       "matchday": 15,
-      "homeTeamName": "Verona",
-      "awayTeamName": "Empoli",
+      "homeTeamName": "Hellas Verona FC",
+      "awayTeamName": "Empoli FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 4
@@ -1599,8 +1599,8 @@
       "date": "2024-12-08T17:00:00Z",
       "status": "FINISHED",
       "matchday": 15,
-      "homeTeamName": "Venezia",
-      "awayTeamName": "Como",
+      "homeTeamName": "Venezia FC",
+      "awayTeamName": "Como 1907",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 2
@@ -1610,8 +1610,8 @@
       "date": "2024-12-08T19:45:00Z",
       "status": "FINISHED",
       "matchday": 15,
-      "homeTeamName": "Napoli",
-      "awayTeamName": "Lazio",
+      "homeTeamName": "SSC Napoli",
+      "awayTeamName": "SS Lazio",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 1
@@ -1621,8 +1621,8 @@
       "date": "2024-12-09T19:45:00Z",
       "status": "FINISHED",
       "matchday": 15,
-      "homeTeamName": "Monza",
-      "awayTeamName": "Udinese",
+      "homeTeamName": "AC Monza",
+      "awayTeamName": "Udinese Calcio",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 2
@@ -1632,8 +1632,8 @@
       "date": "2024-12-13T19:45:00Z",
       "status": "FINISHED",
       "matchday": 16,
-      "homeTeamName": "Empoli",
-      "awayTeamName": "Torino",
+      "homeTeamName": "Empoli FC",
+      "awayTeamName": "Torino FC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 1
@@ -1643,8 +1643,8 @@
       "date": "2024-12-14T14:00:00Z",
       "status": "FINISHED",
       "matchday": 16,
-      "homeTeamName": "Cagliari",
-      "awayTeamName": "Atalanta",
+      "homeTeamName": "Cagliari Calcio",
+      "awayTeamName": "Atalanta BC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 1
@@ -1654,8 +1654,8 @@
       "date": "2024-12-14T17:00:00Z",
       "status": "FINISHED",
       "matchday": 16,
-      "homeTeamName": "Udinese",
-      "awayTeamName": "Napoli",
+      "homeTeamName": "Udinese Calcio",
+      "awayTeamName": "SSC Napoli",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 3
@@ -1665,8 +1665,8 @@
       "date": "2024-12-14T19:45:00Z",
       "status": "FINISHED",
       "matchday": 16,
-      "homeTeamName": "Juventus",
-      "awayTeamName": "Venezia",
+      "homeTeamName": "Juventus FC",
+      "awayTeamName": "Venezia FC",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 2
@@ -1676,8 +1676,8 @@
       "date": "2024-12-15T11:30:00Z",
       "status": "FINISHED",
       "matchday": 16,
-      "homeTeamName": "Lecce",
-      "awayTeamName": "Monza",
+      "homeTeamName": "US Lecce",
+      "awayTeamName": "AC Monza",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
@@ -1686,9 +1686,9 @@
     {
       "date": "2024-12-15T14:00:00Z",
       "status": "FINISHED",
-      "matchday": 15,
-      "homeTeamName": "Bologna",
-      "awayTeamName": "Fiorentina",
+      "matchday": 16,
+      "homeTeamName": "Bologna FC 1909",
+      "awayTeamName": "ACF Fiorentina",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
@@ -1698,8 +1698,8 @@
       "date": "2024-12-15T14:00:00Z",
       "status": "FINISHED",
       "matchday": 16,
-      "homeTeamName": "Parma",
-      "awayTeamName": "Verona",
+      "homeTeamName": "Parma Calcio 1913",
+      "awayTeamName": "Hellas Verona FC",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 3
@@ -1709,8 +1709,8 @@
       "date": "2024-12-15T17:00:00Z",
       "status": "FINISHED",
       "matchday": 16,
-      "homeTeamName": "Como",
-      "awayTeamName": "Roma",
+      "homeTeamName": "Como 1907",
+      "awayTeamName": "AS Roma",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 0
@@ -1719,9 +1719,9 @@
     {
       "date": "2024-12-15T19:45:00Z",
       "status": "FINISHED",
-      "matchday": 15,
-      "homeTeamName": "Milan",
-      "awayTeamName": "Genoa",
+      "matchday": 16,
+      "homeTeamName": "AC Milan",
+      "awayTeamName": "Genoa CFC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 0
@@ -1731,8 +1731,8 @@
       "date": "2024-12-16T19:45:00Z",
       "status": "FINISHED",
       "matchday": 16,
-      "homeTeamName": "Lazio",
-      "awayTeamName": "Inter",
+      "homeTeamName": "SS Lazio",
+      "awayTeamName": "FC Internazionale Milano",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 6
@@ -1742,8 +1742,8 @@
       "date": "2024-12-20T19:45:00Z",
       "status": "FINISHED",
       "matchday": 17,
-      "homeTeamName": "Verona",
-      "awayTeamName": "Milan",
+      "homeTeamName": "Hellas Verona FC",
+      "awayTeamName": "AC Milan",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 1
@@ -1753,8 +1753,8 @@
       "date": "2024-12-21T14:00:00Z",
       "status": "FINISHED",
       "matchday": 17,
-      "homeTeamName": "Torino",
-      "awayTeamName": "Bologna",
+      "homeTeamName": "Torino FC",
+      "awayTeamName": "Bologna FC 1909",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 2
@@ -1764,8 +1764,8 @@
       "date": "2024-12-21T17:00:00Z",
       "status": "FINISHED",
       "matchday": 17,
-      "homeTeamName": "Genoa",
-      "awayTeamName": "Napoli",
+      "homeTeamName": "Genoa CFC",
+      "awayTeamName": "SSC Napoli",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 2
@@ -1775,8 +1775,8 @@
       "date": "2024-12-21T19:45:00Z",
       "status": "FINISHED",
       "matchday": 17,
-      "homeTeamName": "Lecce",
-      "awayTeamName": "Lazio",
+      "homeTeamName": "US Lecce",
+      "awayTeamName": "SS Lazio",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 2
@@ -1786,8 +1786,8 @@
       "date": "2024-12-22T11:30:00Z",
       "status": "FINISHED",
       "matchday": 17,
-      "homeTeamName": "Roma",
-      "awayTeamName": "Parma",
+      "homeTeamName": "AS Roma",
+      "awayTeamName": "Parma Calcio 1913",
       "result": {
         "goalsHomeTeam": 5,
         "goalsAwayTeam": 0
@@ -1797,8 +1797,8 @@
       "date": "2024-12-22T14:00:00Z",
       "status": "FINISHED",
       "matchday": 17,
-      "homeTeamName": "Venezia",
-      "awayTeamName": "Cagliari",
+      "homeTeamName": "Venezia FC",
+      "awayTeamName": "Cagliari Calcio",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
@@ -1808,8 +1808,8 @@
       "date": "2024-12-22T17:00:00Z",
       "status": "FINISHED",
       "matchday": 17,
-      "homeTeamName": "Atalanta",
-      "awayTeamName": "Empoli",
+      "homeTeamName": "Atalanta BC",
+      "awayTeamName": "Empoli FC",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 2
@@ -1819,8 +1819,8 @@
       "date": "2024-12-22T19:45:00Z",
       "status": "FINISHED",
       "matchday": 17,
-      "homeTeamName": "Monza",
-      "awayTeamName": "Juventus",
+      "homeTeamName": "AC Monza",
+      "awayTeamName": "Juventus FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 2
@@ -1829,9 +1829,9 @@
     {
       "date": "2024-12-23T17:30:00Z",
       "status": "FINISHED",
-      "matchday": 16,
-      "homeTeamName": "Fiorentina",
-      "awayTeamName": "Udinese",
+      "matchday": 17,
+      "homeTeamName": "ACF Fiorentina",
+      "awayTeamName": "Udinese Calcio",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 2
@@ -1840,9 +1840,9 @@
     {
       "date": "2024-12-23T19:45:00Z",
       "status": "FINISHED",
-      "matchday": 16,
-      "homeTeamName": "Inter",
-      "awayTeamName": "Como",
+      "matchday": 17,
+      "homeTeamName": "FC Internazionale Milano",
+      "awayTeamName": "Como 1907",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 0
@@ -1852,8 +1852,8 @@
       "date": "2024-12-28T14:00:00Z",
       "status": "FINISHED",
       "matchday": 18,
-      "homeTeamName": "Empoli",
-      "awayTeamName": "Genoa",
+      "homeTeamName": "Empoli FC",
+      "awayTeamName": "Genoa CFC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 2
@@ -1863,8 +1863,8 @@
       "date": "2024-12-28T14:00:00Z",
       "status": "FINISHED",
       "matchday": 18,
-      "homeTeamName": "Parma",
-      "awayTeamName": "Monza",
+      "homeTeamName": "Parma Calcio 1913",
+      "awayTeamName": "AC Monza",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
@@ -1874,8 +1874,8 @@
       "date": "2024-12-28T17:00:00Z",
       "status": "FINISHED",
       "matchday": 18,
-      "homeTeamName": "Cagliari",
-      "awayTeamName": "Inter",
+      "homeTeamName": "Cagliari Calcio",
+      "awayTeamName": "FC Internazionale Milano",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 3
@@ -1885,8 +1885,8 @@
       "date": "2024-12-28T19:45:00Z",
       "status": "FINISHED",
       "matchday": 18,
-      "homeTeamName": "Lazio",
-      "awayTeamName": "Atalanta",
+      "homeTeamName": "SS Lazio",
+      "awayTeamName": "Atalanta BC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
@@ -1896,8 +1896,8 @@
       "date": "2024-12-29T11:30:00Z",
       "status": "FINISHED",
       "matchday": 18,
-      "homeTeamName": "Udinese",
-      "awayTeamName": "Torino",
+      "homeTeamName": "Udinese Calcio",
+      "awayTeamName": "Torino FC",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 2
@@ -1907,8 +1907,8 @@
       "date": "2024-12-29T14:00:00Z",
       "status": "FINISHED",
       "matchday": 18,
-      "homeTeamName": "Napoli",
-      "awayTeamName": "Venezia",
+      "homeTeamName": "SSC Napoli",
+      "awayTeamName": "Venezia FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
@@ -1918,8 +1918,8 @@
       "date": "2024-12-29T17:00:00Z",
       "status": "FINISHED",
       "matchday": 18,
-      "homeTeamName": "Juventus",
-      "awayTeamName": "Fiorentina",
+      "homeTeamName": "Juventus FC",
+      "awayTeamName": "ACF Fiorentina",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 2
@@ -1928,9 +1928,9 @@
     {
       "date": "2024-12-29T19:45:00Z",
       "status": "FINISHED",
-      "matchday": 17,
-      "homeTeamName": "Milan",
-      "awayTeamName": "Roma",
+      "matchday": 18,
+      "homeTeamName": "AC Milan",
+      "awayTeamName": "AS Roma",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
@@ -1940,8 +1940,8 @@
       "date": "2024-12-30T17:30:00Z",
       "status": "FINISHED",
       "matchday": 18,
-      "homeTeamName": "Como",
-      "awayTeamName": "Lecce",
+      "homeTeamName": "Como 1907",
+      "awayTeamName": "US Lecce",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 0
@@ -1950,9 +1950,9 @@
     {
       "date": "2024-12-30T19:45:00Z",
       "status": "FINISHED",
-      "matchday": 17,
-      "homeTeamName": "Bologna",
-      "awayTeamName": "Verona",
+      "matchday": 18,
+      "homeTeamName": "Bologna FC 1909",
+      "awayTeamName": "Hellas Verona FC",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 3
@@ -1962,8 +1962,8 @@
       "date": "2025-01-04T14:00:00Z",
       "status": "FINISHED",
       "matchday": 19,
-      "homeTeamName": "Venezia",
-      "awayTeamName": "Empoli",
+      "homeTeamName": "Venezia FC",
+      "awayTeamName": "Empoli FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
@@ -1972,9 +1972,9 @@
     {
       "date": "2025-01-04T17:00:00Z",
       "status": "FINISHED",
-      "matchday": 18,
-      "homeTeamName": "Fiorentina",
-      "awayTeamName": "Napoli",
+      "matchday": 19,
+      "homeTeamName": "ACF Fiorentina",
+      "awayTeamName": "SSC Napoli",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 3
@@ -1984,8 +1984,8 @@
       "date": "2025-01-04T19:45:00Z",
       "status": "FINISHED",
       "matchday": 19,
-      "homeTeamName": "Verona",
-      "awayTeamName": "Udinese",
+      "homeTeamName": "Hellas Verona FC",
+      "awayTeamName": "Udinese Calcio",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 0
@@ -1995,8 +1995,8 @@
       "date": "2025-01-05T11:30:00Z",
       "status": "FINISHED",
       "matchday": 19,
-      "homeTeamName": "Monza",
-      "awayTeamName": "Cagliari",
+      "homeTeamName": "AC Monza",
+      "awayTeamName": "Cagliari Calcio",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 2
@@ -2006,8 +2006,8 @@
       "date": "2025-01-05T14:00:00Z",
       "status": "FINISHED",
       "matchday": 19,
-      "homeTeamName": "Lecce",
-      "awayTeamName": "Genoa",
+      "homeTeamName": "US Lecce",
+      "awayTeamName": "Genoa CFC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 0
@@ -2017,8 +2017,8 @@
       "date": "2025-01-05T17:00:00Z",
       "status": "FINISHED",
       "matchday": 19,
-      "homeTeamName": "Torino",
-      "awayTeamName": "Parma",
+      "homeTeamName": "Torino FC",
+      "awayTeamName": "Parma Calcio 1913",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 0
@@ -2028,8 +2028,8 @@
       "date": "2025-01-05T19:45:00Z",
       "status": "FINISHED",
       "matchday": 19,
-      "homeTeamName": "Roma",
-      "awayTeamName": "Lazio",
+      "homeTeamName": "AS Roma",
+      "awayTeamName": "SS Lazio",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 0
@@ -2039,8 +2039,8 @@
       "date": "2025-01-10T19:45:00Z",
       "status": "FINISHED",
       "matchday": 20,
-      "homeTeamName": "Lazio",
-      "awayTeamName": "Como",
+      "homeTeamName": "SS Lazio",
+      "awayTeamName": "Como 1907",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
@@ -2050,8 +2050,8 @@
       "date": "2025-01-11T14:00:00Z",
       "status": "FINISHED",
       "matchday": 20,
-      "homeTeamName": "Empoli",
-      "awayTeamName": "Lecce",
+      "homeTeamName": "Empoli FC",
+      "awayTeamName": "US Lecce",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 3
@@ -2061,8 +2061,8 @@
       "date": "2025-01-11T14:00:00Z",
       "status": "FINISHED",
       "matchday": 20,
-      "homeTeamName": "Udinese",
-      "awayTeamName": "Atalanta",
+      "homeTeamName": "Udinese Calcio",
+      "awayTeamName": "Atalanta BC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 0
@@ -2072,8 +2072,8 @@
       "date": "2025-01-11T17:00:00Z",
       "status": "FINISHED",
       "matchday": 20,
-      "homeTeamName": "Torino",
-      "awayTeamName": "Juventus",
+      "homeTeamName": "Torino FC",
+      "awayTeamName": "Juventus FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
@@ -2082,9 +2082,9 @@
     {
       "date": "2025-01-11T19:45:00Z",
       "status": "FINISHED",
-      "matchday": 18,
-      "homeTeamName": "Milan",
-      "awayTeamName": "Cagliari",
+      "matchday": 20,
+      "homeTeamName": "AC Milan",
+      "awayTeamName": "Cagliari Calcio",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
@@ -2094,8 +2094,8 @@
       "date": "2025-01-12T11:30:00Z",
       "status": "FINISHED",
       "matchday": 20,
-      "homeTeamName": "Genoa",
-      "awayTeamName": "Parma",
+      "homeTeamName": "Genoa CFC",
+      "awayTeamName": "Parma Calcio 1913",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
@@ -2105,8 +2105,8 @@
       "date": "2025-01-12T14:00:00Z",
       "status": "FINISHED",
       "matchday": 20,
-      "homeTeamName": "Venezia",
-      "awayTeamName": "Inter",
+      "homeTeamName": "Venezia FC",
+      "awayTeamName": "FC Internazionale Milano",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 1
@@ -2115,9 +2115,9 @@
     {
       "date": "2025-01-12T17:00:00Z",
       "status": "FINISHED",
-      "matchday": 18,
-      "homeTeamName": "Bologna",
-      "awayTeamName": "Roma",
+      "matchday": 20,
+      "homeTeamName": "Bologna FC 1909",
+      "awayTeamName": "AS Roma",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 2
@@ -2127,8 +2127,8 @@
       "date": "2025-01-12T19:45:00Z",
       "status": "FINISHED",
       "matchday": 20,
-      "homeTeamName": "Napoli",
-      "awayTeamName": "Verona",
+      "homeTeamName": "SSC Napoli",
+      "awayTeamName": "Hellas Verona FC",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 0
@@ -2138,8 +2138,8 @@
       "date": "2025-01-13T19:45:00Z",
       "status": "FINISHED",
       "matchday": 20,
-      "homeTeamName": "Monza",
-      "awayTeamName": "Fiorentina",
+      "homeTeamName": "AC Monza",
+      "awayTeamName": "ACF Fiorentina",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
@@ -2148,9 +2148,9 @@
     {
       "date": "2025-01-14T17:30:00Z",
       "status": "FINISHED",
-      "matchday": 20,
-      "homeTeamName": "Como",
-      "awayTeamName": "Milan",
+      "matchday": 19,
+      "homeTeamName": "Como 1907",
+      "awayTeamName": "AC Milan",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 2
@@ -2159,9 +2159,9 @@
     {
       "date": "2025-01-14T19:45:00Z",
       "status": "FINISHED",
-      "matchday": 20,
-      "homeTeamName": "Atalanta",
-      "awayTeamName": "Juventus",
+      "matchday": 19,
+      "homeTeamName": "Atalanta BC",
+      "awayTeamName": "Juventus FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
@@ -2171,8 +2171,8 @@
       "date": "2025-01-15T19:45:00Z",
       "status": "FINISHED",
       "matchday": 19,
-      "homeTeamName": "Inter",
-      "awayTeamName": "Bologna",
+      "homeTeamName": "FC Internazionale Milano",
+      "awayTeamName": "Bologna FC 1909",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 2
@@ -2182,8 +2182,8 @@
       "date": "2025-01-17T19:45:00Z",
       "status": "FINISHED",
       "matchday": 21,
-      "homeTeamName": "Roma",
-      "awayTeamName": "Genoa",
+      "homeTeamName": "AS Roma",
+      "awayTeamName": "Genoa CFC",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 1
@@ -2192,9 +2192,9 @@
     {
       "date": "2025-01-18T14:00:00Z",
       "status": "FINISHED",
-      "matchday": 20,
-      "homeTeamName": "Bologna",
-      "awayTeamName": "Monza",
+      "matchday": 21,
+      "homeTeamName": "Bologna FC 1909",
+      "awayTeamName": "AC Monza",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 1
@@ -2204,8 +2204,8 @@
       "date": "2025-01-18T17:00:00Z",
       "status": "FINISHED",
       "matchday": 21,
-      "homeTeamName": "Juventus",
-      "awayTeamName": "Milan",
+      "homeTeamName": "Juventus FC",
+      "awayTeamName": "AC Milan",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 0
@@ -2215,8 +2215,8 @@
       "date": "2025-01-18T19:45:00Z",
       "status": "FINISHED",
       "matchday": 21,
-      "homeTeamName": "Atalanta",
-      "awayTeamName": "Napoli",
+      "homeTeamName": "Atalanta BC",
+      "awayTeamName": "SSC Napoli",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 3
@@ -2225,9 +2225,9 @@
     {
       "date": "2025-01-19T11:30:00Z",
       "status": "FINISHED",
-      "matchday": 20,
-      "homeTeamName": "Fiorentina",
-      "awayTeamName": "Torino",
+      "matchday": 21,
+      "homeTeamName": "ACF Fiorentina",
+      "awayTeamName": "Torino FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
@@ -2237,8 +2237,8 @@
       "date": "2025-01-19T14:00:00Z",
       "status": "FINISHED",
       "matchday": 21,
-      "homeTeamName": "Cagliari",
-      "awayTeamName": "Lecce",
+      "homeTeamName": "Cagliari Calcio",
+      "awayTeamName": "US Lecce",
       "result": {
         "goalsHomeTeam": 4,
         "goalsAwayTeam": 1
@@ -2248,8 +2248,8 @@
       "date": "2025-01-19T14:00:00Z",
       "status": "FINISHED",
       "matchday": 21,
-      "homeTeamName": "Parma",
-      "awayTeamName": "Venezia",
+      "homeTeamName": "Parma Calcio 1913",
+      "awayTeamName": "Venezia FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
@@ -2259,8 +2259,8 @@
       "date": "2025-01-19T17:00:00Z",
       "status": "FINISHED",
       "matchday": 21,
-      "homeTeamName": "Verona",
-      "awayTeamName": "Lazio",
+      "homeTeamName": "Hellas Verona FC",
+      "awayTeamName": "SS Lazio",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 3
@@ -2269,9 +2269,9 @@
     {
       "date": "2025-01-19T19:45:00Z",
       "status": "FINISHED",
-      "matchday": 20,
-      "homeTeamName": "Inter",
-      "awayTeamName": "Empoli",
+      "matchday": 21,
+      "homeTeamName": "FC Internazionale Milano",
+      "awayTeamName": "Empoli FC",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 1
@@ -2281,8 +2281,8 @@
       "date": "2025-01-20T19:45:00Z",
       "status": "FINISHED",
       "matchday": 21,
-      "homeTeamName": "Como",
-      "awayTeamName": "Udinese",
+      "homeTeamName": "Como 1907",
+      "awayTeamName": "Udinese Calcio",
       "result": {
         "goalsHomeTeam": 4,
         "goalsAwayTeam": 1
@@ -2292,8 +2292,8 @@
       "date": "2025-01-24T19:45:00Z",
       "status": "FINISHED",
       "matchday": 22,
-      "homeTeamName": "Torino",
-      "awayTeamName": "Cagliari",
+      "homeTeamName": "Torino FC",
+      "awayTeamName": "Cagliari Calcio",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 0
@@ -2303,8 +2303,8 @@
       "date": "2025-01-25T14:00:00Z",
       "status": "FINISHED",
       "matchday": 22,
-      "homeTeamName": "Como",
-      "awayTeamName": "Atalanta",
+      "homeTeamName": "Como 1907",
+      "awayTeamName": "Atalanta BC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 2
@@ -2314,8 +2314,8 @@
       "date": "2025-01-25T17:00:00Z",
       "status": "FINISHED",
       "matchday": 22,
-      "homeTeamName": "Napoli",
-      "awayTeamName": "Juventus",
+      "homeTeamName": "SSC Napoli",
+      "awayTeamName": "Juventus FC",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
@@ -2325,8 +2325,8 @@
       "date": "2025-01-25T19:45:00Z",
       "status": "FINISHED",
       "matchday": 22,
-      "homeTeamName": "Empoli",
-      "awayTeamName": "Bologna",
+      "homeTeamName": "Empoli FC",
+      "awayTeamName": "Bologna FC 1909",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
@@ -2335,9 +2335,9 @@
     {
       "date": "2025-01-26T11:30:00Z",
       "status": "FINISHED",
-      "matchday": 21,
-      "homeTeamName": "Milan",
-      "awayTeamName": "Parma",
+      "matchday": 22,
+      "homeTeamName": "AC Milan",
+      "awayTeamName": "Parma Calcio 1913",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 2
@@ -2347,8 +2347,8 @@
       "date": "2025-01-26T14:00:00Z",
       "status": "FINISHED",
       "matchday": 22,
-      "homeTeamName": "Udinese",
-      "awayTeamName": "Roma",
+      "homeTeamName": "Udinese Calcio",
+      "awayTeamName": "AS Roma",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 2
@@ -2358,8 +2358,8 @@
       "date": "2025-01-26T17:00:00Z",
       "status": "FINISHED",
       "matchday": 22,
-      "homeTeamName": "Lecce",
-      "awayTeamName": "Inter",
+      "homeTeamName": "US Lecce",
+      "awayTeamName": "FC Internazionale Milano",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 4
@@ -2369,8 +2369,8 @@
       "date": "2025-01-26T19:45:00Z",
       "status": "FINISHED",
       "matchday": 22,
-      "homeTeamName": "Lazio",
-      "awayTeamName": "Fiorentina",
+      "homeTeamName": "SS Lazio",
+      "awayTeamName": "ACF Fiorentina",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 2
@@ -2380,8 +2380,8 @@
       "date": "2025-01-27T17:30:00Z",
       "status": "FINISHED",
       "matchday": 22,
-      "homeTeamName": "Venezia",
-      "awayTeamName": "Verona",
+      "homeTeamName": "Venezia FC",
+      "awayTeamName": "Hellas Verona FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
@@ -2391,8 +2391,8 @@
       "date": "2025-01-27T19:45:00Z",
       "status": "FINISHED",
       "matchday": 22,
-      "homeTeamName": "Genoa",
-      "awayTeamName": "Monza",
+      "homeTeamName": "Genoa CFC",
+      "awayTeamName": "AC Monza",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 0
@@ -2402,8 +2402,8 @@
       "date": "2025-01-31T19:45:00Z",
       "status": "FINISHED",
       "matchday": 23,
-      "homeTeamName": "Parma",
-      "awayTeamName": "Lecce",
+      "homeTeamName": "Parma Calcio 1913",
+      "awayTeamName": "US Lecce",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 3
@@ -2413,8 +2413,8 @@
       "date": "2025-02-01T14:00:00Z",
       "status": "FINISHED",
       "matchday": 23,
-      "homeTeamName": "Monza",
-      "awayTeamName": "Verona",
+      "homeTeamName": "AC Monza",
+      "awayTeamName": "Hellas Verona FC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 1
@@ -2424,8 +2424,8 @@
       "date": "2025-02-01T14:00:00Z",
       "status": "FINISHED",
       "matchday": 23,
-      "homeTeamName": "Udinese",
-      "awayTeamName": "Venezia",
+      "homeTeamName": "Udinese Calcio",
+      "awayTeamName": "Venezia FC",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 2
@@ -2435,8 +2435,8 @@
       "date": "2025-02-01T17:00:00Z",
       "status": "FINISHED",
       "matchday": 23,
-      "homeTeamName": "Atalanta",
-      "awayTeamName": "Torino",
+      "homeTeamName": "Atalanta BC",
+      "awayTeamName": "Torino FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
@@ -2445,9 +2445,9 @@
     {
       "date": "2025-02-01T19:45:00Z",
       "status": "FINISHED",
-      "matchday": 22,
-      "homeTeamName": "Bologna",
-      "awayTeamName": "Como",
+      "matchday": 23,
+      "homeTeamName": "Bologna FC 1909",
+      "awayTeamName": "Como 1907",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 0
@@ -2457,8 +2457,8 @@
       "date": "2025-02-02T11:30:00Z",
       "status": "FINISHED",
       "matchday": 23,
-      "homeTeamName": "Juventus",
-      "awayTeamName": "Empoli",
+      "homeTeamName": "Juventus FC",
+      "awayTeamName": "Empoli FC",
       "result": {
         "goalsHomeTeam": 4,
         "goalsAwayTeam": 1
@@ -2467,9 +2467,9 @@
     {
       "date": "2025-02-02T14:00:00Z",
       "status": "FINISHED",
-      "matchday": 22,
-      "homeTeamName": "Fiorentina",
-      "awayTeamName": "Genoa",
+      "matchday": 23,
+      "homeTeamName": "ACF Fiorentina",
+      "awayTeamName": "Genoa CFC",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
@@ -2478,9 +2478,9 @@
     {
       "date": "2025-02-02T17:00:00Z",
       "status": "FINISHED",
-      "matchday": 22,
-      "homeTeamName": "Milan",
-      "awayTeamName": "Inter",
+      "matchday": 23,
+      "homeTeamName": "AC Milan",
+      "awayTeamName": "FC Internazionale Milano",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
@@ -2490,8 +2490,8 @@
       "date": "2025-02-02T19:45:00Z",
       "status": "FINISHED",
       "matchday": 23,
-      "homeTeamName": "Roma",
-      "awayTeamName": "Napoli",
+      "homeTeamName": "AS Roma",
+      "awayTeamName": "SSC Napoli",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
@@ -2501,19 +2501,19 @@
       "date": "2025-02-03T19:45:00Z",
       "status": "FINISHED",
       "matchday": 23,
-      "homeTeamName": "Cagliari",
-      "awayTeamName": "Lazio",
+      "homeTeamName": "Cagliari Calcio",
+      "awayTeamName": "SS Lazio",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2025-02-06T17:00:00Z",
+      "date": "2025-02-06T19:45:00Z",
       "status": "FINISHED",
-      "matchday": 23,
-      "homeTeamName": "Fiorentina",
-      "awayTeamName": "Inter",
+      "matchday": 14,
+      "homeTeamName": "ACF Fiorentina",
+      "awayTeamName": "FC Internazionale Milano",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 0
@@ -2523,8 +2523,8 @@
       "date": "2025-02-07T19:45:00Z",
       "status": "FINISHED",
       "matchday": 24,
-      "homeTeamName": "Como",
-      "awayTeamName": "Juventus",
+      "homeTeamName": "Como 1907",
+      "awayTeamName": "Juventus FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 2
@@ -2534,8 +2534,8 @@
       "date": "2025-02-08T14:00:00Z",
       "status": "FINISHED",
       "matchday": 24,
-      "homeTeamName": "Verona",
-      "awayTeamName": "Atalanta",
+      "homeTeamName": "Hellas Verona FC",
+      "awayTeamName": "Atalanta BC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 5
@@ -2545,8 +2545,8 @@
       "date": "2025-02-08T17:00:00Z",
       "status": "FINISHED",
       "matchday": 24,
-      "homeTeamName": "Empoli",
-      "awayTeamName": "Milan",
+      "homeTeamName": "Empoli FC",
+      "awayTeamName": "AC Milan",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 2
@@ -2556,8 +2556,8 @@
       "date": "2025-02-08T19:45:00Z",
       "status": "FINISHED",
       "matchday": 24,
-      "homeTeamName": "Torino",
-      "awayTeamName": "Genoa",
+      "homeTeamName": "Torino FC",
+      "awayTeamName": "Genoa CFC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
@@ -2567,8 +2567,8 @@
       "date": "2025-02-09T11:30:00Z",
       "status": "FINISHED",
       "matchday": 24,
-      "homeTeamName": "Venezia",
-      "awayTeamName": "Roma",
+      "homeTeamName": "Venezia FC",
+      "awayTeamName": "AS Roma",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 1
@@ -2578,8 +2578,8 @@
       "date": "2025-02-09T14:00:00Z",
       "status": "FINISHED",
       "matchday": 24,
-      "homeTeamName": "Cagliari",
-      "awayTeamName": "Parma",
+      "homeTeamName": "Cagliari Calcio",
+      "awayTeamName": "Parma Calcio 1913",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
@@ -2589,8 +2589,8 @@
       "date": "2025-02-09T14:00:00Z",
       "status": "FINISHED",
       "matchday": 24,
-      "homeTeamName": "Lazio",
-      "awayTeamName": "Monza",
+      "homeTeamName": "SS Lazio",
+      "awayTeamName": "AC Monza",
       "result": {
         "goalsHomeTeam": 5,
         "goalsAwayTeam": 1
@@ -2600,8 +2600,8 @@
       "date": "2025-02-09T17:00:00Z",
       "status": "FINISHED",
       "matchday": 24,
-      "homeTeamName": "Lecce",
-      "awayTeamName": "Bologna",
+      "homeTeamName": "US Lecce",
+      "awayTeamName": "Bologna FC 1909",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 0
@@ -2611,8 +2611,8 @@
       "date": "2025-02-09T19:45:00Z",
       "status": "FINISHED",
       "matchday": 24,
-      "homeTeamName": "Napoli",
-      "awayTeamName": "Udinese",
+      "homeTeamName": "SSC Napoli",
+      "awayTeamName": "Udinese Calcio",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
@@ -2622,8 +2622,8 @@
       "date": "2025-02-10T19:45:00Z",
       "status": "FINISHED",
       "matchday": 24,
-      "homeTeamName": "Inter",
-      "awayTeamName": "Fiorentina",
+      "homeTeamName": "FC Internazionale Milano",
+      "awayTeamName": "ACF Fiorentina",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
@@ -2632,9 +2632,9 @@
     {
       "date": "2025-02-14T19:45:00Z",
       "status": "FINISHED",
-      "matchday": 24,
-      "homeTeamName": "Bologna",
-      "awayTeamName": "Torino",
+      "matchday": 25,
+      "homeTeamName": "Bologna FC 1909",
+      "awayTeamName": "Torino FC",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 2
@@ -2644,8 +2644,8 @@
       "date": "2025-02-15T14:00:00Z",
       "status": "FINISHED",
       "matchday": 25,
-      "homeTeamName": "Atalanta",
-      "awayTeamName": "Cagliari",
+      "homeTeamName": "Atalanta BC",
+      "awayTeamName": "Cagliari Calcio",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 0
@@ -2655,8 +2655,8 @@
       "date": "2025-02-15T17:00:00Z",
       "status": "FINISHED",
       "matchday": 25,
-      "homeTeamName": "Lazio",
-      "awayTeamName": "Napoli",
+      "homeTeamName": "SS Lazio",
+      "awayTeamName": "SSC Napoli",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 2
@@ -2665,9 +2665,9 @@
     {
       "date": "2025-02-15T19:45:00Z",
       "status": "FINISHED",
-      "matchday": 24,
-      "homeTeamName": "Milan",
-      "awayTeamName": "Verona",
+      "matchday": 25,
+      "homeTeamName": "AC Milan",
+      "awayTeamName": "Hellas Verona FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
@@ -2677,8 +2677,8 @@
       "date": "2025-02-16T11:30:00Z",
       "status": "FINISHED",
       "matchday": 25,
-      "homeTeamName": "Fiorentina",
-      "awayTeamName": "Como",
+      "homeTeamName": "ACF Fiorentina",
+      "awayTeamName": "Como 1907",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 2
@@ -2688,8 +2688,8 @@
       "date": "2025-02-16T14:00:00Z",
       "status": "FINISHED",
       "matchday": 25,
-      "homeTeamName": "Monza",
-      "awayTeamName": "Lecce",
+      "homeTeamName": "AC Monza",
+      "awayTeamName": "US Lecce",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 0
@@ -2699,8 +2699,8 @@
       "date": "2025-02-16T14:00:00Z",
       "status": "FINISHED",
       "matchday": 25,
-      "homeTeamName": "Udinese",
-      "awayTeamName": "Empoli",
+      "homeTeamName": "Udinese Calcio",
+      "awayTeamName": "Empoli FC",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 0
@@ -2710,8 +2710,8 @@
       "date": "2025-02-16T17:00:00Z",
       "status": "FINISHED",
       "matchday": 25,
-      "homeTeamName": "Parma",
-      "awayTeamName": "Roma",
+      "homeTeamName": "Parma Calcio 1913",
+      "awayTeamName": "AS Roma",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 1
@@ -2721,8 +2721,8 @@
       "date": "2025-02-16T19:45:00Z",
       "status": "FINISHED",
       "matchday": 25,
-      "homeTeamName": "Juventus",
-      "awayTeamName": "Inter",
+      "homeTeamName": "Juventus FC",
+      "awayTeamName": "FC Internazionale Milano",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
@@ -2732,8 +2732,8 @@
       "date": "2025-02-17T19:45:00Z",
       "status": "FINISHED",
       "matchday": 25,
-      "homeTeamName": "Genoa",
-      "awayTeamName": "Venezia",
+      "homeTeamName": "Genoa CFC",
+      "awayTeamName": "Venezia FC",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 0
@@ -2743,8 +2743,8 @@
       "date": "2025-02-21T19:45:00Z",
       "status": "FINISHED",
       "matchday": 26,
-      "homeTeamName": "Lecce",
-      "awayTeamName": "Udinese",
+      "homeTeamName": "US Lecce",
+      "awayTeamName": "Udinese Calcio",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 1
@@ -2754,8 +2754,8 @@
       "date": "2025-02-22T14:00:00Z",
       "status": "FINISHED",
       "matchday": 26,
-      "homeTeamName": "Parma",
-      "awayTeamName": "Bologna",
+      "homeTeamName": "Parma Calcio 1913",
+      "awayTeamName": "Bologna FC 1909",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 0
@@ -2765,8 +2765,8 @@
       "date": "2025-02-22T14:00:00Z",
       "status": "FINISHED",
       "matchday": 26,
-      "homeTeamName": "Venezia",
-      "awayTeamName": "Lazio",
+      "homeTeamName": "Venezia FC",
+      "awayTeamName": "SS Lazio",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 0
@@ -2776,8 +2776,8 @@
       "date": "2025-02-22T17:00:00Z",
       "status": "FINISHED",
       "matchday": 26,
-      "homeTeamName": "Torino",
-      "awayTeamName": "Milan",
+      "homeTeamName": "Torino FC",
+      "awayTeamName": "AC Milan",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
@@ -2787,8 +2787,8 @@
       "date": "2025-02-22T19:45:00Z",
       "status": "FINISHED",
       "matchday": 26,
-      "homeTeamName": "Inter",
-      "awayTeamName": "Genoa",
+      "homeTeamName": "FC Internazionale Milano",
+      "awayTeamName": "Genoa CFC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
@@ -2798,8 +2798,8 @@
       "date": "2025-02-23T11:30:00Z",
       "status": "FINISHED",
       "matchday": 26,
-      "homeTeamName": "Como",
-      "awayTeamName": "Napoli",
+      "homeTeamName": "Como 1907",
+      "awayTeamName": "SSC Napoli",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
@@ -2809,8 +2809,8 @@
       "date": "2025-02-23T14:00:00Z",
       "status": "FINISHED",
       "matchday": 26,
-      "homeTeamName": "Verona",
-      "awayTeamName": "Fiorentina",
+      "homeTeamName": "Hellas Verona FC",
+      "awayTeamName": "ACF Fiorentina",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
@@ -2820,8 +2820,8 @@
       "date": "2025-02-23T17:00:00Z",
       "status": "FINISHED",
       "matchday": 26,
-      "homeTeamName": "Empoli",
-      "awayTeamName": "Atalanta",
+      "homeTeamName": "Empoli FC",
+      "awayTeamName": "Atalanta BC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 5
@@ -2831,8 +2831,8 @@
       "date": "2025-02-23T19:45:00Z",
       "status": "FINISHED",
       "matchday": 26,
-      "homeTeamName": "Cagliari",
-      "awayTeamName": "Juventus",
+      "homeTeamName": "Cagliari Calcio",
+      "awayTeamName": "Juventus FC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 1
@@ -2842,8 +2842,8 @@
       "date": "2025-02-24T19:45:00Z",
       "status": "FINISHED",
       "matchday": 26,
-      "homeTeamName": "Roma",
-      "awayTeamName": "Monza",
+      "homeTeamName": "AS Roma",
+      "awayTeamName": "AC Monza",
       "result": {
         "goalsHomeTeam": 4,
         "goalsAwayTeam": 0
@@ -2852,9 +2852,9 @@
     {
       "date": "2025-02-27T19:45:00Z",
       "status": "FINISHED",
-      "matchday": 26,
-      "homeTeamName": "Bologna",
-      "awayTeamName": "Milan",
+      "matchday": 9,
+      "homeTeamName": "Bologna FC 1909",
+      "awayTeamName": "AC Milan",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
@@ -2864,8 +2864,8 @@
       "date": "2025-02-28T19:45:00Z",
       "status": "FINISHED",
       "matchday": 27,
-      "homeTeamName": "Fiorentina",
-      "awayTeamName": "Lecce",
+      "homeTeamName": "ACF Fiorentina",
+      "awayTeamName": "US Lecce",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
@@ -2875,8 +2875,8 @@
       "date": "2025-03-01T14:00:00Z",
       "status": "FINISHED",
       "matchday": 27,
-      "homeTeamName": "Atalanta",
-      "awayTeamName": "Venezia",
+      "homeTeamName": "Atalanta BC",
+      "awayTeamName": "Venezia FC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 0
@@ -2886,8 +2886,8 @@
       "date": "2025-03-01T17:00:00Z",
       "status": "FINISHED",
       "matchday": 27,
-      "homeTeamName": "Napoli",
-      "awayTeamName": "Inter",
+      "homeTeamName": "SSC Napoli",
+      "awayTeamName": "FC Internazionale Milano",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
@@ -2897,8 +2897,8 @@
       "date": "2025-03-01T19:45:00Z",
       "status": "FINISHED",
       "matchday": 27,
-      "homeTeamName": "Udinese",
-      "awayTeamName": "Parma",
+      "homeTeamName": "Udinese Calcio",
+      "awayTeamName": "Parma Calcio 1913",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
@@ -2908,8 +2908,8 @@
       "date": "2025-03-02T11:30:00Z",
       "status": "FINISHED",
       "matchday": 27,
-      "homeTeamName": "Monza",
-      "awayTeamName": "Torino",
+      "homeTeamName": "AC Monza",
+      "awayTeamName": "Torino FC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 2
@@ -2919,8 +2919,8 @@
       "date": "2025-03-02T14:00:00Z",
       "status": "FINISHED",
       "matchday": 27,
-      "homeTeamName": "Bologna",
-      "awayTeamName": "Cagliari",
+      "homeTeamName": "Bologna FC 1909",
+      "awayTeamName": "Cagliari Calcio",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
@@ -2930,8 +2930,8 @@
       "date": "2025-03-02T14:00:00Z",
       "status": "FINISHED",
       "matchday": 27,
-      "homeTeamName": "Genoa",
-      "awayTeamName": "Empoli",
+      "homeTeamName": "Genoa CFC",
+      "awayTeamName": "Empoli FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
@@ -2941,8 +2941,8 @@
       "date": "2025-03-02T17:00:00Z",
       "status": "FINISHED",
       "matchday": 27,
-      "homeTeamName": "Roma",
-      "awayTeamName": "Como",
+      "homeTeamName": "AS Roma",
+      "awayTeamName": "Como 1907",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
@@ -2952,8 +2952,8 @@
       "date": "2025-03-02T19:45:00Z",
       "status": "FINISHED",
       "matchday": 27,
-      "homeTeamName": "Milan",
-      "awayTeamName": "Lazio",
+      "homeTeamName": "AC Milan",
+      "awayTeamName": "SS Lazio",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 2
@@ -2963,8 +2963,8 @@
       "date": "2025-03-03T19:45:00Z",
       "status": "FINISHED",
       "matchday": 27,
-      "homeTeamName": "Juventus",
-      "awayTeamName": "Verona",
+      "homeTeamName": "Juventus FC",
+      "awayTeamName": "Hellas Verona FC",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 0
@@ -2974,8 +2974,8 @@
       "date": "2025-03-07T19:45:00Z",
       "status": "FINISHED",
       "matchday": 28,
-      "homeTeamName": "Cagliari",
-      "awayTeamName": "Genoa",
+      "homeTeamName": "Cagliari Calcio",
+      "awayTeamName": "Genoa CFC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
@@ -2985,8 +2985,8 @@
       "date": "2025-03-08T14:00:00Z",
       "status": "FINISHED",
       "matchday": 28,
-      "homeTeamName": "Como",
-      "awayTeamName": "Venezia",
+      "homeTeamName": "Como 1907",
+      "awayTeamName": "Venezia FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
@@ -2996,8 +2996,8 @@
       "date": "2025-03-08T14:00:00Z",
       "status": "FINISHED",
       "matchday": 28,
-      "homeTeamName": "Parma",
-      "awayTeamName": "Torino",
+      "homeTeamName": "Parma Calcio 1913",
+      "awayTeamName": "Torino FC",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 2
@@ -3007,8 +3007,8 @@
       "date": "2025-03-08T17:00:00Z",
       "status": "FINISHED",
       "matchday": 28,
-      "homeTeamName": "Lecce",
-      "awayTeamName": "Milan",
+      "homeTeamName": "US Lecce",
+      "awayTeamName": "AC Milan",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 3
@@ -3018,8 +3018,8 @@
       "date": "2025-03-08T19:45:00Z",
       "status": "FINISHED",
       "matchday": 28,
-      "homeTeamName": "Inter",
-      "awayTeamName": "Monza",
+      "homeTeamName": "FC Internazionale Milano",
+      "awayTeamName": "AC Monza",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 2
@@ -3029,8 +3029,8 @@
       "date": "2025-03-09T11:30:00Z",
       "status": "FINISHED",
       "matchday": 28,
-      "homeTeamName": "Verona",
-      "awayTeamName": "Bologna",
+      "homeTeamName": "Hellas Verona FC",
+      "awayTeamName": "Bologna FC 1909",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 2
@@ -3040,8 +3040,8 @@
       "date": "2025-03-09T14:00:00Z",
       "status": "FINISHED",
       "matchday": 28,
-      "homeTeamName": "Napoli",
-      "awayTeamName": "Fiorentina",
+      "homeTeamName": "SSC Napoli",
+      "awayTeamName": "ACF Fiorentina",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
@@ -3051,8 +3051,8 @@
       "date": "2025-03-09T17:00:00Z",
       "status": "FINISHED",
       "matchday": 28,
-      "homeTeamName": "Empoli",
-      "awayTeamName": "Roma",
+      "homeTeamName": "Empoli FC",
+      "awayTeamName": "AS Roma",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 1
@@ -3062,8 +3062,8 @@
       "date": "2025-03-09T19:45:00Z",
       "status": "FINISHED",
       "matchday": 28,
-      "homeTeamName": "Juventus",
-      "awayTeamName": "Atalanta",
+      "homeTeamName": "Juventus FC",
+      "awayTeamName": "Atalanta BC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 4
@@ -3073,8 +3073,8 @@
       "date": "2025-03-10T19:45:00Z",
       "status": "FINISHED",
       "matchday": 28,
-      "homeTeamName": "Lazio",
-      "awayTeamName": "Udinese",
+      "homeTeamName": "SS Lazio",
+      "awayTeamName": "Udinese Calcio",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
@@ -3084,8 +3084,8 @@
       "date": "2025-03-14T19:45:00Z",
       "status": "FINISHED",
       "matchday": 29,
-      "homeTeamName": "Genoa",
-      "awayTeamName": "Lecce",
+      "homeTeamName": "Genoa CFC",
+      "awayTeamName": "US Lecce",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
@@ -3095,8 +3095,8 @@
       "date": "2025-03-15T14:00:00Z",
       "status": "FINISHED",
       "matchday": 29,
-      "homeTeamName": "Monza",
-      "awayTeamName": "Parma",
+      "homeTeamName": "AC Monza",
+      "awayTeamName": "Parma Calcio 1913",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
@@ -3106,8 +3106,8 @@
       "date": "2025-03-15T14:00:00Z",
       "status": "FINISHED",
       "matchday": 29,
-      "homeTeamName": "Udinese",
-      "awayTeamName": "Verona",
+      "homeTeamName": "Udinese Calcio",
+      "awayTeamName": "Hellas Verona FC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 1
@@ -3117,8 +3117,8 @@
       "date": "2025-03-15T17:00:00Z",
       "status": "FINISHED",
       "matchday": 29,
-      "homeTeamName": "Milan",
-      "awayTeamName": "Como",
+      "homeTeamName": "AC Milan",
+      "awayTeamName": "Como 1907",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
@@ -3128,8 +3128,8 @@
       "date": "2025-03-15T19:45:00Z",
       "status": "FINISHED",
       "matchday": 29,
-      "homeTeamName": "Torino",
-      "awayTeamName": "Empoli",
+      "homeTeamName": "Torino FC",
+      "awayTeamName": "Empoli FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
@@ -3139,8 +3139,8 @@
       "date": "2025-03-16T11:30:00Z",
       "status": "FINISHED",
       "matchday": 29,
-      "homeTeamName": "Venezia",
-      "awayTeamName": "Napoli",
+      "homeTeamName": "Venezia FC",
+      "awayTeamName": "SSC Napoli",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 0
@@ -3150,8 +3150,8 @@
       "date": "2025-03-16T14:00:00Z",
       "status": "FINISHED",
       "matchday": 29,
-      "homeTeamName": "Bologna",
-      "awayTeamName": "Lazio",
+      "homeTeamName": "Bologna FC 1909",
+      "awayTeamName": "SS Lazio",
       "result": {
         "goalsHomeTeam": 5,
         "goalsAwayTeam": 0
@@ -3161,8 +3161,8 @@
       "date": "2025-03-16T15:00:00Z",
       "status": "FINISHED",
       "matchday": 29,
-      "homeTeamName": "Roma",
-      "awayTeamName": "Cagliari",
+      "homeTeamName": "AS Roma",
+      "awayTeamName": "Cagliari Calcio",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
@@ -3172,8 +3172,8 @@
       "date": "2025-03-16T17:00:00Z",
       "status": "FINISHED",
       "matchday": 29,
-      "homeTeamName": "Fiorentina",
-      "awayTeamName": "Juventus",
+      "homeTeamName": "ACF Fiorentina",
+      "awayTeamName": "Juventus FC",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 0
@@ -3183,8 +3183,8 @@
       "date": "2025-03-16T19:45:00Z",
       "status": "FINISHED",
       "matchday": 29,
-      "homeTeamName": "Atalanta",
-      "awayTeamName": "Inter",
+      "homeTeamName": "Atalanta BC",
+      "awayTeamName": "FC Internazionale Milano",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 2
@@ -3194,8 +3194,8 @@
       "date": "2025-03-29T14:00:00Z",
       "status": "FINISHED",
       "matchday": 30,
-      "homeTeamName": "Como",
-      "awayTeamName": "Empoli",
+      "homeTeamName": "Como 1907",
+      "awayTeamName": "Empoli FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
@@ -3205,8 +3205,8 @@
       "date": "2025-03-29T14:00:00Z",
       "status": "FINISHED",
       "matchday": 30,
-      "homeTeamName": "Venezia",
-      "awayTeamName": "Bologna",
+      "homeTeamName": "Venezia FC",
+      "awayTeamName": "Bologna FC 1909",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 1
@@ -3216,8 +3216,8 @@
       "date": "2025-03-29T17:00:00Z",
       "status": "FINISHED",
       "matchday": 30,
-      "homeTeamName": "Juventus",
-      "awayTeamName": "Genoa",
+      "homeTeamName": "Juventus FC",
+      "awayTeamName": "Genoa CFC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
@@ -3227,954 +3227,954 @@
       "date": "2025-03-29T19:45:00Z",
       "status": "FINISHED",
       "matchday": 30,
-      "homeTeamName": "Lecce",
-      "awayTeamName": "Roma",
+      "homeTeamName": "US Lecce",
+      "awayTeamName": "AS Roma",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2025-03-30T11:30:00Z",
+      "date": "2025-03-30T10:30:00Z",
       "status": "FINISHED",
       "matchday": 30,
-      "homeTeamName": "Cagliari",
-      "awayTeamName": "Monza",
+      "homeTeamName": "Cagliari Calcio",
+      "awayTeamName": "AC Monza",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2025-03-30T14:00:00Z",
+      "date": "2025-03-30T13:00:00Z",
       "status": "FINISHED",
       "matchday": 30,
-      "homeTeamName": "Fiorentina",
-      "awayTeamName": "Atalanta",
+      "homeTeamName": "ACF Fiorentina",
+      "awayTeamName": "Atalanta BC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2025-03-30T17:00:00Z",
+      "date": "2025-03-30T16:00:00Z",
       "status": "FINISHED",
       "matchday": 30,
-      "homeTeamName": "Inter",
-      "awayTeamName": "Udinese",
+      "homeTeamName": "FC Internazionale Milano",
+      "awayTeamName": "Udinese Calcio",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2025-03-30T19:45:00Z",
+      "date": "2025-03-30T18:45:00Z",
       "status": "FINISHED",
       "matchday": 30,
-      "homeTeamName": "Napoli",
-      "awayTeamName": "Milan",
+      "homeTeamName": "SSC Napoli",
+      "awayTeamName": "AC Milan",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2025-03-31T17:30:00Z",
+      "date": "2025-03-31T16:30:00Z",
       "status": "FINISHED",
       "matchday": 30,
-      "homeTeamName": "Verona",
-      "awayTeamName": "Parma",
+      "homeTeamName": "Hellas Verona FC",
+      "awayTeamName": "Parma Calcio 1913",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2025-03-31T19:45:00Z",
+      "date": "2025-03-31T18:45:00Z",
       "status": "FINISHED",
       "matchday": 30,
-      "homeTeamName": "Lazio",
-      "awayTeamName": "Torino",
+      "homeTeamName": "SS Lazio",
+      "awayTeamName": "Torino FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2025-04-04T19:45:00Z",
+      "date": "2025-04-04T18:45:00Z",
       "status": "FINISHED",
       "matchday": 31,
-      "homeTeamName": "Genoa",
-      "awayTeamName": "Udinese",
+      "homeTeamName": "Genoa CFC",
+      "awayTeamName": "Udinese Calcio",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2025-04-05T14:00:00Z",
+      "date": "2025-04-05T13:00:00Z",
       "status": "FINISHED",
       "matchday": 31,
-      "homeTeamName": "Monza",
-      "awayTeamName": "Como",
+      "homeTeamName": "AC Monza",
+      "awayTeamName": "Como 1907",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 3
       }
     },
     {
-      "date": "2025-04-05T17:00:00Z",
+      "date": "2025-04-05T16:00:00Z",
       "status": "FINISHED",
       "matchday": 31,
-      "homeTeamName": "Parma",
-      "awayTeamName": "Inter",
+      "homeTeamName": "Parma Calcio 1913",
+      "awayTeamName": "FC Internazionale Milano",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2025-04-05T19:45:00Z",
+      "date": "2025-04-05T18:45:00Z",
       "status": "FINISHED",
       "matchday": 31,
-      "homeTeamName": "Milan",
-      "awayTeamName": "Fiorentina",
+      "homeTeamName": "AC Milan",
+      "awayTeamName": "ACF Fiorentina",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2025-04-06T11:30:00Z",
+      "date": "2025-04-06T10:30:00Z",
       "status": "FINISHED",
       "matchday": 31,
-      "homeTeamName": "Lecce",
-      "awayTeamName": "Venezia",
+      "homeTeamName": "US Lecce",
+      "awayTeamName": "Venezia FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2025-04-06T14:00:00Z",
+      "date": "2025-04-06T13:00:00Z",
       "status": "FINISHED",
       "matchday": 31,
-      "homeTeamName": "Empoli",
-      "awayTeamName": "Cagliari",
+      "homeTeamName": "Empoli FC",
+      "awayTeamName": "Cagliari Calcio",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2025-04-06T14:00:00Z",
+      "date": "2025-04-06T13:00:00Z",
       "status": "FINISHED",
       "matchday": 31,
-      "homeTeamName": "Torino",
-      "awayTeamName": "Verona",
+      "homeTeamName": "Torino FC",
+      "awayTeamName": "Hellas Verona FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2025-04-06T17:00:00Z",
+      "date": "2025-04-06T16:00:00Z",
       "status": "FINISHED",
       "matchday": 31,
-      "homeTeamName": "Atalanta",
-      "awayTeamName": "Lazio",
+      "homeTeamName": "Atalanta BC",
+      "awayTeamName": "SS Lazio",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2025-04-06T19:45:00Z",
+      "date": "2025-04-06T18:45:00Z",
       "status": "FINISHED",
       "matchday": 31,
-      "homeTeamName": "Roma",
-      "awayTeamName": "Juventus",
+      "homeTeamName": "AS Roma",
+      "awayTeamName": "Juventus FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2025-04-07T19:45:00Z",
+      "date": "2025-04-07T18:45:00Z",
       "status": "FINISHED",
       "matchday": 31,
-      "homeTeamName": "Bologna",
-      "awayTeamName": "Napoli",
+      "homeTeamName": "Bologna FC 1909",
+      "awayTeamName": "SSC Napoli",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2025-04-11T19:45:00Z",
+      "date": "2025-04-11T18:45:00Z",
       "status": "FINISHED",
       "matchday": 32,
-      "homeTeamName": "Udinese",
-      "awayTeamName": "Milan",
+      "homeTeamName": "Udinese Calcio",
+      "awayTeamName": "AC Milan",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 4
       }
     },
     {
-      "date": "2025-04-12T14:00:00Z",
+      "date": "2025-04-12T13:00:00Z",
       "status": "FINISHED",
       "matchday": 32,
-      "homeTeamName": "Venezia",
-      "awayTeamName": "Monza",
+      "homeTeamName": "Venezia FC",
+      "awayTeamName": "AC Monza",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2025-04-12T17:00:00Z",
+      "date": "2025-04-12T16:00:00Z",
       "status": "FINISHED",
       "matchday": 32,
-      "homeTeamName": "Inter",
-      "awayTeamName": "Cagliari",
+      "homeTeamName": "FC Internazionale Milano",
+      "awayTeamName": "Cagliari Calcio",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2025-04-12T19:45:00Z",
+      "date": "2025-04-12T18:45:00Z",
       "status": "FINISHED",
       "matchday": 32,
-      "homeTeamName": "Juventus",
-      "awayTeamName": "Lecce",
+      "homeTeamName": "Juventus FC",
+      "awayTeamName": "US Lecce",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2025-04-13T11:30:00Z",
+      "date": "2025-04-13T10:30:00Z",
       "status": "FINISHED",
       "matchday": 32,
-      "homeTeamName": "Atalanta",
-      "awayTeamName": "Bologna",
+      "homeTeamName": "Atalanta BC",
+      "awayTeamName": "Bologna FC 1909",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2025-04-13T14:00:00Z",
+      "date": "2025-04-13T13:00:00Z",
       "status": "FINISHED",
       "matchday": 32,
-      "homeTeamName": "Fiorentina",
-      "awayTeamName": "Parma",
+      "homeTeamName": "ACF Fiorentina",
+      "awayTeamName": "Parma Calcio 1913",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2025-04-13T14:00:00Z",
+      "date": "2025-04-13T13:00:00Z",
       "status": "FINISHED",
       "matchday": 32,
-      "homeTeamName": "Verona",
-      "awayTeamName": "Genoa",
+      "homeTeamName": "Hellas Verona FC",
+      "awayTeamName": "Genoa CFC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2025-04-13T17:00:00Z",
+      "date": "2025-04-13T16:00:00Z",
       "status": "FINISHED",
       "matchday": 32,
-      "homeTeamName": "Como",
-      "awayTeamName": "Torino",
+      "homeTeamName": "Como 1907",
+      "awayTeamName": "Torino FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2025-04-13T19:45:00Z",
+      "date": "2025-04-13T18:45:00Z",
       "status": "FINISHED",
       "matchday": 32,
-      "homeTeamName": "Lazio",
-      "awayTeamName": "Roma",
+      "homeTeamName": "SS Lazio",
+      "awayTeamName": "AS Roma",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2025-04-14T19:45:00Z",
+      "date": "2025-04-14T18:45:00Z",
       "status": "FINISHED",
       "matchday": 32,
-      "homeTeamName": "Napoli",
-      "awayTeamName": "Empoli",
+      "homeTeamName": "SSC Napoli",
+      "awayTeamName": "Empoli FC",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2025-04-19T14:00:00Z",
+      "date": "2025-04-19T13:00:00Z",
       "status": "FINISHED",
       "matchday": 33,
-      "homeTeamName": "Lecce",
-      "awayTeamName": "Como",
+      "homeTeamName": "US Lecce",
+      "awayTeamName": "Como 1907",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 3
       }
     },
     {
-      "date": "2025-04-19T17:00:00Z",
+      "date": "2025-04-19T16:00:00Z",
       "status": "FINISHED",
       "matchday": 33,
-      "homeTeamName": "Monza",
-      "awayTeamName": "Napoli",
+      "homeTeamName": "AC Monza",
+      "awayTeamName": "SSC Napoli",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2025-04-19T19:45:00Z",
+      "date": "2025-04-19T18:45:00Z",
       "status": "FINISHED",
       "matchday": 33,
-      "homeTeamName": "Roma",
-      "awayTeamName": "Verona",
+      "homeTeamName": "AS Roma",
+      "awayTeamName": "Hellas Verona FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2025-04-20T14:00:00Z",
+      "date": "2025-04-20T13:00:00Z",
       "status": "FINISHED",
       "matchday": 33,
-      "homeTeamName": "Empoli",
-      "awayTeamName": "Venezia",
+      "homeTeamName": "Empoli FC",
+      "awayTeamName": "Venezia FC",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2025-04-20T17:00:00Z",
+      "date": "2025-04-20T16:00:00Z",
       "status": "FINISHED",
       "matchday": 33,
-      "homeTeamName": "Bologna",
-      "awayTeamName": "Inter",
+      "homeTeamName": "Bologna FC 1909",
+      "awayTeamName": "FC Internazionale Milano",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2025-04-20T19:45:00Z",
+      "date": "2025-04-20T18:45:00Z",
       "status": "FINISHED",
       "matchday": 33,
-      "homeTeamName": "Milan",
-      "awayTeamName": "Atalanta",
+      "homeTeamName": "AC Milan",
+      "awayTeamName": "Atalanta BC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2025-04-23T17:30:00Z",
+      "date": "2025-04-23T16:30:00Z",
       "status": "FINISHED",
       "matchday": 33,
-      "homeTeamName": "Cagliari",
-      "awayTeamName": "Fiorentina",
+      "homeTeamName": "Cagliari Calcio",
+      "awayTeamName": "ACF Fiorentina",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2025-04-23T17:30:00Z",
+      "date": "2025-04-23T16:30:00Z",
       "status": "FINISHED",
       "matchday": 33,
-      "homeTeamName": "Genoa",
-      "awayTeamName": "Lazio",
+      "homeTeamName": "Genoa CFC",
+      "awayTeamName": "SS Lazio",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2025-04-23T17:30:00Z",
+      "date": "2025-04-23T16:30:00Z",
       "status": "FINISHED",
       "matchday": 33,
-      "homeTeamName": "Parma",
-      "awayTeamName": "Juventus",
+      "homeTeamName": "Parma Calcio 1913",
+      "awayTeamName": "Juventus FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2025-04-23T17:30:00Z",
+      "date": "2025-04-23T16:30:00Z",
       "status": "FINISHED",
       "matchday": 33,
-      "homeTeamName": "Torino",
-      "awayTeamName": "Udinese",
+      "homeTeamName": "Torino FC",
+      "awayTeamName": "Udinese Calcio",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2025-04-27T11:30:00Z",
+      "date": "2025-04-27T10:30:00Z",
       "status": "FINISHED",
       "matchday": 34,
-      "homeTeamName": "Como",
-      "awayTeamName": "Genoa",
+      "homeTeamName": "Como 1907",
+      "awayTeamName": "Genoa CFC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2025-04-27T11:30:00Z",
+      "date": "2025-04-27T10:30:00Z",
       "status": "FINISHED",
       "matchday": 34,
-      "homeTeamName": "Venezia",
-      "awayTeamName": "Milan",
+      "homeTeamName": "Venezia FC",
+      "awayTeamName": "AC Milan",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2025-04-27T14:00:00Z",
+      "date": "2025-04-27T13:00:00Z",
       "status": "FINISHED",
       "matchday": 34,
-      "homeTeamName": "Fiorentina",
-      "awayTeamName": "Empoli",
+      "homeTeamName": "ACF Fiorentina",
+      "awayTeamName": "Empoli FC",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2025-04-27T14:00:00Z",
+      "date": "2025-04-27T13:00:00Z",
       "status": "FINISHED",
       "matchday": 34,
-      "homeTeamName": "Inter",
-      "awayTeamName": "Roma",
+      "homeTeamName": "FC Internazionale Milano",
+      "awayTeamName": "AS Roma",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2025-04-27T17:00:00Z",
+      "date": "2025-04-27T16:00:00Z",
       "status": "FINISHED",
       "matchday": 34,
-      "homeTeamName": "Juventus",
-      "awayTeamName": "Monza",
+      "homeTeamName": "Juventus FC",
+      "awayTeamName": "AC Monza",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2025-04-27T19:45:00Z",
+      "date": "2025-04-27T18:45:00Z",
       "status": "FINISHED",
       "matchday": 34,
-      "homeTeamName": "Atalanta",
-      "awayTeamName": "Lecce",
+      "homeTeamName": "Atalanta BC",
+      "awayTeamName": "US Lecce",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2025-04-27T19:45:00Z",
+      "date": "2025-04-27T18:45:00Z",
       "status": "FINISHED",
       "matchday": 34,
-      "homeTeamName": "Napoli",
-      "awayTeamName": "Torino",
+      "homeTeamName": "SSC Napoli",
+      "awayTeamName": "Torino FC",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2025-04-28T17:30:00Z",
+      "date": "2025-04-28T16:30:00Z",
       "status": "FINISHED",
       "matchday": 34,
-      "homeTeamName": "Udinese",
-      "awayTeamName": "Bologna",
+      "homeTeamName": "Udinese Calcio",
+      "awayTeamName": "Bologna FC 1909",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2025-04-28T19:45:00Z",
+      "date": "2025-04-28T18:45:00Z",
       "status": "FINISHED",
       "matchday": 34,
-      "homeTeamName": "Lazio",
-      "awayTeamName": "Parma",
-      "result": {
-        "goalsHomeTeam": 2,
-        "goalsAwayTeam": 2
-      }
-    },
-    {
-      "date": "2025-04-28T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 34,
-      "homeTeamName": "Verona",
-      "awayTeamName": "Cagliari",
+      "homeTeamName": "Hellas Verona FC",
+      "awayTeamName": "Cagliari Calcio",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2025-05-02T19:45:00Z",
+      "date": "2025-04-28T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "SS Lazio",
+      "awayTeamName": "Parma Calcio 1913",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-02T18:45:00Z",
       "status": "FINISHED",
       "matchday": 35,
-      "homeTeamName": "Torino",
-      "awayTeamName": "Venezia",
+      "homeTeamName": "Torino FC",
+      "awayTeamName": "Venezia FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2025-05-03T14:00:00Z",
+      "date": "2025-05-03T13:00:00Z",
       "status": "FINISHED",
       "matchday": 35,
-      "homeTeamName": "Cagliari",
-      "awayTeamName": "Udinese",
+      "homeTeamName": "Cagliari Calcio",
+      "awayTeamName": "Udinese Calcio",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2025-05-03T14:00:00Z",
+      "date": "2025-05-03T13:00:00Z",
       "status": "FINISHED",
       "matchday": 35,
-      "homeTeamName": "Parma",
-      "awayTeamName": "Como",
+      "homeTeamName": "Parma Calcio 1913",
+      "awayTeamName": "Como 1907",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2025-05-03T17:00:00Z",
+      "date": "2025-05-03T16:00:00Z",
       "status": "FINISHED",
       "matchday": 35,
-      "homeTeamName": "Lecce",
-      "awayTeamName": "Napoli",
+      "homeTeamName": "US Lecce",
+      "awayTeamName": "SSC Napoli",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2025-05-03T19:45:00Z",
+      "date": "2025-05-03T18:45:00Z",
       "status": "FINISHED",
       "matchday": 35,
-      "homeTeamName": "Inter",
-      "awayTeamName": "Verona",
+      "homeTeamName": "FC Internazionale Milano",
+      "awayTeamName": "Hellas Verona FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2025-05-04T11:30:00Z",
+      "date": "2025-05-04T10:30:00Z",
       "status": "FINISHED",
       "matchday": 35,
-      "homeTeamName": "Empoli",
-      "awayTeamName": "Lazio",
+      "homeTeamName": "Empoli FC",
+      "awayTeamName": "SS Lazio",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2025-05-04T14:00:00Z",
+      "date": "2025-05-04T13:00:00Z",
       "status": "FINISHED",
       "matchday": 35,
-      "homeTeamName": "Monza",
-      "awayTeamName": "Atalanta",
+      "homeTeamName": "AC Monza",
+      "awayTeamName": "Atalanta BC",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 4
       }
     },
     {
-      "date": "2025-05-04T17:00:00Z",
+      "date": "2025-05-04T16:00:00Z",
       "status": "FINISHED",
       "matchday": 35,
-      "homeTeamName": "Roma",
-      "awayTeamName": "Fiorentina",
+      "homeTeamName": "AS Roma",
+      "awayTeamName": "ACF Fiorentina",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2025-05-04T19:45:00Z",
+      "date": "2025-05-04T18:45:00Z",
       "status": "FINISHED",
       "matchday": 35,
-      "homeTeamName": "Bologna",
-      "awayTeamName": "Juventus",
+      "homeTeamName": "Bologna FC 1909",
+      "awayTeamName": "Juventus FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2025-05-05T19:45:00Z",
+      "date": "2025-05-05T18:45:00Z",
       "status": "FINISHED",
       "matchday": 35,
-      "homeTeamName": "Genoa",
-      "awayTeamName": "Milan",
+      "homeTeamName": "Genoa CFC",
+      "awayTeamName": "AC Milan",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2025-05-09T19:45:00Z",
+      "date": "2025-05-09T18:45:00Z",
       "status": "FINISHED",
       "matchday": 36,
-      "homeTeamName": "Milan",
-      "awayTeamName": "Bologna",
+      "homeTeamName": "AC Milan",
+      "awayTeamName": "Bologna FC 1909",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2025-05-10T14:00:00Z",
+      "date": "2025-05-10T13:00:00Z",
       "status": "FINISHED",
       "matchday": 36,
-      "homeTeamName": "Como",
-      "awayTeamName": "Cagliari",
+      "homeTeamName": "Como 1907",
+      "awayTeamName": "Cagliari Calcio",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2025-05-10T17:00:00Z",
+      "date": "2025-05-10T16:00:00Z",
       "status": "FINISHED",
       "matchday": 36,
-      "homeTeamName": "Lazio",
-      "awayTeamName": "Juventus",
+      "homeTeamName": "SS Lazio",
+      "awayTeamName": "Juventus FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2025-05-10T19:45:00Z",
+      "date": "2025-05-10T18:45:00Z",
       "status": "FINISHED",
       "matchday": 36,
-      "homeTeamName": "Empoli",
-      "awayTeamName": "Parma",
+      "homeTeamName": "Empoli FC",
+      "awayTeamName": "Parma Calcio 1913",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2025-05-11T11:30:00Z",
+      "date": "2025-05-11T10:30:00Z",
       "status": "FINISHED",
       "matchday": 36,
-      "homeTeamName": "Udinese",
-      "awayTeamName": "Monza",
+      "homeTeamName": "Udinese Calcio",
+      "awayTeamName": "AC Monza",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2025-05-11T14:00:00Z",
+      "date": "2025-05-11T13:00:00Z",
       "status": "FINISHED",
       "matchday": 36,
-      "homeTeamName": "Verona",
-      "awayTeamName": "Lecce",
+      "homeTeamName": "Hellas Verona FC",
+      "awayTeamName": "US Lecce",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2025-05-11T17:00:00Z",
+      "date": "2025-05-11T16:00:00Z",
       "status": "FINISHED",
       "matchday": 36,
-      "homeTeamName": "Torino",
-      "awayTeamName": "Inter",
+      "homeTeamName": "Torino FC",
+      "awayTeamName": "FC Internazionale Milano",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2025-05-11T19:45:00Z",
+      "date": "2025-05-11T18:45:00Z",
       "status": "FINISHED",
       "matchday": 36,
-      "homeTeamName": "Napoli",
-      "awayTeamName": "Genoa",
+      "homeTeamName": "SSC Napoli",
+      "awayTeamName": "Genoa CFC",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2025-05-12T17:30:00Z",
+      "date": "2025-05-12T16:30:00Z",
       "status": "FINISHED",
       "matchday": 36,
-      "homeTeamName": "Venezia",
-      "awayTeamName": "Fiorentina",
+      "homeTeamName": "Venezia FC",
+      "awayTeamName": "ACF Fiorentina",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2025-05-12T19:45:00Z",
+      "date": "2025-05-12T18:45:00Z",
       "status": "FINISHED",
       "matchday": 36,
-      "homeTeamName": "Atalanta",
-      "awayTeamName": "Roma",
+      "homeTeamName": "Atalanta BC",
+      "awayTeamName": "AS Roma",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2025-05-17T19:45:00Z",
+      "date": "2025-05-17T18:45:00Z",
       "status": "FINISHED",
       "matchday": 37,
-      "homeTeamName": "Genoa",
-      "awayTeamName": "Atalanta",
+      "homeTeamName": "Genoa CFC",
+      "awayTeamName": "Atalanta BC",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 3
       }
     },
     {
-      "date": "2025-05-18T19:45:00Z",
+      "date": "2025-05-18T18:45:00Z",
       "status": "FINISHED",
       "matchday": 37,
-      "homeTeamName": "Cagliari",
-      "awayTeamName": "Venezia",
+      "homeTeamName": "Cagliari Calcio",
+      "awayTeamName": "Venezia FC",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2025-05-18T19:45:00Z",
+      "date": "2025-05-18T18:45:00Z",
       "status": "FINISHED",
       "matchday": 37,
-      "homeTeamName": "Fiorentina",
-      "awayTeamName": "Bologna",
+      "homeTeamName": "ACF Fiorentina",
+      "awayTeamName": "Bologna FC 1909",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2025-05-18T19:45:00Z",
+      "date": "2025-05-18T18:45:00Z",
       "status": "FINISHED",
       "matchday": 37,
-      "homeTeamName": "Inter",
-      "awayTeamName": "Lazio",
+      "homeTeamName": "Hellas Verona FC",
+      "awayTeamName": "Como 1907",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-18T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 37,
+      "homeTeamName": "FC Internazionale Milano",
+      "awayTeamName": "SS Lazio",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2025-05-18T19:45:00Z",
+      "date": "2025-05-18T18:45:00Z",
       "status": "FINISHED",
       "matchday": 37,
-      "homeTeamName": "Juventus",
-      "awayTeamName": "Udinese",
+      "homeTeamName": "Juventus FC",
+      "awayTeamName": "Udinese Calcio",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2025-05-18T19:45:00Z",
+      "date": "2025-05-18T18:45:00Z",
       "status": "FINISHED",
       "matchday": 37,
-      "homeTeamName": "Lecce",
-      "awayTeamName": "Torino",
+      "homeTeamName": "US Lecce",
+      "awayTeamName": "Torino FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2025-05-18T19:45:00Z",
+      "date": "2025-05-18T18:45:00Z",
       "status": "FINISHED",
       "matchday": 37,
-      "homeTeamName": "Monza",
-      "awayTeamName": "Empoli",
+      "homeTeamName": "AC Monza",
+      "awayTeamName": "Empoli FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 3
       }
     },
     {
-      "date": "2025-05-18T19:45:00Z",
+      "date": "2025-05-18T18:45:00Z",
       "status": "FINISHED",
       "matchday": 37,
-      "homeTeamName": "Parma",
-      "awayTeamName": "Napoli",
+      "homeTeamName": "Parma Calcio 1913",
+      "awayTeamName": "SSC Napoli",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2025-05-18T19:45:00Z",
+      "date": "2025-05-18T18:45:00Z",
       "status": "FINISHED",
       "matchday": 37,
-      "homeTeamName": "Roma",
-      "awayTeamName": "Milan",
+      "homeTeamName": "AS Roma",
+      "awayTeamName": "AC Milan",
       "result": {
         "goalsHomeTeam": 3,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2025-05-18T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 37,
-      "homeTeamName": "Verona",
-      "awayTeamName": "Como",
-      "result": {
-        "goalsHomeTeam": 1,
-        "goalsAwayTeam": 1
-      }
-    },
-    {
-      "date": "2025-05-23T19:45:00Z",
+      "date": "2025-05-23T18:45:00Z",
       "status": "FINISHED",
       "matchday": 38,
-      "homeTeamName": "Como",
-      "awayTeamName": "Inter",
+      "homeTeamName": "Como 1907",
+      "awayTeamName": "FC Internazionale Milano",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2025-05-23T19:45:00Z",
+      "date": "2025-05-23T18:45:00Z",
       "status": "FINISHED",
       "matchday": 38,
-      "homeTeamName": "Napoli",
-      "awayTeamName": "Cagliari",
+      "homeTeamName": "SSC Napoli",
+      "awayTeamName": "Cagliari Calcio",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2025-05-24T17:00:00Z",
+      "date": "2025-05-24T16:00:00Z",
       "status": "FINISHED",
       "matchday": 38,
-      "homeTeamName": "Bologna",
-      "awayTeamName": "Genoa",
+      "homeTeamName": "Bologna FC 1909",
+      "awayTeamName": "Genoa CFC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 3
       }
     },
     {
-      "date": "2025-05-24T19:45:00Z",
+      "date": "2025-05-24T18:45:00Z",
       "status": "FINISHED",
       "matchday": 38,
-      "homeTeamName": "Milan",
-      "awayTeamName": "Monza",
+      "homeTeamName": "AC Milan",
+      "awayTeamName": "AC Monza",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 0
       }
     },
     {
-      "date": "2025-05-25T19:45:00Z",
+      "date": "2025-05-25T18:45:00Z",
       "status": "FINISHED",
       "matchday": 38,
-      "homeTeamName": "Atalanta",
-      "awayTeamName": "Parma",
+      "homeTeamName": "Atalanta BC",
+      "awayTeamName": "Parma Calcio 1913",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 3
       }
     },
     {
-      "date": "2025-05-25T19:45:00Z",
+      "date": "2025-05-25T18:45:00Z",
       "status": "FINISHED",
       "matchday": 38,
-      "homeTeamName": "Empoli",
-      "awayTeamName": "Verona",
+      "homeTeamName": "Empoli FC",
+      "awayTeamName": "Hellas Verona FC",
       "result": {
         "goalsHomeTeam": 1,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2025-05-25T19:45:00Z",
+      "date": "2025-05-25T18:45:00Z",
       "status": "FINISHED",
       "matchday": 38,
-      "homeTeamName": "Lazio",
-      "awayTeamName": "Lecce",
+      "homeTeamName": "SS Lazio",
+      "awayTeamName": "US Lecce",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 1
       }
     },
     {
-      "date": "2025-05-25T19:45:00Z",
+      "date": "2025-05-25T18:45:00Z",
       "status": "FINISHED",
       "matchday": 38,
-      "homeTeamName": "Torino",
-      "awayTeamName": "Roma",
+      "homeTeamName": "Torino FC",
+      "awayTeamName": "AS Roma",
       "result": {
         "goalsHomeTeam": 0,
         "goalsAwayTeam": 2
       }
     },
     {
-      "date": "2025-05-25T19:45:00Z",
+      "date": "2025-05-25T18:45:00Z",
       "status": "FINISHED",
       "matchday": 38,
-      "homeTeamName": "Udinese",
-      "awayTeamName": "Fiorentina",
+      "homeTeamName": "Udinese Calcio",
+      "awayTeamName": "ACF Fiorentina",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 3
       }
     },
     {
-      "date": "2025-05-25T19:45:00Z",
+      "date": "2025-05-25T18:45:00Z",
       "status": "FINISHED",
       "matchday": 38,
-      "homeTeamName": "Venezia",
-      "awayTeamName": "Juventus",
+      "homeTeamName": "Venezia FC",
+      "awayTeamName": "Juventus FC",
       "result": {
         "goalsHomeTeam": 2,
         "goalsAwayTeam": 3
