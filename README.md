@@ -26,7 +26,7 @@
 
 ## Бонус
 
-- [РПЛ 2024/25](https://a-berez.github.io/charts/rpl)
+- [Футбол](https://a-berez.github.io/charts/football)
 
 ## Другое
 

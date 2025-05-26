@@ -1,0 +1,4184 @@
+{
+  "fixtures": [
+    {
+      "date": "2024-08-15T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Ath Bilbao",
+      "awayTeamName": "Getafe",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-08-15T20:30:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Betis",
+      "awayTeamName": "Girona",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-08-16T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Celta",
+      "awayTeamName": "Alaves",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-08-16T20:30:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Las Palmas",
+      "awayTeamName": "Sevilla",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-08-17T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Osasuna",
+      "awayTeamName": "Leganes",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-08-17T20:30:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Valencia",
+      "awayTeamName": "Barcelona",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-08-18T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Sociedad",
+      "awayTeamName": "Vallecano",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-08-18T20:30:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Mallorca",
+      "awayTeamName": "Real Madrid",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-08-19T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Valladolid",
+      "awayTeamName": "Espanol",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-08-19T20:30:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Villarreal",
+      "awayTeamName": "Ath Madrid",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-08-23T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Celta",
+      "awayTeamName": "Valencia",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-08-23T20:30:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Sevilla",
+      "awayTeamName": "Villarreal",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-08-24T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Osasuna",
+      "awayTeamName": "Mallorca",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-08-24T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Barcelona",
+      "awayTeamName": "Ath Bilbao",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-08-24T20:30:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Espanol",
+      "awayTeamName": "Sociedad",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-08-24T20:30:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Getafe",
+      "awayTeamName": "Vallecano",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-08-25T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Real Madrid",
+      "awayTeamName": "Valladolid",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-08-25T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Leganes",
+      "awayTeamName": "Las Palmas",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-08-25T18:15:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Alaves",
+      "awayTeamName": "Betis",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-08-25T20:30:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Ath Madrid",
+      "awayTeamName": "Girona",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-08-26T20:30:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Villarreal",
+      "awayTeamName": "Celta",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-08-27T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Mallorca",
+      "awayTeamName": "Sevilla",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-08-27T20:30:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Vallecano",
+      "awayTeamName": "Barcelona",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-08-28T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Ath Bilbao",
+      "awayTeamName": "Valencia",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-08-28T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Valladolid",
+      "awayTeamName": "Leganes",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-08-28T20:30:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Ath Madrid",
+      "awayTeamName": "Espanol",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-08-28T20:30:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Sociedad",
+      "awayTeamName": "Alaves",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-08-29T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Girona",
+      "awayTeamName": "Osasuna",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-08-29T20:30:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Las Palmas",
+      "awayTeamName": "Real Madrid",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-08-31T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Barcelona",
+      "awayTeamName": "Valladolid",
+      "result": {
+        "goalsHomeTeam": 7,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-08-31T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Ath Bilbao",
+      "awayTeamName": "Ath Madrid",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-08-31T18:15:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Espanol",
+      "awayTeamName": "Vallecano",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-08-31T20:30:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Leganes",
+      "awayTeamName": "Mallorca",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-08-31T20:30:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Valencia",
+      "awayTeamName": "Villarreal",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-01T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Alaves",
+      "awayTeamName": "Las Palmas",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-01T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Osasuna",
+      "awayTeamName": "Celta",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-09-01T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Sevilla",
+      "awayTeamName": "Girona",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-09-01T18:15:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Getafe",
+      "awayTeamName": "Sociedad",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-01T20:30:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Real Madrid",
+      "awayTeamName": "Betis",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-13T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Betis",
+      "awayTeamName": "Leganes",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-14T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Mallorca",
+      "awayTeamName": "Villarreal",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-09-14T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Espanol",
+      "awayTeamName": "Alaves",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-09-14T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Sevilla",
+      "awayTeamName": "Getafe",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-14T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Sociedad",
+      "awayTeamName": "Real Madrid",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-09-15T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Celta",
+      "awayTeamName": "Valladolid",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-15T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Girona",
+      "awayTeamName": "Barcelona",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2024-09-15T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Las Palmas",
+      "awayTeamName": "Ath Bilbao",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-09-15T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Ath Madrid",
+      "awayTeamName": "Valencia",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-16T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Vallecano",
+      "awayTeamName": "Osasuna",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-17T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Mallorca",
+      "awayTeamName": "Sociedad",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-18T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Betis",
+      "awayTeamName": "Getafe",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-19T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Leganes",
+      "awayTeamName": "Ath Bilbao",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-09-20T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Alaves",
+      "awayTeamName": "Sevilla",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-21T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Valladolid",
+      "awayTeamName": "Sociedad",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-21T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Osasuna",
+      "awayTeamName": "Las Palmas",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-21T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Valencia",
+      "awayTeamName": "Girona",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-21T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Real Madrid",
+      "awayTeamName": "Espanol",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-22T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Getafe",
+      "awayTeamName": "Leganes",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-22T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Ath Bilbao",
+      "awayTeamName": "Celta",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-22T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Villarreal",
+      "awayTeamName": "Barcelona",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 5
+      }
+    },
+    {
+      "date": "2024-09-22T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Vallecano",
+      "awayTeamName": "Ath Madrid",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-23T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Betis",
+      "awayTeamName": "Mallorca",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-09-24T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Sevilla",
+      "awayTeamName": "Valladolid",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-24T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Valencia",
+      "awayTeamName": "Osasuna",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-24T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Real Madrid",
+      "awayTeamName": "Alaves",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-09-25T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Girona",
+      "awayTeamName": "Vallecano",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-25T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Barcelona",
+      "awayTeamName": "Getafe",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-26T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Espanol",
+      "awayTeamName": "Villarreal",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-09-26T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Las Palmas",
+      "awayTeamName": "Betis",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-26T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Celta",
+      "awayTeamName": "Ath Madrid",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-27T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Valladolid",
+      "awayTeamName": "Mallorca",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-09-28T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Getafe",
+      "awayTeamName": "Alaves",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-28T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Vallecano",
+      "awayTeamName": "Leganes",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-28T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Sociedad",
+      "awayTeamName": "Valencia",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-28T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Osasuna",
+      "awayTeamName": "Barcelona",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-09-29T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Celta",
+      "awayTeamName": "Girona",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-29T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Ath Bilbao",
+      "awayTeamName": "Sevilla",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-29T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Betis",
+      "awayTeamName": "Espanol",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-29T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Ath Madrid",
+      "awayTeamName": "Real Madrid",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-30T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Villarreal",
+      "awayTeamName": "Las Palmas",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-04T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Leganes",
+      "awayTeamName": "Valencia",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-10-05T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Espanol",
+      "awayTeamName": "Mallorca",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-05T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Getafe",
+      "awayTeamName": "Osasuna",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-05T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Las Palmas",
+      "awayTeamName": "Celta",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-05T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Valladolid",
+      "awayTeamName": "Vallecano",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-10-05T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Real Madrid",
+      "awayTeamName": "Villarreal",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-10-06T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Girona",
+      "awayTeamName": "Ath Bilbao",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-06T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Alaves",
+      "awayTeamName": "Barcelona",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-10-06T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Sevilla",
+      "awayTeamName": "Betis",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-10-06T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Sociedad",
+      "awayTeamName": "Ath Madrid",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-18T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Alaves",
+      "awayTeamName": "Valladolid",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-10-19T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Ath Bilbao",
+      "awayTeamName": "Espanol",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-19T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Osasuna",
+      "awayTeamName": "Betis",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-10-19T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Girona",
+      "awayTeamName": "Sociedad",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-19T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Celta",
+      "awayTeamName": "Real Madrid",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-10-20T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Mallorca",
+      "awayTeamName": "Vallecano",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-10-20T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Ath Madrid",
+      "awayTeamName": "Leganes",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-20T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Villarreal",
+      "awayTeamName": "Getafe",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-20T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Barcelona",
+      "awayTeamName": "Sevilla",
+      "result": {
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-21T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Valencia",
+      "awayTeamName": "Las Palmas",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-10-25T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Espanol",
+      "awayTeamName": "Sevilla",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-10-26T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Valladolid",
+      "awayTeamName": "Villarreal",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-10-26T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Vallecano",
+      "awayTeamName": "Alaves",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-10-26T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Las Palmas",
+      "awayTeamName": "Girona",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-10-26T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Real Madrid",
+      "awayTeamName": "Barcelona",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2024-10-27T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Leganes",
+      "awayTeamName": "Celta",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-10-27T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Getafe",
+      "awayTeamName": "Valencia",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-27T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Betis",
+      "awayTeamName": "Ath Madrid",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-10-27T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Sociedad",
+      "awayTeamName": "Osasuna",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-10-28T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Mallorca",
+      "awayTeamName": "Ath Bilbao",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-01T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Alaves",
+      "awayTeamName": "Mallorca",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-02T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Osasuna",
+      "awayTeamName": "Valladolid",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-02T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Girona",
+      "awayTeamName": "Leganes",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-11-03T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Ath Madrid",
+      "awayTeamName": "Las Palmas",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-03T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Barcelona",
+      "awayTeamName": "Espanol",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-03T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Sevilla",
+      "awayTeamName": "Sociedad",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-11-03T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Ath Bilbao",
+      "awayTeamName": "Betis",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-04T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Celta",
+      "awayTeamName": "Getafe",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-08T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Vallecano",
+      "awayTeamName": "Las Palmas",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-11-09T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Real Madrid",
+      "awayTeamName": "Osasuna",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-09T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Villarreal",
+      "awayTeamName": "Alaves",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-09T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "Leganes",
+      "awayTeamName": "Sevilla",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-10T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "Betis",
+      "awayTeamName": "Celta",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-11-10T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "Mallorca",
+      "awayTeamName": "Ath Madrid",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-10T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "Getafe",
+      "awayTeamName": "Girona",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-10T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "Valladolid",
+      "awayTeamName": "Ath Bilbao",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-10T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "Sociedad",
+      "awayTeamName": "Barcelona",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-22T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Getafe",
+      "awayTeamName": "Valladolid",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-23T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Valencia",
+      "awayTeamName": "Betis",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-11-23T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Ath Madrid",
+      "awayTeamName": "Alaves",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-23T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Girona",
+      "awayTeamName": "Espanol",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-23T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Las Palmas",
+      "awayTeamName": "Mallorca",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-11-23T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Celta",
+      "awayTeamName": "Barcelona",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-11-24T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Osasuna",
+      "awayTeamName": "Villarreal",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-11-24T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Sevilla",
+      "awayTeamName": "Vallecano",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-24T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Leganes",
+      "awayTeamName": "Real Madrid",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-11-24T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Ath Bilbao",
+      "awayTeamName": "Sociedad",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-29T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "homeTeamName": "Mallorca",
+      "awayTeamName": "Valencia",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-30T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "homeTeamName": "Barcelona",
+      "awayTeamName": "Las Palmas",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-11-30T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "homeTeamName": "Alaves",
+      "awayTeamName": "Leganes",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-30T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Espanol",
+      "awayTeamName": "Celta",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-30T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "homeTeamName": "Valladolid",
+      "awayTeamName": "Ath Madrid",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 5
+      }
+    },
+    {
+      "date": "2024-12-01T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Villarreal",
+      "awayTeamName": "Girona",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-01T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Real Madrid",
+      "awayTeamName": "Getafe",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-12-01T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Vallecano",
+      "awayTeamName": "Ath Bilbao",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-01T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "homeTeamName": "Sociedad",
+      "awayTeamName": "Betis",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-12-02T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "homeTeamName": "Sevilla",
+      "awayTeamName": "Osasuna",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-03T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Mallorca",
+      "awayTeamName": "Barcelona",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 5
+      }
+    },
+    {
+      "date": "2024-12-04T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Ath Bilbao",
+      "awayTeamName": "Real Madrid",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-06T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Celta",
+      "awayTeamName": "Mallorca",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-12-07T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Las Palmas",
+      "awayTeamName": "Valladolid",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-07T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Betis",
+      "awayTeamName": "Barcelona",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-07T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Valencia",
+      "awayTeamName": "Vallecano",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-07T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Girona",
+      "awayTeamName": "Real Madrid",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-12-08T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Leganes",
+      "awayTeamName": "Sociedad",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-12-08T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Ath Bilbao",
+      "awayTeamName": "Villarreal",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-12-08T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Osasuna",
+      "awayTeamName": "Alaves",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-08T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Ath Madrid",
+      "awayTeamName": "Sevilla",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-12-09T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Getafe",
+      "awayTeamName": "Espanol",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-12-13T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Valladolid",
+      "awayTeamName": "Valencia",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-12-14T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Espanol",
+      "awayTeamName": "Osasuna",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-12-14T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Mallorca",
+      "awayTeamName": "Girona",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-14T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Sevilla",
+      "awayTeamName": "Celta",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-12-14T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Vallecano",
+      "awayTeamName": "Real Madrid",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-12-15T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Ath Madrid",
+      "awayTeamName": "Getafe",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-12-15T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Alaves",
+      "awayTeamName": "Ath Bilbao",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-15T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Sociedad",
+      "awayTeamName": "Las Palmas",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-12-15T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Villarreal",
+      "awayTeamName": "Betis",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-15T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Barcelona",
+      "awayTeamName": "Leganes",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-18T20:30:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Espanol",
+      "awayTeamName": "Valencia",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-18T20:30:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Villarreal",
+      "awayTeamName": "Vallecano",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-20T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Girona",
+      "awayTeamName": "Valladolid",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-12-21T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Getafe",
+      "awayTeamName": "Mallorca",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-21T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Celta",
+      "awayTeamName": "Sociedad",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-12-21T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Osasuna",
+      "awayTeamName": "Ath Bilbao",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-21T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "homeTeamName": "Barcelona",
+      "awayTeamName": "Ath Madrid",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-22T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Valencia",
+      "awayTeamName": "Alaves",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-22T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Real Madrid",
+      "awayTeamName": "Sevilla",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-22T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Las Palmas",
+      "awayTeamName": "Espanol",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-12-22T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Leganes",
+      "awayTeamName": "Villarreal",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 5
+      }
+    },
+    {
+      "date": "2024-12-22T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Betis",
+      "awayTeamName": "Vallecano",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-03T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Valencia",
+      "awayTeamName": "Real Madrid",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-01-10T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "homeTeamName": "Vallecano",
+      "awayTeamName": "Celta",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-11T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "homeTeamName": "Alaves",
+      "awayTeamName": "Girona",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-11T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "homeTeamName": "Valladolid",
+      "awayTeamName": "Betis",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-01-11T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "homeTeamName": "Espanol",
+      "awayTeamName": "Leganes",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-11T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "homeTeamName": "Sevilla",
+      "awayTeamName": "Valencia",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-12T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "homeTeamName": "Las Palmas",
+      "awayTeamName": "Getafe",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-01-12T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "homeTeamName": "Ath Madrid",
+      "awayTeamName": "Osasuna",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-01-13T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "homeTeamName": "Sociedad",
+      "awayTeamName": "Villarreal",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-01-17T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Espanol",
+      "awayTeamName": "Valladolid",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-18T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Girona",
+      "awayTeamName": "Sevilla",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-01-18T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Leganes",
+      "awayTeamName": "Ath Madrid",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-01-18T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Betis",
+      "awayTeamName": "Alaves",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-01-18T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Getafe",
+      "awayTeamName": "Barcelona",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-19T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Celta",
+      "awayTeamName": "Ath Bilbao",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-01-19T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Real Madrid",
+      "awayTeamName": "Las Palmas",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-19T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Osasuna",
+      "awayTeamName": "Vallecano",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-19T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Valencia",
+      "awayTeamName": "Sociedad",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-01-20T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Villarreal",
+      "awayTeamName": "Mallorca",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-01-24T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "Las Palmas",
+      "awayTeamName": "Osasuna",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-25T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "Mallorca",
+      "awayTeamName": "Betis",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-25T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "Ath Madrid",
+      "awayTeamName": "Villarreal",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-25T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "Sevilla",
+      "awayTeamName": "Espanol",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-25T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "Valladolid",
+      "awayTeamName": "Real Madrid",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-01-26T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "Vallecano",
+      "awayTeamName": "Girona",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-26T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "Sociedad",
+      "awayTeamName": "Getafe",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-01-26T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "Ath Bilbao",
+      "awayTeamName": "Leganes",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-01-26T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "Barcelona",
+      "awayTeamName": "Valencia",
+      "result": {
+        "goalsHomeTeam": 7,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-27T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "Alaves",
+      "awayTeamName": "Celta",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-31T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Leganes",
+      "awayTeamName": "Vallecano",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-01T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Getafe",
+      "awayTeamName": "Sevilla",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-01T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Villarreal",
+      "awayTeamName": "Valladolid",
+      "result": {
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-01T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Ath Madrid",
+      "awayTeamName": "Mallorca",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-01T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Espanol",
+      "awayTeamName": "Real Madrid",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-02T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Barcelona",
+      "awayTeamName": "Alaves",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-02T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Valencia",
+      "awayTeamName": "Celta",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-02T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Osasuna",
+      "awayTeamName": "Sociedad",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-02T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Betis",
+      "awayTeamName": "Ath Bilbao",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-02-03T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Girona",
+      "awayTeamName": "Las Palmas",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-07T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "Vallecano",
+      "awayTeamName": "Valladolid",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-08T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "Celta",
+      "awayTeamName": "Betis",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-02-08T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "Ath Bilbao",
+      "awayTeamName": "Girona",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-08T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "Las Palmas",
+      "awayTeamName": "Villarreal",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-02-08T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "Real Madrid",
+      "awayTeamName": "Ath Madrid",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-09T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "Alaves",
+      "awayTeamName": "Getafe",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-09T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "Valencia",
+      "awayTeamName": "Leganes",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-09T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "Sociedad",
+      "awayTeamName": "Espanol",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-09T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "Sevilla",
+      "awayTeamName": "Barcelona",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2025-02-10T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "Mallorca",
+      "awayTeamName": "Osasuna",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-14T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Girona",
+      "awayTeamName": "Getafe",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-02-15T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Leganes",
+      "awayTeamName": "Alaves",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-02-15T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Osasuna",
+      "awayTeamName": "Real Madrid",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-15T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Ath Madrid",
+      "awayTeamName": "Celta",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-15T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Villarreal",
+      "awayTeamName": "Valencia",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-16T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Espanol",
+      "awayTeamName": "Ath Bilbao",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-16T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Valladolid",
+      "awayTeamName": "Sevilla",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2025-02-16T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Mallorca",
+      "awayTeamName": "Las Palmas",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-16T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Betis",
+      "awayTeamName": "Sociedad",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-17T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Barcelona",
+      "awayTeamName": "Vallecano",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-21T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Celta",
+      "awayTeamName": "Osasuna",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-22T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Alaves",
+      "awayTeamName": "Espanol",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-22T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Vallecano",
+      "awayTeamName": "Villarreal",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-22T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Valencia",
+      "awayTeamName": "Ath Madrid",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-02-22T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Las Palmas",
+      "awayTeamName": "Barcelona",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-02-23T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Ath Bilbao",
+      "awayTeamName": "Valladolid",
+      "result": {
+        "goalsHomeTeam": 7,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-23T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Real Madrid",
+      "awayTeamName": "Girona",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-23T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Getafe",
+      "awayTeamName": "Betis",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-02-23T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Sociedad",
+      "awayTeamName": "Leganes",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-24T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Sevilla",
+      "awayTeamName": "Mallorca",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-28T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Valladolid",
+      "awayTeamName": "Las Palmas",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-01T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Girona",
+      "awayTeamName": "Celta",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-03-01T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Vallecano",
+      "awayTeamName": "Sevilla",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-01T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Betis",
+      "awayTeamName": "Real Madrid",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-01T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Ath Madrid",
+      "awayTeamName": "Ath Bilbao",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-02T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Leganes",
+      "awayTeamName": "Getafe",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-02T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Barcelona",
+      "awayTeamName": "Sociedad",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-02T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Mallorca",
+      "awayTeamName": "Alaves",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-02T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Osasuna",
+      "awayTeamName": "Valencia",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-03-08T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Celta",
+      "awayTeamName": "Leganes",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-08T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Alaves",
+      "awayTeamName": "Villarreal",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-08T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Valencia",
+      "awayTeamName": "Valladolid",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-09T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Getafe",
+      "awayTeamName": "Ath Madrid",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-09T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Real Madrid",
+      "awayTeamName": "Vallecano",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-09T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Ath Bilbao",
+      "awayTeamName": "Mallorca",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-09T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Betis",
+      "awayTeamName": "Las Palmas",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-09T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Sociedad",
+      "awayTeamName": "Sevilla",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-10T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Espanol",
+      "awayTeamName": "Girona",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-14T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Las Palmas",
+      "awayTeamName": "Alaves",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-03-15T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Valladolid",
+      "awayTeamName": "Celta",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-15T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Mallorca",
+      "awayTeamName": "Espanol",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-15T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Villarreal",
+      "awayTeamName": "Real Madrid",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-03-15T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Girona",
+      "awayTeamName": "Valencia",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-16T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Leganes",
+      "awayTeamName": "Betis",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-03-16T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Sevilla",
+      "awayTeamName": "Ath Bilbao",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-16T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Osasuna",
+      "awayTeamName": "Getafe",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-03-16T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Vallecano",
+      "awayTeamName": "Sociedad",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-03-16T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Ath Madrid",
+      "awayTeamName": "Barcelona",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2025-03-27T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Barcelona",
+      "awayTeamName": "Osasuna",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-29T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Sociedad",
+      "awayTeamName": "Valladolid",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-29T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Espanol",
+      "awayTeamName": "Ath Madrid",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-29T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Alaves",
+      "awayTeamName": "Vallecano",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-03-29T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Real Madrid",
+      "awayTeamName": "Leganes",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-03-30T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Getafe",
+      "awayTeamName": "Villarreal",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-03-30T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Barcelona",
+      "awayTeamName": "Girona",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-30T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Ath Bilbao",
+      "awayTeamName": "Osasuna",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-30T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Valencia",
+      "awayTeamName": "Mallorca",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-30T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Betis",
+      "awayTeamName": "Sevilla",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-31T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Celta",
+      "awayTeamName": "Las Palmas",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-04T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "Vallecano",
+      "awayTeamName": "Espanol",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2025-04-05T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "Girona",
+      "awayTeamName": "Alaves",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-05T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "Real Madrid",
+      "awayTeamName": "Valencia",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-04-05T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "Mallorca",
+      "awayTeamName": "Celta",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-04-05T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "Barcelona",
+      "awayTeamName": "Betis",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-06T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "Las Palmas",
+      "awayTeamName": "Sociedad",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-04-06T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "Sevilla",
+      "awayTeamName": "Ath Madrid",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-04-06T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "Valladolid",
+      "awayTeamName": "Getafe",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2025-04-06T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Villarreal",
+      "awayTeamName": "Ath Bilbao",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-07T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "Leganes",
+      "awayTeamName": "Osasuna",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-11T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Valencia",
+      "awayTeamName": "Sevilla",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-12T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Sociedad",
+      "awayTeamName": "Mallorca",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-04-12T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Getafe",
+      "awayTeamName": "Las Palmas",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-04-12T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Celta",
+      "awayTeamName": "Espanol",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-04-12T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Leganes",
+      "awayTeamName": "Barcelona",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-13T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Osasuna",
+      "awayTeamName": "Girona",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-13T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Alaves",
+      "awayTeamName": "Real Madrid",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-13T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Betis",
+      "awayTeamName": "Villarreal",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-04-13T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Ath Bilbao",
+      "awayTeamName": "Vallecano",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-14T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Ath Madrid",
+      "awayTeamName": "Valladolid",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-04-18T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Espanol",
+      "awayTeamName": "Getafe",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-19T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "Vallecano",
+      "awayTeamName": "Valencia",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-19T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "Barcelona",
+      "awayTeamName": "Celta",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-04-19T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "Mallorca",
+      "awayTeamName": "Leganes",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-19T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "Las Palmas",
+      "awayTeamName": "Ath Madrid",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-20T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "Valladolid",
+      "awayTeamName": "Osasuna",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-04-20T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Villarreal",
+      "awayTeamName": "Sociedad",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-04-20T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "Sevilla",
+      "awayTeamName": "Alaves",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-20T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "Real Madrid",
+      "awayTeamName": "Ath Bilbao",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-21T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "Girona",
+      "awayTeamName": "Betis",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-04-22T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Valencia",
+      "awayTeamName": "Espanol",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-22T20:30:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Barcelona",
+      "awayTeamName": "Mallorca",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-23T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Ath Bilbao",
+      "awayTeamName": "Las Palmas",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-23T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Celta",
+      "awayTeamName": "Villarreal",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-23T20:30:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Alaves",
+      "awayTeamName": "Sociedad",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-23T20:30:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Getafe",
+      "awayTeamName": "Real Madrid",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-24T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Leganes",
+      "awayTeamName": "Girona",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-24T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Osasuna",
+      "awayTeamName": "Sevilla",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-24T20:30:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Ath Madrid",
+      "awayTeamName": "Vallecano",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-24T20:30:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Betis",
+      "awayTeamName": "Valladolid",
+      "result": {
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-27T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Villarreal",
+      "awayTeamName": "Espanol",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-02T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "Vallecano",
+      "awayTeamName": "Getafe",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-03T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "Alaves",
+      "awayTeamName": "Ath Madrid",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-03T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "Villarreal",
+      "awayTeamName": "Osasuna",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-03T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "Las Palmas",
+      "awayTeamName": "Valencia",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-05-03T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "Valladolid",
+      "awayTeamName": "Barcelona",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-04T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "Real Madrid",
+      "awayTeamName": "Celta",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-04T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "Sevilla",
+      "awayTeamName": "Leganes",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-04T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "Espanol",
+      "awayTeamName": "Betis",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-04T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "Sociedad",
+      "awayTeamName": "Ath Bilbao",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-05T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "Girona",
+      "awayTeamName": "Mallorca",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-09T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 35,
+      "homeTeamName": "Las Palmas",
+      "awayTeamName": "Vallecano",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-10T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 35,
+      "homeTeamName": "Valencia",
+      "awayTeamName": "Getafe",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-10T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 35,
+      "homeTeamName": "Celta",
+      "awayTeamName": "Sevilla",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-10T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 35,
+      "homeTeamName": "Girona",
+      "awayTeamName": "Villarreal",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-10T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 35,
+      "homeTeamName": "Mallorca",
+      "awayTeamName": "Valladolid",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-10T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 35,
+      "homeTeamName": "Ath Madrid",
+      "awayTeamName": "Sociedad",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-11T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 35,
+      "homeTeamName": "Leganes",
+      "awayTeamName": "Espanol",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-11T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 35,
+      "homeTeamName": "Barcelona",
+      "awayTeamName": "Real Madrid",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-05-11T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 35,
+      "homeTeamName": "Ath Bilbao",
+      "awayTeamName": "Alaves",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-11T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 35,
+      "homeTeamName": "Betis",
+      "awayTeamName": "Osasuna",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-13T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 36,
+      "homeTeamName": "Valladolid",
+      "awayTeamName": "Girona",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-13T19:00:00Z",
+      "status": "FINISHED",
+      "matchday": 36,
+      "homeTeamName": "Sociedad",
+      "awayTeamName": "Celta",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-13T20:30:00Z",
+      "status": "FINISHED",
+      "matchday": 36,
+      "homeTeamName": "Sevilla",
+      "awayTeamName": "Las Palmas",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-14T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 36,
+      "homeTeamName": "Alaves",
+      "awayTeamName": "Valencia",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-14T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 36,
+      "homeTeamName": "Villarreal",
+      "awayTeamName": "Leganes",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-14T20:30:00Z",
+      "status": "FINISHED",
+      "matchday": 36,
+      "homeTeamName": "Real Madrid",
+      "awayTeamName": "Mallorca",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-15T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 36,
+      "homeTeamName": "Vallecano",
+      "awayTeamName": "Betis",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-15T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 36,
+      "homeTeamName": "Osasuna",
+      "awayTeamName": "Ath Madrid",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-15T20:30:00Z",
+      "status": "FINISHED",
+      "matchday": 36,
+      "homeTeamName": "Espanol",
+      "awayTeamName": "Barcelona",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-15T20:30:00Z",
+      "status": "FINISHED",
+      "matchday": 36,
+      "homeTeamName": "Getafe",
+      "awayTeamName": "Ath Bilbao",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-18T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 37,
+      "homeTeamName": "Ath Madrid",
+      "awayTeamName": "Betis",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-18T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 37,
+      "homeTeamName": "Barcelona",
+      "awayTeamName": "Villarreal",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-05-18T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 37,
+      "homeTeamName": "Celta",
+      "awayTeamName": "Vallecano",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-18T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 37,
+      "homeTeamName": "Las Palmas",
+      "awayTeamName": "Leganes",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-18T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 37,
+      "homeTeamName": "Mallorca",
+      "awayTeamName": "Getafe",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-18T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 37,
+      "homeTeamName": "Osasuna",
+      "awayTeamName": "Espanol",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-18T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 37,
+      "homeTeamName": "Sevilla",
+      "awayTeamName": "Real Madrid",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-18T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 37,
+      "homeTeamName": "Sociedad",
+      "awayTeamName": "Girona",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-18T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 37,
+      "homeTeamName": "Valencia",
+      "awayTeamName": "Ath Bilbao",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-18T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 37,
+      "homeTeamName": "Valladolid",
+      "awayTeamName": "Alaves",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-23T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 38,
+      "homeTeamName": "Betis",
+      "awayTeamName": "Valencia",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-24T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 38,
+      "homeTeamName": "Real Madrid",
+      "awayTeamName": "Sociedad",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-24T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 38,
+      "homeTeamName": "Espanol",
+      "awayTeamName": "Las Palmas",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-24T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 38,
+      "homeTeamName": "Leganes",
+      "awayTeamName": "Valladolid",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-24T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 38,
+      "homeTeamName": "Alaves",
+      "awayTeamName": "Osasuna",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-24T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 38,
+      "homeTeamName": "Getafe",
+      "awayTeamName": "Celta",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-24T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 38,
+      "homeTeamName": "Vallecano",
+      "awayTeamName": "Mallorca",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-25T13:00:00Z",
+      "status": "FINISHED",
+      "matchday": 38,
+      "homeTeamName": "Girona",
+      "awayTeamName": "Ath Madrid",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2025-05-25T15:15:00Z",
+      "status": "FINISHED",
+      "matchday": 38,
+      "homeTeamName": "Villarreal",
+      "awayTeamName": "Sevilla",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-25T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 38,
+      "homeTeamName": "Ath Bilbao",
+      "awayTeamName": "Barcelona",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      }
+    }
+  ]
+}

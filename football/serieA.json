@@ -1,0 +1,4184 @@
+{
+  "fixtures": [
+    {
+      "date": "2024-08-17T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Genoa",
+      "awayTeamName": "Inter",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-08-17T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Parma",
+      "awayTeamName": "Fiorentina",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-08-17T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Empoli",
+      "awayTeamName": "Monza",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-08-17T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Milan",
+      "awayTeamName": "Torino",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-08-18T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Bologna",
+      "awayTeamName": "Udinese",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-08-18T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Verona",
+      "awayTeamName": "Napoli",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-08-18T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Cagliari",
+      "awayTeamName": "Roma",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-08-18T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Lazio",
+      "awayTeamName": "Venezia",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-08-19T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Lecce",
+      "awayTeamName": "Atalanta",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2024-08-19T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Juventus",
+      "awayTeamName": "Como",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-08-24T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Parma",
+      "awayTeamName": "Milan",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-08-24T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Udinese",
+      "awayTeamName": "Lazio",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-08-24T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Inter",
+      "awayTeamName": "Lecce",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-08-24T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Monza",
+      "awayTeamName": "Genoa",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-08-25T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Fiorentina",
+      "awayTeamName": "Venezia",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-08-25T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Torino",
+      "awayTeamName": "Atalanta",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-08-25T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Napoli",
+      "awayTeamName": "Bologna",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-08-25T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Roma",
+      "awayTeamName": "Empoli",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-08-26T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Cagliari",
+      "awayTeamName": "Como",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-08-26T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Verona",
+      "awayTeamName": "Juventus",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-08-30T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Venezia",
+      "awayTeamName": "Torino",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-08-30T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Inter",
+      "awayTeamName": "Atalanta",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-08-31T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Bologna",
+      "awayTeamName": "Empoli",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-08-31T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Lecce",
+      "awayTeamName": "Cagliari",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-08-31T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Lazio",
+      "awayTeamName": "Milan",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-08-31T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Napoli",
+      "awayTeamName": "Parma",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-01T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Fiorentina",
+      "awayTeamName": "Monza",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-09-01T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Genoa",
+      "awayTeamName": "Verona",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-09-01T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Juventus",
+      "awayTeamName": "Roma",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-01T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Udinese",
+      "awayTeamName": "Como",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-14T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Como",
+      "awayTeamName": "Bologna",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-09-14T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Empoli",
+      "awayTeamName": "Juventus",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-14T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Milan",
+      "awayTeamName": "Venezia",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-15T11:30:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Genoa",
+      "awayTeamName": "Roma",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-15T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Atalanta",
+      "awayTeamName": "Fiorentina",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-09-15T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Torino",
+      "awayTeamName": "Lecce",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-15T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Cagliari",
+      "awayTeamName": "Napoli",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2024-09-15T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Monza",
+      "awayTeamName": "Inter",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-16T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Parma",
+      "awayTeamName": "Udinese",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-09-16T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Lazio",
+      "awayTeamName": "Verona",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-20T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Cagliari",
+      "awayTeamName": "Empoli",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-09-20T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Verona",
+      "awayTeamName": "Torino",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-09-21T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Venezia",
+      "awayTeamName": "Genoa",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-21T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Juventus",
+      "awayTeamName": "Napoli",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-21T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Lecce",
+      "awayTeamName": "Parma",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-09-22T11:30:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Fiorentina",
+      "awayTeamName": "Lazio",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-22T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Monza",
+      "awayTeamName": "Bologna",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-09-22T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Roma",
+      "awayTeamName": "Udinese",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-22T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Inter",
+      "awayTeamName": "Milan",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-09-24T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Atalanta",
+      "awayTeamName": "Como",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-09-27T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Milan",
+      "awayTeamName": "Lecce",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-28T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Udinese",
+      "awayTeamName": "Inter",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-09-28T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Genoa",
+      "awayTeamName": "Juventus",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-09-28T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Bologna",
+      "awayTeamName": "Atalanta",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-29T11:30:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Torino",
+      "awayTeamName": "Lazio",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-09-29T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Como",
+      "awayTeamName": "Verona",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-09-29T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Roma",
+      "awayTeamName": "Venezia",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-29T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Empoli",
+      "awayTeamName": "Fiorentina",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-29T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Napoli",
+      "awayTeamName": "Monza",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-30T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Parma",
+      "awayTeamName": "Cagliari",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-10-04T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Napoli",
+      "awayTeamName": "Como",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-04T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Verona",
+      "awayTeamName": "Venezia",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-05T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Udinese",
+      "awayTeamName": "Lecce",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-10-05T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Atalanta",
+      "awayTeamName": "Genoa",
+      "result": {
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-05T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Inter",
+      "awayTeamName": "Torino",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-10-06T11:30:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Juventus",
+      "awayTeamName": "Cagliari",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-06T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Bologna",
+      "awayTeamName": "Parma",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-10-06T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Lazio",
+      "awayTeamName": "Empoli",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-06T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Monza",
+      "awayTeamName": "Roma",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-06T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Fiorentina",
+      "awayTeamName": "Milan",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-19T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Como",
+      "awayTeamName": "Parma",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-19T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Genoa",
+      "awayTeamName": "Bologna",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-10-19T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Milan",
+      "awayTeamName": "Udinese",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-10-19T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Juventus",
+      "awayTeamName": "Lazio",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-10-20T11:30:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Empoli",
+      "awayTeamName": "Napoli",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-20T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Lecce",
+      "awayTeamName": "Fiorentina",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 6
+      }
+    },
+    {
+      "date": "2024-10-20T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Venezia",
+      "awayTeamName": "Atalanta",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-10-20T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Cagliari",
+      "awayTeamName": "Torino",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-10-20T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Roma",
+      "awayTeamName": "Inter",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-21T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Verona",
+      "awayTeamName": "Monza",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-10-25T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Udinese",
+      "awayTeamName": "Cagliari",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-10-25T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Torino",
+      "awayTeamName": "Como",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-10-26T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Napoli",
+      "awayTeamName": "Lecce",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-10-26T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Atalanta",
+      "awayTeamName": "Verona",
+      "result": {
+        "goalsHomeTeam": 6,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-27T11:30:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Parma",
+      "awayTeamName": "Empoli",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-27T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Lazio",
+      "awayTeamName": "Genoa",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-10-27T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Monza",
+      "awayTeamName": "Venezia",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-10-27T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Inter",
+      "awayTeamName": "Juventus",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2024-10-27T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Fiorentina",
+      "awayTeamName": "Roma",
+      "result": {
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-29T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Cagliari",
+      "awayTeamName": "Bologna",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-10-29T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Lecce",
+      "awayTeamName": "Verona",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-10-29T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Milan",
+      "awayTeamName": "Napoli",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-10-30T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Empoli",
+      "awayTeamName": "Inter",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-10-30T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Venezia",
+      "awayTeamName": "Udinese",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-10-30T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Atalanta",
+      "awayTeamName": "Monza",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-10-30T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Juventus",
+      "awayTeamName": "Parma",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-10-31T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Genoa",
+      "awayTeamName": "Fiorentina",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-31T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Como",
+      "awayTeamName": "Lazio",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 5
+      }
+    },
+    {
+      "date": "2024-10-31T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Roma",
+      "awayTeamName": "Torino",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-02T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Bologna",
+      "awayTeamName": "Lecce",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-02T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Udinese",
+      "awayTeamName": "Juventus",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-11-02T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Monza",
+      "awayTeamName": "Milan",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-03T11:30:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Napoli",
+      "awayTeamName": "Atalanta",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-11-03T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Torino",
+      "awayTeamName": "Fiorentina",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-03T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Verona",
+      "awayTeamName": "Roma",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-11-03T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Inter",
+      "awayTeamName": "Venezia",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-04T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Empoli",
+      "awayTeamName": "Como",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-04T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Parma",
+      "awayTeamName": "Genoa",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-04T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Lazio",
+      "awayTeamName": "Cagliari",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-07T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Genoa",
+      "awayTeamName": "Como",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-08T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Lecce",
+      "awayTeamName": "Empoli",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-09T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Venezia",
+      "awayTeamName": "Parma",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-11-09T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Cagliari",
+      "awayTeamName": "Milan",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-11-09T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Juventus",
+      "awayTeamName": "Torino",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-10T11:30:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Atalanta",
+      "awayTeamName": "Udinese",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-10T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Fiorentina",
+      "awayTeamName": "Verona",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-10T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Roma",
+      "awayTeamName": "Bologna",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-11-10T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Monza",
+      "awayTeamName": "Lazio",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-10T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Inter",
+      "awayTeamName": "Napoli",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-23T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "Verona",
+      "awayTeamName": "Inter",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 5
+      }
+    },
+    {
+      "date": "2024-11-23T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Milan",
+      "awayTeamName": "Juventus",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-23T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "Parma",
+      "awayTeamName": "Atalanta",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-11-24T11:30:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "Genoa",
+      "awayTeamName": "Cagliari",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-11-24T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "Como",
+      "awayTeamName": "Fiorentina",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-11-24T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "Torino",
+      "awayTeamName": "Monza",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-24T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "Napoli",
+      "awayTeamName": "Roma",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-24T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "Lazio",
+      "awayTeamName": "Bologna",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-25T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "Empoli",
+      "awayTeamName": "Udinese",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-25T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "Venezia",
+      "awayTeamName": "Lecce",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-29T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Cagliari",
+      "awayTeamName": "Verona",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-30T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Como",
+      "awayTeamName": "Monza",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-30T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "Milan",
+      "awayTeamName": "Empoli",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-30T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "Bologna",
+      "awayTeamName": "Venezia",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-12-01T11:30:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Udinese",
+      "awayTeamName": "Genoa",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-01T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Parma",
+      "awayTeamName": "Lazio",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-01T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Torino",
+      "awayTeamName": "Napoli",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-01T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Lecce",
+      "awayTeamName": "Juventus",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-02T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Roma",
+      "awayTeamName": "Atalanta",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-06T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Inter",
+      "awayTeamName": "Parma",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-06T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "homeTeamName": "Atalanta",
+      "awayTeamName": "Milan",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-07T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "homeTeamName": "Genoa",
+      "awayTeamName": "Torino",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-12-07T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "homeTeamName": "Juventus",
+      "awayTeamName": "Bologna",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-07T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "homeTeamName": "Roma",
+      "awayTeamName": "Lecce",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-08T11:30:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Fiorentina",
+      "awayTeamName": "Cagliari",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-12-08T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "homeTeamName": "Verona",
+      "awayTeamName": "Empoli",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2024-12-08T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "homeTeamName": "Venezia",
+      "awayTeamName": "Como",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-08T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "homeTeamName": "Napoli",
+      "awayTeamName": "Lazio",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-09T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "homeTeamName": "Monza",
+      "awayTeamName": "Udinese",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-13T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Empoli",
+      "awayTeamName": "Torino",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-14T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Cagliari",
+      "awayTeamName": "Atalanta",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-14T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Udinese",
+      "awayTeamName": "Napoli",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-12-14T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Juventus",
+      "awayTeamName": "Venezia",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-15T11:30:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Lecce",
+      "awayTeamName": "Monza",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-15T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "homeTeamName": "Bologna",
+      "awayTeamName": "Fiorentina",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-12-15T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Parma",
+      "awayTeamName": "Verona",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-12-15T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Como",
+      "awayTeamName": "Roma",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-12-15T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "homeTeamName": "Milan",
+      "awayTeamName": "Genoa",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-12-16T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Lazio",
+      "awayTeamName": "Inter",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 6
+      }
+    },
+    {
+      "date": "2024-12-20T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Verona",
+      "awayTeamName": "Milan",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-21T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Torino",
+      "awayTeamName": "Bologna",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-21T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Genoa",
+      "awayTeamName": "Napoli",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-21T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Lecce",
+      "awayTeamName": "Lazio",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-22T11:30:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Roma",
+      "awayTeamName": "Parma",
+      "result": {
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-12-22T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Venezia",
+      "awayTeamName": "Cagliari",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-22T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Atalanta",
+      "awayTeamName": "Empoli",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-22T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Monza",
+      "awayTeamName": "Juventus",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-23T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Fiorentina",
+      "awayTeamName": "Udinese",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-23T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Inter",
+      "awayTeamName": "Como",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-12-28T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Empoli",
+      "awayTeamName": "Genoa",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-28T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Parma",
+      "awayTeamName": "Monza",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-28T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Cagliari",
+      "awayTeamName": "Inter",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-12-28T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Lazio",
+      "awayTeamName": "Atalanta",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-29T11:30:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Udinese",
+      "awayTeamName": "Torino",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-29T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Napoli",
+      "awayTeamName": "Venezia",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-12-29T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Juventus",
+      "awayTeamName": "Fiorentina",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-29T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Milan",
+      "awayTeamName": "Roma",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-30T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Como",
+      "awayTeamName": "Lecce",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-12-30T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Bologna",
+      "awayTeamName": "Verona",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-01-04T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "homeTeamName": "Venezia",
+      "awayTeamName": "Empoli",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-04T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Fiorentina",
+      "awayTeamName": "Napoli",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-01-04T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "homeTeamName": "Verona",
+      "awayTeamName": "Udinese",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-01-05T11:30:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "homeTeamName": "Monza",
+      "awayTeamName": "Cagliari",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-01-05T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "homeTeamName": "Lecce",
+      "awayTeamName": "Genoa",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-01-05T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "homeTeamName": "Torino",
+      "awayTeamName": "Parma",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-01-05T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "homeTeamName": "Roma",
+      "awayTeamName": "Lazio",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-01-10T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Lazio",
+      "awayTeamName": "Como",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-11T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Empoli",
+      "awayTeamName": "Lecce",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-01-11T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Udinese",
+      "awayTeamName": "Atalanta",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-01-11T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Torino",
+      "awayTeamName": "Juventus",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-11T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Milan",
+      "awayTeamName": "Cagliari",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-12T11:30:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Genoa",
+      "awayTeamName": "Parma",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-01-12T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Venezia",
+      "awayTeamName": "Inter",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-12T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Bologna",
+      "awayTeamName": "Roma",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-01-12T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Napoli",
+      "awayTeamName": "Verona",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-01-13T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Monza",
+      "awayTeamName": "Fiorentina",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-14T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Como",
+      "awayTeamName": "Milan",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-01-14T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Atalanta",
+      "awayTeamName": "Juventus",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-15T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "homeTeamName": "Inter",
+      "awayTeamName": "Bologna",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-01-17T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "Roma",
+      "awayTeamName": "Genoa",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-18T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Bologna",
+      "awayTeamName": "Monza",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-18T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "Juventus",
+      "awayTeamName": "Milan",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-01-18T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "Atalanta",
+      "awayTeamName": "Napoli",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-01-19T11:30:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Fiorentina",
+      "awayTeamName": "Torino",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-19T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "Cagliari",
+      "awayTeamName": "Lecce",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-19T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "Parma",
+      "awayTeamName": "Venezia",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-19T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "Verona",
+      "awayTeamName": "Lazio",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-01-19T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Inter",
+      "awayTeamName": "Empoli",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-20T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "Como",
+      "awayTeamName": "Udinese",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-24T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Torino",
+      "awayTeamName": "Cagliari",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-01-25T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Como",
+      "awayTeamName": "Atalanta",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-01-25T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Napoli",
+      "awayTeamName": "Juventus",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-25T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Empoli",
+      "awayTeamName": "Bologna",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-26T11:30:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "Milan",
+      "awayTeamName": "Parma",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-01-26T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Udinese",
+      "awayTeamName": "Roma",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-01-26T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Lecce",
+      "awayTeamName": "Inter",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2025-01-26T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Lazio",
+      "awayTeamName": "Fiorentina",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-01-27T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Venezia",
+      "awayTeamName": "Verona",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-27T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Genoa",
+      "awayTeamName": "Monza",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-01-31T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "Parma",
+      "awayTeamName": "Lecce",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-02-01T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "Monza",
+      "awayTeamName": "Verona",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-01T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "Udinese",
+      "awayTeamName": "Venezia",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-02-01T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "Atalanta",
+      "awayTeamName": "Torino",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-01T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Bologna",
+      "awayTeamName": "Como",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-02T11:30:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "Juventus",
+      "awayTeamName": "Empoli",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-02T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Fiorentina",
+      "awayTeamName": "Genoa",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-02T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Milan",
+      "awayTeamName": "Inter",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-02T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "Roma",
+      "awayTeamName": "Napoli",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-03T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "Cagliari",
+      "awayTeamName": "Lazio",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-02-06T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "Fiorentina",
+      "awayTeamName": "Inter",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-07T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Como",
+      "awayTeamName": "Juventus",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-02-08T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Verona",
+      "awayTeamName": "Atalanta",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 5
+      }
+    },
+    {
+      "date": "2025-02-08T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Empoli",
+      "awayTeamName": "Milan",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-02-08T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Torino",
+      "awayTeamName": "Genoa",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-09T11:30:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Venezia",
+      "awayTeamName": "Roma",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-09T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Cagliari",
+      "awayTeamName": "Parma",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-09T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Lazio",
+      "awayTeamName": "Monza",
+      "result": {
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-09T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Lecce",
+      "awayTeamName": "Bologna",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-09T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Napoli",
+      "awayTeamName": "Udinese",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-10T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Inter",
+      "awayTeamName": "Fiorentina",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-14T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Bologna",
+      "awayTeamName": "Torino",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-02-15T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Atalanta",
+      "awayTeamName": "Cagliari",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-15T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Lazio",
+      "awayTeamName": "Napoli",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-02-15T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Milan",
+      "awayTeamName": "Verona",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-16T11:30:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Fiorentina",
+      "awayTeamName": "Como",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-02-16T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Monza",
+      "awayTeamName": "Lecce",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-16T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Udinese",
+      "awayTeamName": "Empoli",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-16T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Parma",
+      "awayTeamName": "Roma",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-16T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Juventus",
+      "awayTeamName": "Inter",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-17T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Genoa",
+      "awayTeamName": "Venezia",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-21T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Lecce",
+      "awayTeamName": "Udinese",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-22T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Parma",
+      "awayTeamName": "Bologna",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-22T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Venezia",
+      "awayTeamName": "Lazio",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-22T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Torino",
+      "awayTeamName": "Milan",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-22T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Inter",
+      "awayTeamName": "Genoa",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-23T11:30:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Como",
+      "awayTeamName": "Napoli",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-23T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Verona",
+      "awayTeamName": "Fiorentina",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-23T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Empoli",
+      "awayTeamName": "Atalanta",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 5
+      }
+    },
+    {
+      "date": "2025-02-23T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Cagliari",
+      "awayTeamName": "Juventus",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-24T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Roma",
+      "awayTeamName": "Monza",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-27T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Bologna",
+      "awayTeamName": "Milan",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-28T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Fiorentina",
+      "awayTeamName": "Lecce",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-01T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Atalanta",
+      "awayTeamName": "Venezia",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-01T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Napoli",
+      "awayTeamName": "Inter",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-01T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Udinese",
+      "awayTeamName": "Parma",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-02T11:30:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Monza",
+      "awayTeamName": "Torino",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-03-02T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Bologna",
+      "awayTeamName": "Cagliari",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-02T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Genoa",
+      "awayTeamName": "Empoli",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-02T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Roma",
+      "awayTeamName": "Como",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-02T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Milan",
+      "awayTeamName": "Lazio",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-03-03T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Juventus",
+      "awayTeamName": "Verona",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-07T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Cagliari",
+      "awayTeamName": "Genoa",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-08T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Como",
+      "awayTeamName": "Venezia",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-08T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Parma",
+      "awayTeamName": "Torino",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-03-08T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Lecce",
+      "awayTeamName": "Milan",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-03-08T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Inter",
+      "awayTeamName": "Monza",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-03-09T11:30:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Verona",
+      "awayTeamName": "Bologna",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-03-09T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Napoli",
+      "awayTeamName": "Fiorentina",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-09T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Empoli",
+      "awayTeamName": "Roma",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-09T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Juventus",
+      "awayTeamName": "Atalanta",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2025-03-10T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Lazio",
+      "awayTeamName": "Udinese",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-14T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Genoa",
+      "awayTeamName": "Lecce",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-15T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Monza",
+      "awayTeamName": "Parma",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-15T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Udinese",
+      "awayTeamName": "Verona",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-15T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Milan",
+      "awayTeamName": "Como",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-15T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Torino",
+      "awayTeamName": "Empoli",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-16T11:30:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Venezia",
+      "awayTeamName": "Napoli",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-16T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Bologna",
+      "awayTeamName": "Lazio",
+      "result": {
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-16T15:00:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Roma",
+      "awayTeamName": "Cagliari",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-16T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Fiorentina",
+      "awayTeamName": "Juventus",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-16T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Atalanta",
+      "awayTeamName": "Inter",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-03-29T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "Como",
+      "awayTeamName": "Empoli",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-29T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "Venezia",
+      "awayTeamName": "Bologna",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-29T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "Juventus",
+      "awayTeamName": "Genoa",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-29T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "Lecce",
+      "awayTeamName": "Roma",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-30T11:30:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "Cagliari",
+      "awayTeamName": "Monza",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-30T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "Fiorentina",
+      "awayTeamName": "Atalanta",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-30T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "Inter",
+      "awayTeamName": "Udinese",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-30T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "Napoli",
+      "awayTeamName": "Milan",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-31T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "Verona",
+      "awayTeamName": "Parma",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-31T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "Lazio",
+      "awayTeamName": "Torino",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-04T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Genoa",
+      "awayTeamName": "Udinese",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-05T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Monza",
+      "awayTeamName": "Como",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-04-05T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Parma",
+      "awayTeamName": "Inter",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-04-05T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Milan",
+      "awayTeamName": "Fiorentina",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-04-06T11:30:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Lecce",
+      "awayTeamName": "Venezia",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-06T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Empoli",
+      "awayTeamName": "Cagliari",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-06T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Torino",
+      "awayTeamName": "Verona",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-06T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Atalanta",
+      "awayTeamName": "Lazio",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-06T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Roma",
+      "awayTeamName": "Juventus",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-07T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Bologna",
+      "awayTeamName": "Napoli",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-11T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "Udinese",
+      "awayTeamName": "Milan",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2025-04-12T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "Venezia",
+      "awayTeamName": "Monza",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-12T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "Inter",
+      "awayTeamName": "Cagliari",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-12T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "Juventus",
+      "awayTeamName": "Lecce",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-13T11:30:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "Atalanta",
+      "awayTeamName": "Bologna",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-13T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "Fiorentina",
+      "awayTeamName": "Parma",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-13T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "Verona",
+      "awayTeamName": "Genoa",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-13T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "Como",
+      "awayTeamName": "Torino",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-13T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "Lazio",
+      "awayTeamName": "Roma",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-14T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "Napoli",
+      "awayTeamName": "Empoli",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-19T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Lecce",
+      "awayTeamName": "Como",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-04-19T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Monza",
+      "awayTeamName": "Napoli",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-19T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Roma",
+      "awayTeamName": "Verona",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-20T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Empoli",
+      "awayTeamName": "Venezia",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-04-20T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Bologna",
+      "awayTeamName": "Inter",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-20T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Milan",
+      "awayTeamName": "Atalanta",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-23T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Cagliari",
+      "awayTeamName": "Fiorentina",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-04-23T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Genoa",
+      "awayTeamName": "Lazio",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-04-23T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Parma",
+      "awayTeamName": "Juventus",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-23T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Torino",
+      "awayTeamName": "Udinese",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-27T11:30:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "Como",
+      "awayTeamName": "Genoa",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-27T11:30:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "Venezia",
+      "awayTeamName": "Milan",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-04-27T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "Fiorentina",
+      "awayTeamName": "Empoli",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-27T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "Inter",
+      "awayTeamName": "Roma",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-27T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "Juventus",
+      "awayTeamName": "Monza",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-27T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "Atalanta",
+      "awayTeamName": "Lecce",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-27T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "Napoli",
+      "awayTeamName": "Torino",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-28T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "Udinese",
+      "awayTeamName": "Bologna",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-28T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "Lazio",
+      "awayTeamName": "Parma",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-04-28T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "Verona",
+      "awayTeamName": "Cagliari",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-02T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 35,
+      "homeTeamName": "Torino",
+      "awayTeamName": "Venezia",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-03T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 35,
+      "homeTeamName": "Cagliari",
+      "awayTeamName": "Udinese",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-03T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 35,
+      "homeTeamName": "Parma",
+      "awayTeamName": "Como",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-03T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 35,
+      "homeTeamName": "Lecce",
+      "awayTeamName": "Napoli",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-03T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 35,
+      "homeTeamName": "Inter",
+      "awayTeamName": "Verona",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-04T11:30:00Z",
+      "status": "FINISHED",
+      "matchday": 35,
+      "homeTeamName": "Empoli",
+      "awayTeamName": "Lazio",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-04T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 35,
+      "homeTeamName": "Monza",
+      "awayTeamName": "Atalanta",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2025-05-04T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 35,
+      "homeTeamName": "Roma",
+      "awayTeamName": "Fiorentina",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-04T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 35,
+      "homeTeamName": "Bologna",
+      "awayTeamName": "Juventus",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-05T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 35,
+      "homeTeamName": "Genoa",
+      "awayTeamName": "Milan",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-09T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 36,
+      "homeTeamName": "Milan",
+      "awayTeamName": "Bologna",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-10T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 36,
+      "homeTeamName": "Como",
+      "awayTeamName": "Cagliari",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-10T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 36,
+      "homeTeamName": "Lazio",
+      "awayTeamName": "Juventus",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-10T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 36,
+      "homeTeamName": "Empoli",
+      "awayTeamName": "Parma",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-11T11:30:00Z",
+      "status": "FINISHED",
+      "matchday": 36,
+      "homeTeamName": "Udinese",
+      "awayTeamName": "Monza",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-11T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 36,
+      "homeTeamName": "Verona",
+      "awayTeamName": "Lecce",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-11T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 36,
+      "homeTeamName": "Torino",
+      "awayTeamName": "Inter",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-11T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 36,
+      "homeTeamName": "Napoli",
+      "awayTeamName": "Genoa",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-12T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 36,
+      "homeTeamName": "Venezia",
+      "awayTeamName": "Fiorentina",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-12T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 36,
+      "homeTeamName": "Atalanta",
+      "awayTeamName": "Roma",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-17T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 37,
+      "homeTeamName": "Genoa",
+      "awayTeamName": "Atalanta",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-05-18T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 37,
+      "homeTeamName": "Cagliari",
+      "awayTeamName": "Venezia",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-18T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 37,
+      "homeTeamName": "Fiorentina",
+      "awayTeamName": "Bologna",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-18T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 37,
+      "homeTeamName": "Inter",
+      "awayTeamName": "Lazio",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-18T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 37,
+      "homeTeamName": "Juventus",
+      "awayTeamName": "Udinese",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-18T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 37,
+      "homeTeamName": "Lecce",
+      "awayTeamName": "Torino",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-18T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 37,
+      "homeTeamName": "Monza",
+      "awayTeamName": "Empoli",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-05-18T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 37,
+      "homeTeamName": "Parma",
+      "awayTeamName": "Napoli",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-18T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 37,
+      "homeTeamName": "Roma",
+      "awayTeamName": "Milan",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-18T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 37,
+      "homeTeamName": "Verona",
+      "awayTeamName": "Como",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-23T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 38,
+      "homeTeamName": "Como",
+      "awayTeamName": "Inter",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-23T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 38,
+      "homeTeamName": "Napoli",
+      "awayTeamName": "Cagliari",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-24T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 38,
+      "homeTeamName": "Bologna",
+      "awayTeamName": "Genoa",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-05-24T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 38,
+      "homeTeamName": "Milan",
+      "awayTeamName": "Monza",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-25T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 38,
+      "homeTeamName": "Atalanta",
+      "awayTeamName": "Parma",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-05-25T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 38,
+      "homeTeamName": "Empoli",
+      "awayTeamName": "Verona",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-25T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 38,
+      "homeTeamName": "Lazio",
+      "awayTeamName": "Lecce",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-25T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 38,
+      "homeTeamName": "Torino",
+      "awayTeamName": "Roma",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-25T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 38,
+      "homeTeamName": "Udinese",
+      "awayTeamName": "Fiorentina",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-05-25T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 38,
+      "homeTeamName": "Venezia",
+      "awayTeamName": "Juventus",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    }
+  ]
+}

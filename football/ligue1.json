@@ -1,0 +1,3370 @@
+{
+  "fixtures": [
+    {
+      "date": "2024-08-16T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Le Havre",
+      "awayTeamName": "Paris SG",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2024-08-17T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Brest",
+      "awayTeamName": "Marseille",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 5
+      }
+    },
+    {
+      "date": "2024-08-17T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Reims",
+      "awayTeamName": "Lille",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-08-17T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Monaco",
+      "awayTeamName": "St Etienne",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-08-18T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Auxerre",
+      "awayTeamName": "Nice",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-08-18T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Angers",
+      "awayTeamName": "Lens",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-08-18T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Montpellier",
+      "awayTeamName": "Strasbourg",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-08-18T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Toulouse",
+      "awayTeamName": "Nantes",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-08-18T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Rennes",
+      "awayTeamName": "Lyon",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-08-23T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Paris SG",
+      "awayTeamName": "Montpellier",
+      "result": {
+        "goalsHomeTeam": 6,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-08-24T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Lyon",
+      "awayTeamName": "Monaco",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-08-24T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Lille",
+      "awayTeamName": "Angers",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-08-24T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "St Etienne",
+      "awayTeamName": "Le Havre",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-08-25T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Lens",
+      "awayTeamName": "Brest",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-08-25T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Nantes",
+      "awayTeamName": "Auxerre",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-08-25T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Nice",
+      "awayTeamName": "Toulouse",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-08-25T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Strasbourg",
+      "awayTeamName": "Rennes",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-08-25T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Marseille",
+      "awayTeamName": "Reims",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-08-30T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Lyon",
+      "awayTeamName": "Strasbourg",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-08-31T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Brest",
+      "awayTeamName": "St Etienne",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-08-31T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Montpellier",
+      "awayTeamName": "Nantes",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-08-31T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Toulouse",
+      "awayTeamName": "Marseille",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-09-01T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Monaco",
+      "awayTeamName": "Lens",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-01T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Angers",
+      "awayTeamName": "Nice",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2024-09-01T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Le Havre",
+      "awayTeamName": "Auxerre",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-01T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Reims",
+      "awayTeamName": "Rennes",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-01T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Lille",
+      "awayTeamName": "Paris SG",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-09-13T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "St Etienne",
+      "awayTeamName": "Lille",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-14T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Marseille",
+      "awayTeamName": "Nice",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-14T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Auxerre",
+      "awayTeamName": "Monaco",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-09-14T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Paris SG",
+      "awayTeamName": "Brest",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-15T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Rennes",
+      "awayTeamName": "Montpellier",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-15T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Nantes",
+      "awayTeamName": "Reims",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-09-15T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Strasbourg",
+      "awayTeamName": "Angers",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-15T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Toulouse",
+      "awayTeamName": "Le Havre",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-15T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Lens",
+      "awayTeamName": "Lyon",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-20T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Nice",
+      "awayTeamName": "St Etienne",
+      "result": {
+        "goalsHomeTeam": 8,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-21T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Lille",
+      "awayTeamName": "Strasbourg",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-09-21T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Rennes",
+      "awayTeamName": "Lens",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-21T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Reims",
+      "awayTeamName": "Paris SG",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-22T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Monaco",
+      "awayTeamName": "Le Havre",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-22T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Angers",
+      "awayTeamName": "Nantes",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-22T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Brest",
+      "awayTeamName": "Toulouse",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-22T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Montpellier",
+      "awayTeamName": "Auxerre",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-09-22T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Lyon",
+      "awayTeamName": "Marseille",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-09-27T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Auxerre",
+      "awayTeamName": "Brest",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-27T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Paris SG",
+      "awayTeamName": "Rennes",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-28T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Lens",
+      "awayTeamName": "Nice",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-28T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Le Havre",
+      "awayTeamName": "Lille",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-09-28T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Monaco",
+      "awayTeamName": "Montpellier",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-29T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Toulouse",
+      "awayTeamName": "Lyon",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-09-29T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Angers",
+      "awayTeamName": "Reims",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-09-29T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Nantes",
+      "awayTeamName": "St Etienne",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-09-29T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Strasbourg",
+      "awayTeamName": "Marseille",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-10-04T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Marseille",
+      "awayTeamName": "Angers",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-05T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "St Etienne",
+      "awayTeamName": "Auxerre",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-05T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Lille",
+      "awayTeamName": "Toulouse",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-05T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Rennes",
+      "awayTeamName": "Monaco",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-10-06T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Lyon",
+      "awayTeamName": "Nantes",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-10-06T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Brest",
+      "awayTeamName": "Le Havre",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-10-06T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Reims",
+      "awayTeamName": "Montpellier",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-10-06T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Strasbourg",
+      "awayTeamName": "Lens",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-10-06T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Nice",
+      "awayTeamName": "Paris SG",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-18T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Monaco",
+      "awayTeamName": "Lille",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-10-19T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Brest",
+      "awayTeamName": "Rennes",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-19T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "St Etienne",
+      "awayTeamName": "Lens",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-10-19T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Paris SG",
+      "awayTeamName": "Strasbourg",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-10-20T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Le Havre",
+      "awayTeamName": "Lyon",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2024-10-20T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Auxerre",
+      "awayTeamName": "Reims",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-20T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Nantes",
+      "awayTeamName": "Nice",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-20T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Toulouse",
+      "awayTeamName": "Angers",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-20T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Montpellier",
+      "awayTeamName": "Marseille",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 5
+      }
+    },
+    {
+      "date": "2024-10-25T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Rennes",
+      "awayTeamName": "Le Havre",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-10-26T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Angers",
+      "awayTeamName": "St Etienne",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-10-26T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Reims",
+      "awayTeamName": "Brest",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-10-26T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Lens",
+      "awayTeamName": "Lille",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-10-27T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Lyon",
+      "awayTeamName": "Auxerre",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-10-27T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Montpellier",
+      "awayTeamName": "Toulouse",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-10-27T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Nice",
+      "awayTeamName": "Monaco",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-27T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Strasbourg",
+      "awayTeamName": "Nantes",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-27T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Marseille",
+      "awayTeamName": "Paris SG",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-11-01T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Monaco",
+      "awayTeamName": "Angers",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-01T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Lille",
+      "awayTeamName": "Lyon",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-02T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Paris SG",
+      "awayTeamName": "Lens",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-02T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Brest",
+      "awayTeamName": "Nice",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-02T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "St Etienne",
+      "awayTeamName": "Strasbourg",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-03T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Toulouse",
+      "awayTeamName": "Reims",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-03T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Auxerre",
+      "awayTeamName": "Rennes",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-03T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Le Havre",
+      "awayTeamName": "Montpellier",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-03T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Nantes",
+      "awayTeamName": "Marseille",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-11-08T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Marseille",
+      "awayTeamName": "Auxerre",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-11-09T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Strasbourg",
+      "awayTeamName": "Monaco",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-11-09T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Lens",
+      "awayTeamName": "Nantes",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-11-09T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Angers",
+      "awayTeamName": "Paris SG",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2024-11-10T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Nice",
+      "awayTeamName": "Lille",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-11-10T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Le Havre",
+      "awayTeamName": "Reims",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-11-10T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Montpellier",
+      "awayTeamName": "Brest",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-10T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Rennes",
+      "awayTeamName": "Toulouse",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-11-10T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Lyon",
+      "awayTeamName": "St Etienne",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-22T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Monaco",
+      "awayTeamName": "Brest",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-11-22T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Paris SG",
+      "awayTeamName": "Toulouse",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-23T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Lens",
+      "awayTeamName": "Marseille",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-11-23T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "St Etienne",
+      "awayTeamName": "Montpellier",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-23T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Reims",
+      "awayTeamName": "Lyon",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-24T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Lille",
+      "awayTeamName": "Rennes",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-24T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Auxerre",
+      "awayTeamName": "Angers",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-24T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Nantes",
+      "awayTeamName": "Le Havre",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-11-24T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Nice",
+      "awayTeamName": "Strasbourg",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-29T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "Reims",
+      "awayTeamName": "Lens",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-11-30T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "Rennes",
+      "awayTeamName": "St Etienne",
+      "result": {
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-30T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "Brest",
+      "awayTeamName": "Strasbourg",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-30T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "Paris SG",
+      "awayTeamName": "Nantes",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-01T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "Montpellier",
+      "awayTeamName": "Lille",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-01T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "Le Havre",
+      "awayTeamName": "Angers",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-01T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "Lyon",
+      "awayTeamName": "Nice",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-01T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "Toulouse",
+      "awayTeamName": "Auxerre",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-12-01T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "Marseille",
+      "awayTeamName": "Monaco",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-06T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Lille",
+      "awayTeamName": "Brest",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-06T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Auxerre",
+      "awayTeamName": "Paris SG",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-12-07T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Monaco",
+      "awayTeamName": "Toulouse",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-12-07T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Nice",
+      "awayTeamName": "Le Havre",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-07T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Angers",
+      "awayTeamName": "Lyon",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-12-08T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Lens",
+      "awayTeamName": "Montpellier",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-12-08T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Nantes",
+      "awayTeamName": "Rennes",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-12-08T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Strasbourg",
+      "awayTeamName": "Reims",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-12-08T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "St Etienne",
+      "awayTeamName": "Marseille",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-13T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "homeTeamName": "Toulouse",
+      "awayTeamName": "St Etienne",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-14T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "homeTeamName": "Marseille",
+      "awayTeamName": "Lille",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-14T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "homeTeamName": "Auxerre",
+      "awayTeamName": "Lens",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-14T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "homeTeamName": "Reims",
+      "awayTeamName": "Monaco",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-12-15T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "homeTeamName": "Montpellier",
+      "awayTeamName": "Nice",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-15T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "homeTeamName": "Brest",
+      "awayTeamName": "Nantes",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-15T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "homeTeamName": "Le Havre",
+      "awayTeamName": "Strasbourg",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-12-15T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "homeTeamName": "Rennes",
+      "awayTeamName": "Angers",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-12-15T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "homeTeamName": "Paris SG",
+      "awayTeamName": "Lyon",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-18T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Monaco",
+      "awayTeamName": "Paris SG",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2025-01-03T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Nice",
+      "awayTeamName": "Rennes",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-01-04T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "St Etienne",
+      "awayTeamName": "Reims",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-04T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Lille",
+      "awayTeamName": "Nantes",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-04T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Lyon",
+      "awayTeamName": "Montpellier",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-01-05T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Angers",
+      "awayTeamName": "Brest",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-01-05T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Lens",
+      "awayTeamName": "Toulouse",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-05T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Strasbourg",
+      "awayTeamName": "Auxerre",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-05T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Marseille",
+      "awayTeamName": "Le Havre",
+      "result": {
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-10T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Nantes",
+      "awayTeamName": "Monaco",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-01-10T20:05:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Auxerre",
+      "awayTeamName": "Lille",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-01-11T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Brest",
+      "awayTeamName": "Lyon",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-11T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Reims",
+      "awayTeamName": "Nice",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2025-01-11T20:05:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Rennes",
+      "awayTeamName": "Marseille",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-01-12T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Le Havre",
+      "awayTeamName": "Lens",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-01-12T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Montpellier",
+      "awayTeamName": "Angers",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-01-12T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Toulouse",
+      "awayTeamName": "Strasbourg",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-01-12T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Paris SG",
+      "awayTeamName": "St Etienne",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-17T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Montpellier",
+      "awayTeamName": "Monaco",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-17T20:05:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Lille",
+      "awayTeamName": "Nice",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-18T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Lens",
+      "awayTeamName": "Paris SG",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-01-18T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Rennes",
+      "awayTeamName": "Brest",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-01-18T20:05:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Lyon",
+      "awayTeamName": "Toulouse",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-01-19T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "St Etienne",
+      "awayTeamName": "Nantes",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-19T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Angers",
+      "awayTeamName": "Auxerre",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-01-19T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Reims",
+      "awayTeamName": "Le Havre",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-19T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Marseille",
+      "awayTeamName": "Strasbourg",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-24T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "homeTeamName": "Auxerre",
+      "awayTeamName": "St Etienne",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-25T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "homeTeamName": "Monaco",
+      "awayTeamName": "Rennes",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-01-25T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "homeTeamName": "Strasbourg",
+      "awayTeamName": "Lille",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-25T20:05:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "homeTeamName": "Paris SG",
+      "awayTeamName": "Reims",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-26T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "homeTeamName": "Le Havre",
+      "awayTeamName": "Brest",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-26T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "homeTeamName": "Lens",
+      "awayTeamName": "Angers",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-01-26T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "homeTeamName": "Nantes",
+      "awayTeamName": "Lyon",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-26T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "homeTeamName": "Toulouse",
+      "awayTeamName": "Montpellier",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-01-26T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "homeTeamName": "Nice",
+      "awayTeamName": "Marseille",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-01-31T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Montpellier",
+      "awayTeamName": "Lens",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-02-01T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Brest",
+      "awayTeamName": "Paris SG",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 5
+      }
+    },
+    {
+      "date": "2025-02-01T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Monaco",
+      "awayTeamName": "Auxerre",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-02-01T20:05:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Lille",
+      "awayTeamName": "St Etienne",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-02T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Toulouse",
+      "awayTeamName": "Nice",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-02T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Angers",
+      "awayTeamName": "Le Havre",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-02T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Reims",
+      "awayTeamName": "Nantes",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-02-02T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Rennes",
+      "awayTeamName": "Strasbourg",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-02T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Marseille",
+      "awayTeamName": "Lyon",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-02-07T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "Nantes",
+      "awayTeamName": "Brest",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-02-07T20:05:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "Paris SG",
+      "awayTeamName": "Monaco",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-08T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "Nice",
+      "awayTeamName": "Lens",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-08T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "Lille",
+      "awayTeamName": "Le Havre",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-02-08T20:05:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "St Etienne",
+      "awayTeamName": "Rennes",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-02-09T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "Lyon",
+      "awayTeamName": "Reims",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-09T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "Auxerre",
+      "awayTeamName": "Toulouse",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-02-09T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "Strasbourg",
+      "awayTeamName": "Montpellier",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-09T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "Angers",
+      "awayTeamName": "Marseille",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-02-14T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Brest",
+      "awayTeamName": "Auxerre",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-02-15T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Marseille",
+      "awayTeamName": "St Etienne",
+      "result": {
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-15T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Monaco",
+      "awayTeamName": "Nantes",
+      "result": {
+        "goalsHomeTeam": 7,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-15T20:05:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Toulouse",
+      "awayTeamName": "Paris SG",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-16T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Montpellier",
+      "awayTeamName": "Lyon",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2025-02-16T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Le Havre",
+      "awayTeamName": "Nice",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-02-16T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Lens",
+      "awayTeamName": "Strasbourg",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-02-16T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Reims",
+      "awayTeamName": "Angers",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-16T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Rennes",
+      "awayTeamName": "Lille",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-02-21T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "Rennes",
+      "awayTeamName": "Reims",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-22T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "Lille",
+      "awayTeamName": "Monaco",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-22T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "St Etienne",
+      "awayTeamName": "Angers",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-02-22T20:05:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "Auxerre",
+      "awayTeamName": "Marseille",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-23T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "Nantes",
+      "awayTeamName": "Lens",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-23T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "Le Havre",
+      "awayTeamName": "Toulouse",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2025-02-23T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "Nice",
+      "awayTeamName": "Montpellier",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-23T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "Strasbourg",
+      "awayTeamName": "Brest",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-23T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "Lyon",
+      "awayTeamName": "Paris SG",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-02-28T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Monaco",
+      "awayTeamName": "Reims",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-01T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "St Etienne",
+      "awayTeamName": "Nice",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-03-01T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Lens",
+      "awayTeamName": "Le Havre",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2025-03-01T20:05:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Paris SG",
+      "awayTeamName": "Lille",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-02T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Lyon",
+      "awayTeamName": "Brest",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-02T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Angers",
+      "awayTeamName": "Toulouse",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2025-03-02T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Auxerre",
+      "awayTeamName": "Strasbourg",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-02T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Montpellier",
+      "awayTeamName": "Rennes",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2025-03-02T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Marseille",
+      "awayTeamName": "Nantes",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-07T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Toulouse",
+      "awayTeamName": "Monaco",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-08T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Rennes",
+      "awayTeamName": "Paris SG",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2025-03-08T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Lille",
+      "awayTeamName": "Montpellier",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-08T20:05:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Marseille",
+      "awayTeamName": "Lens",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-09T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Brest",
+      "awayTeamName": "Angers",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-09T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Le Havre",
+      "awayTeamName": "St Etienne",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-09T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Nantes",
+      "awayTeamName": "Strasbourg",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-09T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Reims",
+      "awayTeamName": "Auxerre",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-03-09T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Nice",
+      "awayTeamName": "Lyon",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-03-14T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Nice",
+      "awayTeamName": "Auxerre",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-15T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Nantes",
+      "awayTeamName": "Lille",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-15T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Angers",
+      "awayTeamName": "Monaco",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-03-15T20:05:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Lens",
+      "awayTeamName": "Rennes",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-16T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Lyon",
+      "awayTeamName": "Le Havre",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-03-16T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Brest",
+      "awayTeamName": "Reims",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-16T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Montpellier",
+      "awayTeamName": "St Etienne",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-03-16T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Strasbourg",
+      "awayTeamName": "Toulouse",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-16T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Paris SG",
+      "awayTeamName": "Marseille",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-28T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Strasbourg",
+      "awayTeamName": "Lyon",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-03-29T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Reims",
+      "awayTeamName": "Marseille",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-29T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "St Etienne",
+      "awayTeamName": "Paris SG",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 6
+      }
+    },
+    {
+      "date": "2025-03-29T20:05:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Monaco",
+      "awayTeamName": "Nice",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-30T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Toulouse",
+      "awayTeamName": "Brest",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2025-03-30T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Angers",
+      "awayTeamName": "Rennes",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-03-30T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Auxerre",
+      "awayTeamName": "Montpellier",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-30T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Le Havre",
+      "awayTeamName": "Nantes",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-03-30T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Lille",
+      "awayTeamName": "Lens",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-04T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Nice",
+      "awayTeamName": "Nantes",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-04-05T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Paris SG",
+      "awayTeamName": "Angers",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-05T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Brest",
+      "awayTeamName": "Monaco",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-05T20:05:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Lyon",
+      "awayTeamName": "Lille",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-06T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Lens",
+      "awayTeamName": "St Etienne",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-06T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Montpellier",
+      "awayTeamName": "Le Havre",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-04-06T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Reims",
+      "awayTeamName": "Strasbourg",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-06T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Rennes",
+      "awayTeamName": "Auxerre",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-06T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Marseille",
+      "awayTeamName": "Toulouse",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-04-11T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Lens",
+      "awayTeamName": "Reims",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-04-12T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Monaco",
+      "awayTeamName": "Marseille",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-12T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Toulouse",
+      "awayTeamName": "Lille",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-04-12T20:05:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Strasbourg",
+      "awayTeamName": "Nice",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-04-13T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "St Etienne",
+      "awayTeamName": "Brest",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-04-13T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Angers",
+      "awayTeamName": "Montpellier",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-13T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Le Havre",
+      "awayTeamName": "Rennes",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 5
+      }
+    },
+    {
+      "date": "2025-04-13T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Auxerre",
+      "awayTeamName": "Lyon",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-04-18T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "Rennes",
+      "awayTeamName": "Nantes",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-19T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Paris SG",
+      "awayTeamName": "Le Havre",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-19T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "Monaco",
+      "awayTeamName": "Strasbourg",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-19T20:05:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "Marseille",
+      "awayTeamName": "Montpellier",
+      "result": {
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-20T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "Lille",
+      "awayTeamName": "Auxerre",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-20T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "Brest",
+      "awayTeamName": "Lens",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-04-20T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "Nice",
+      "awayTeamName": "Angers",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-20T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "Reims",
+      "awayTeamName": "Toulouse",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-20T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "St Etienne",
+      "awayTeamName": "Lyon",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-22T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "Nantes",
+      "awayTeamName": "Paris SG",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-25T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Paris SG",
+      "awayTeamName": "Nice",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-04-26T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Strasbourg",
+      "awayTeamName": "St Etienne",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-26T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Le Havre",
+      "awayTeamName": "Monaco",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-26T20:05:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Lyon",
+      "awayTeamName": "Rennes",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-27T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Angers",
+      "awayTeamName": "Lille",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-04-27T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Lens",
+      "awayTeamName": "Auxerre",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2025-04-27T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Montpellier",
+      "awayTeamName": "Reims",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-27T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Nantes",
+      "awayTeamName": "Toulouse",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-27T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Marseille",
+      "awayTeamName": "Brest",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-02T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "Nice",
+      "awayTeamName": "Reims",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-03T16:00:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "Strasbourg",
+      "awayTeamName": "Paris SG",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-03T18:00:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "Toulouse",
+      "awayTeamName": "Rennes",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-03T20:05:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "St Etienne",
+      "awayTeamName": "Monaco",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-05-04T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "Nantes",
+      "awayTeamName": "Angers",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-04T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "Auxerre",
+      "awayTeamName": "Le Havre",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-04T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "Brest",
+      "awayTeamName": "Montpellier",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-04T16:15:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "Lyon",
+      "awayTeamName": "Lens",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-04T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "Lille",
+      "awayTeamName": "Marseille",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-10T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Angers",
+      "awayTeamName": "Strasbourg",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-10T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Auxerre",
+      "awayTeamName": "Nantes",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-10T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Brest",
+      "awayTeamName": "Lille",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-10T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Le Havre",
+      "awayTeamName": "Marseille",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-05-10T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Monaco",
+      "awayTeamName": "Lyon",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-10T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Montpellier",
+      "awayTeamName": "Paris SG",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2025-05-10T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Reims",
+      "awayTeamName": "St Etienne",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-10T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Rennes",
+      "awayTeamName": "Nice",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-10T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Toulouse",
+      "awayTeamName": "Lens",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-17T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "Lens",
+      "awayTeamName": "Monaco",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-17T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "Lille",
+      "awayTeamName": "Reims",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-17T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "Lyon",
+      "awayTeamName": "Angers",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-17T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "Marseille",
+      "awayTeamName": "Rennes",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-17T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "Nantes",
+      "awayTeamName": "Montpellier",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-17T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "Nice",
+      "awayTeamName": "Brest",
+      "result": {
+        "goalsHomeTeam": 6,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-17T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "Paris SG",
+      "awayTeamName": "Auxerre",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-17T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "St Etienne",
+      "awayTeamName": "Toulouse",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-05-17T20:00:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "Strasbourg",
+      "awayTeamName": "Le Havre",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    }
+  ]
+}

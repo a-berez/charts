@@ -1,0 +1,3370 @@
+{
+  "fixtures": [
+    {
+      "date": "2024-08-23T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "M'gladbach",
+      "awayTeamName": "Leverkusen",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-08-24T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Augsburg",
+      "awayTeamName": "Werder Bremen",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-08-24T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Freiburg",
+      "awayTeamName": "Stuttgart",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-08-24T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Hoffenheim",
+      "awayTeamName": "Holstein Kiel",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-08-24T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Mainz",
+      "awayTeamName": "Union Berlin",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-08-24T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "RB Leipzig",
+      "awayTeamName": "Bochum",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-08-24T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Dortmund",
+      "awayTeamName": "Ein Frankfurt",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-08-25T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Wolfsburg",
+      "awayTeamName": "Bayern Munich",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-08-25T16:30:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "St Pauli",
+      "awayTeamName": "Heidenheim",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-08-30T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Union Berlin",
+      "awayTeamName": "St Pauli",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-08-31T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Bochum",
+      "awayTeamName": "M'gladbach",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-08-31T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Ein Frankfurt",
+      "awayTeamName": "Hoffenheim",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-08-31T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Holstein Kiel",
+      "awayTeamName": "Wolfsburg",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-08-31T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Stuttgart",
+      "awayTeamName": "Mainz",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-08-31T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Werder Bremen",
+      "awayTeamName": "Dortmund",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-08-31T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Leverkusen",
+      "awayTeamName": "RB Leipzig",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-09-01T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Heidenheim",
+      "awayTeamName": "Augsburg",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-01T16:30:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Bayern Munich",
+      "awayTeamName": "Freiburg",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-13T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Dortmund",
+      "awayTeamName": "Heidenheim",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-09-14T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Freiburg",
+      "awayTeamName": "Bochum",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-14T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Hoffenheim",
+      "awayTeamName": "Leverkusen",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2024-09-14T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "M'gladbach",
+      "awayTeamName": "Stuttgart",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-09-14T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "RB Leipzig",
+      "awayTeamName": "Union Berlin",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-14T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Wolfsburg",
+      "awayTeamName": "Ein Frankfurt",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-09-14T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Holstein Kiel",
+      "awayTeamName": "Bayern Munich",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 6
+      }
+    },
+    {
+      "date": "2024-09-15T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Augsburg",
+      "awayTeamName": "St Pauli",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-15T16:30:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Mainz",
+      "awayTeamName": "Werder Bremen",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-09-20T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Augsburg",
+      "awayTeamName": "Mainz",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-09-21T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Bochum",
+      "awayTeamName": "Holstein Kiel",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-09-21T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Heidenheim",
+      "awayTeamName": "Freiburg",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-09-21T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Union Berlin",
+      "awayTeamName": "Hoffenheim",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-21T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Werder Bremen",
+      "awayTeamName": "Bayern Munich",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 5
+      }
+    },
+    {
+      "date": "2024-09-21T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Ein Frankfurt",
+      "awayTeamName": "M'gladbach",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-22T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Leverkusen",
+      "awayTeamName": "Wolfsburg",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-09-22T16:30:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Stuttgart",
+      "awayTeamName": "Dortmund",
+      "result": {
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-22T18:30:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "St Pauli",
+      "awayTeamName": "RB Leipzig",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-27T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Dortmund",
+      "awayTeamName": "Bochum",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-09-28T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Freiburg",
+      "awayTeamName": "St Pauli",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-09-28T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Mainz",
+      "awayTeamName": "Heidenheim",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-09-28T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "M'gladbach",
+      "awayTeamName": "Union Berlin",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-28T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "RB Leipzig",
+      "awayTeamName": "Augsburg",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-09-28T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Wolfsburg",
+      "awayTeamName": "Stuttgart",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-09-28T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Bayern Munich",
+      "awayTeamName": "Leverkusen",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-09-29T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Holstein Kiel",
+      "awayTeamName": "Ein Frankfurt",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2024-09-29T16:30:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Hoffenheim",
+      "awayTeamName": "Werder Bremen",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2024-10-04T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Augsburg",
+      "awayTeamName": "M'gladbach",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-05T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Bochum",
+      "awayTeamName": "Wolfsburg",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-10-05T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Leverkusen",
+      "awayTeamName": "Holstein Kiel",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-10-05T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Union Berlin",
+      "awayTeamName": "Dortmund",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-05T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Werder Bremen",
+      "awayTeamName": "Freiburg",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-05T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "St Pauli",
+      "awayTeamName": "Mainz",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-10-06T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Heidenheim",
+      "awayTeamName": "RB Leipzig",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-06T16:30:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Ein Frankfurt",
+      "awayTeamName": "Bayern Munich",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-10-06T18:30:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Stuttgart",
+      "awayTeamName": "Hoffenheim",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-18T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Dortmund",
+      "awayTeamName": "St Pauli",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-19T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Freiburg",
+      "awayTeamName": "Augsburg",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-19T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Hoffenheim",
+      "awayTeamName": "Bochum",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-19T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Leverkusen",
+      "awayTeamName": "Ein Frankfurt",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-19T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Mainz",
+      "awayTeamName": "RB Leipzig",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-10-19T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "M'gladbach",
+      "awayTeamName": "Heidenheim",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-10-19T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Bayern Munich",
+      "awayTeamName": "Stuttgart",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-10-20T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Holstein Kiel",
+      "awayTeamName": "Union Berlin",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-10-20T16:30:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Wolfsburg",
+      "awayTeamName": "Werder Bremen",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2024-10-25T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Mainz",
+      "awayTeamName": "M'gladbach",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-26T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Augsburg",
+      "awayTeamName": "Dortmund",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-26T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "RB Leipzig",
+      "awayTeamName": "Freiburg",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-26T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "St Pauli",
+      "awayTeamName": "Wolfsburg",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-10-26T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Stuttgart",
+      "awayTeamName": "Holstein Kiel",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-26T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Werder Bremen",
+      "awayTeamName": "Leverkusen",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-10-27T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Bochum",
+      "awayTeamName": "Bayern Munich",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 5
+      }
+    },
+    {
+      "date": "2024-10-27T16:30:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Union Berlin",
+      "awayTeamName": "Ein Frankfurt",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-10-27T18:30:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Heidenheim",
+      "awayTeamName": "Hoffenheim",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-01T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Leverkusen",
+      "awayTeamName": "Stuttgart",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-02T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Bayern Munich",
+      "awayTeamName": "Union Berlin",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-02T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Ein Frankfurt",
+      "awayTeamName": "Bochum",
+      "result": {
+        "goalsHomeTeam": 7,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-11-02T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Hoffenheim",
+      "awayTeamName": "St Pauli",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-11-02T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Holstein Kiel",
+      "awayTeamName": "Heidenheim",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-02T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Wolfsburg",
+      "awayTeamName": "Augsburg",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-02T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Dortmund",
+      "awayTeamName": "RB Leipzig",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-03T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Freiburg",
+      "awayTeamName": "Mainz",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-03T16:30:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "M'gladbach",
+      "awayTeamName": "Werder Bremen",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-08T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Union Berlin",
+      "awayTeamName": "Freiburg",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-09T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Bochum",
+      "awayTeamName": "Leverkusen",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-09T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Mainz",
+      "awayTeamName": "Dortmund",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-09T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "St Pauli",
+      "awayTeamName": "Bayern Munich",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-09T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Werder Bremen",
+      "awayTeamName": "Holstein Kiel",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-09T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "RB Leipzig",
+      "awayTeamName": "M'gladbach",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-10T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Augsburg",
+      "awayTeamName": "Hoffenheim",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-10T16:30:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Stuttgart",
+      "awayTeamName": "Ein Frankfurt",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-11-10T18:30:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Heidenheim",
+      "awayTeamName": "Wolfsburg",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-11-22T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Bayern Munich",
+      "awayTeamName": "Augsburg",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-23T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Dortmund",
+      "awayTeamName": "Freiburg",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-23T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Hoffenheim",
+      "awayTeamName": "RB Leipzig",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-11-23T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Leverkusen",
+      "awayTeamName": "Heidenheim",
+      "result": {
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-11-23T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Stuttgart",
+      "awayTeamName": "Bochum",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-23T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Wolfsburg",
+      "awayTeamName": "Union Berlin",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-23T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Ein Frankfurt",
+      "awayTeamName": "Werder Bremen",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-24T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Holstein Kiel",
+      "awayTeamName": "Mainz",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-11-24T16:30:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "M'gladbach",
+      "awayTeamName": "St Pauli",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-29T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "St Pauli",
+      "awayTeamName": "Holstein Kiel",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-30T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Augsburg",
+      "awayTeamName": "Bochum",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-11-30T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Freiburg",
+      "awayTeamName": "M'gladbach",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-11-30T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "RB Leipzig",
+      "awayTeamName": "Wolfsburg",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 5
+      }
+    },
+    {
+      "date": "2024-11-30T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Union Berlin",
+      "awayTeamName": "Leverkusen",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-11-30T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Werder Bremen",
+      "awayTeamName": "Stuttgart",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-11-30T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Dortmund",
+      "awayTeamName": "Bayern Munich",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-01T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Mainz",
+      "awayTeamName": "Hoffenheim",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-12-01T16:30:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Heidenheim",
+      "awayTeamName": "Ein Frankfurt",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2024-12-06T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "Stuttgart",
+      "awayTeamName": "Union Berlin",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-07T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "Bayern Munich",
+      "awayTeamName": "Heidenheim",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-07T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "Bochum",
+      "awayTeamName": "Werder Bremen",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-07T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "Ein Frankfurt",
+      "awayTeamName": "Augsburg",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-07T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "Holstein Kiel",
+      "awayTeamName": "RB Leipzig",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-07T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "Leverkusen",
+      "awayTeamName": "St Pauli",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-07T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "M'gladbach",
+      "awayTeamName": "Dortmund",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-08T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "Wolfsburg",
+      "awayTeamName": "Mainz",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-12-08T16:30:00Z",
+      "status": "FINISHED",
+      "matchday": 13,
+      "homeTeamName": "Hoffenheim",
+      "awayTeamName": "Freiburg",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-13T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Freiburg",
+      "awayTeamName": "Wolfsburg",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-14T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Augsburg",
+      "awayTeamName": "Leverkusen",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-14T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Mainz",
+      "awayTeamName": "Bayern Munich",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-14T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "M'gladbach",
+      "awayTeamName": "Holstein Kiel",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-14T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Union Berlin",
+      "awayTeamName": "Bochum",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-14T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "St Pauli",
+      "awayTeamName": "Werder Bremen",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-15T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Heidenheim",
+      "awayTeamName": "Stuttgart",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-12-15T16:30:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "Dortmund",
+      "awayTeamName": "Hoffenheim",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-15T18:30:00Z",
+      "status": "FINISHED",
+      "matchday": 14,
+      "homeTeamName": "RB Leipzig",
+      "awayTeamName": "Ein Frankfurt",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-20T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "homeTeamName": "Bayern Munich",
+      "awayTeamName": "RB Leipzig",
+      "result": {
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-21T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "homeTeamName": "Ein Frankfurt",
+      "awayTeamName": "Mainz",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2024-12-21T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "homeTeamName": "Hoffenheim",
+      "awayTeamName": "M'gladbach",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2024-12-21T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "homeTeamName": "Holstein Kiel",
+      "awayTeamName": "Augsburg",
+      "result": {
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-21T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "homeTeamName": "Stuttgart",
+      "awayTeamName": "St Pauli",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-21T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "homeTeamName": "Werder Bremen",
+      "awayTeamName": "Union Berlin",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-21T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "homeTeamName": "Leverkusen",
+      "awayTeamName": "Freiburg",
+      "result": {
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2024-12-22T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "homeTeamName": "Bochum",
+      "awayTeamName": "Heidenheim",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2024-12-22T16:30:00Z",
+      "status": "FINISHED",
+      "matchday": 15,
+      "homeTeamName": "Wolfsburg",
+      "awayTeamName": "Dortmund",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-01-10T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Dortmund",
+      "awayTeamName": "Leverkusen",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-01-11T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Freiburg",
+      "awayTeamName": "Holstein Kiel",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-01-11T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Heidenheim",
+      "awayTeamName": "Union Berlin",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-01-11T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Hoffenheim",
+      "awayTeamName": "Wolfsburg",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-11T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Mainz",
+      "awayTeamName": "Bochum",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-01-11T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "St Pauli",
+      "awayTeamName": "Ein Frankfurt",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-11T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "M'gladbach",
+      "awayTeamName": "Bayern Munich",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-12T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "RB Leipzig",
+      "awayTeamName": "Werder Bremen",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-01-12T16:30:00Z",
+      "status": "FINISHED",
+      "matchday": 16,
+      "homeTeamName": "Augsburg",
+      "awayTeamName": "Stuttgart",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-14T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Holstein Kiel",
+      "awayTeamName": "Dortmund",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-01-14T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Ein Frankfurt",
+      "awayTeamName": "Freiburg",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-14T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Leverkusen",
+      "awayTeamName": "Mainz",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-01-14T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Wolfsburg",
+      "awayTeamName": "M'gladbach",
+      "result": {
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-15T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Bochum",
+      "awayTeamName": "St Pauli",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-01-15T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Bayern Munich",
+      "awayTeamName": "Hoffenheim",
+      "result": {
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-01-15T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Stuttgart",
+      "awayTeamName": "RB Leipzig",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-15T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Union Berlin",
+      "awayTeamName": "Augsburg",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-01-15T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 17,
+      "homeTeamName": "Werder Bremen",
+      "awayTeamName": "Heidenheim",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-01-17T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Ein Frankfurt",
+      "awayTeamName": "Dortmund",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-01-18T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Bayern Munich",
+      "awayTeamName": "Wolfsburg",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-01-18T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Bochum",
+      "awayTeamName": "RB Leipzig",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-01-18T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Heidenheim",
+      "awayTeamName": "St Pauli",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-01-18T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Holstein Kiel",
+      "awayTeamName": "Hoffenheim",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-01-18T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Stuttgart",
+      "awayTeamName": "Freiburg",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-01-18T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Leverkusen",
+      "awayTeamName": "M'gladbach",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-19T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Union Berlin",
+      "awayTeamName": "Mainz",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-19T16:30:00Z",
+      "status": "FINISHED",
+      "matchday": 18,
+      "homeTeamName": "Werder Bremen",
+      "awayTeamName": "Augsburg",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-01-24T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "homeTeamName": "Wolfsburg",
+      "awayTeamName": "Holstein Kiel",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-01-25T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "homeTeamName": "Augsburg",
+      "awayTeamName": "Heidenheim",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-01-25T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "homeTeamName": "Dortmund",
+      "awayTeamName": "Werder Bremen",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-01-25T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "homeTeamName": "Freiburg",
+      "awayTeamName": "Bayern Munich",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-01-25T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "homeTeamName": "Mainz",
+      "awayTeamName": "Stuttgart",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-01-25T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "homeTeamName": "RB Leipzig",
+      "awayTeamName": "Leverkusen",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-01-25T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "homeTeamName": "M'gladbach",
+      "awayTeamName": "Bochum",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-01-26T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "homeTeamName": "Hoffenheim",
+      "awayTeamName": "Ein Frankfurt",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-01-26T16:30:00Z",
+      "status": "FINISHED",
+      "matchday": 19,
+      "homeTeamName": "St Pauli",
+      "awayTeamName": "Union Berlin",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-01-31T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Werder Bremen",
+      "awayTeamName": "Mainz",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-01T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Bayern Munich",
+      "awayTeamName": "Holstein Kiel",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-02-01T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Bochum",
+      "awayTeamName": "Freiburg",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-01T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Heidenheim",
+      "awayTeamName": "Dortmund",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-02-01T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "St Pauli",
+      "awayTeamName": "Augsburg",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-01T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Stuttgart",
+      "awayTeamName": "M'gladbach",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-02-01T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Union Berlin",
+      "awayTeamName": "RB Leipzig",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-02T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Ein Frankfurt",
+      "awayTeamName": "Wolfsburg",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-02T16:30:00Z",
+      "status": "FINISHED",
+      "matchday": 20,
+      "homeTeamName": "Leverkusen",
+      "awayTeamName": "Hoffenheim",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-07T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "Bayern Munich",
+      "awayTeamName": "Werder Bremen",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-08T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "Dortmund",
+      "awayTeamName": "Stuttgart",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-02-08T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "Freiburg",
+      "awayTeamName": "Heidenheim",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-08T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "Hoffenheim",
+      "awayTeamName": "Union Berlin",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2025-02-08T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "Mainz",
+      "awayTeamName": "Augsburg",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-08T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "Wolfsburg",
+      "awayTeamName": "Leverkusen",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-08T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "M'gladbach",
+      "awayTeamName": "Ein Frankfurt",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-09T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "Holstein Kiel",
+      "awayTeamName": "Bochum",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-02-09T16:30:00Z",
+      "status": "FINISHED",
+      "matchday": 21,
+      "homeTeamName": "RB Leipzig",
+      "awayTeamName": "St Pauli",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-14T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Augsburg",
+      "awayTeamName": "RB Leipzig",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-15T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Bochum",
+      "awayTeamName": "Dortmund",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-15T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "St Pauli",
+      "awayTeamName": "Freiburg",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-15T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Stuttgart",
+      "awayTeamName": "Wolfsburg",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-02-15T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Union Berlin",
+      "awayTeamName": "M'gladbach",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-02-15T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Leverkusen",
+      "awayTeamName": "Bayern Munich",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-16T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Werder Bremen",
+      "awayTeamName": "Hoffenheim",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-02-16T16:30:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Ein Frankfurt",
+      "awayTeamName": "Holstein Kiel",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-16T18:30:00Z",
+      "status": "FINISHED",
+      "matchday": 22,
+      "homeTeamName": "Heidenheim",
+      "awayTeamName": "Mainz",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-02-21T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "Freiburg",
+      "awayTeamName": "Werder Bremen",
+      "result": {
+        "goalsHomeTeam": 5,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-22T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "Holstein Kiel",
+      "awayTeamName": "Leverkusen",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-02-22T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "Mainz",
+      "awayTeamName": "St Pauli",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-22T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "M'gladbach",
+      "awayTeamName": "Augsburg",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-02-22T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "Wolfsburg",
+      "awayTeamName": "Bochum",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-22T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "Dortmund",
+      "awayTeamName": "Union Berlin",
+      "result": {
+        "goalsHomeTeam": 6,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-23T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "RB Leipzig",
+      "awayTeamName": "Heidenheim",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-02-23T16:30:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "Bayern Munich",
+      "awayTeamName": "Ein Frankfurt",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-02-23T18:30:00Z",
+      "status": "FINISHED",
+      "matchday": 23,
+      "homeTeamName": "Hoffenheim",
+      "awayTeamName": "Stuttgart",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-02-28T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Stuttgart",
+      "awayTeamName": "Bayern Munich",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-03-01T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Bochum",
+      "awayTeamName": "Hoffenheim",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-01T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Heidenheim",
+      "awayTeamName": "M'gladbach",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-03-01T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "RB Leipzig",
+      "awayTeamName": "Mainz",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-03-01T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "St Pauli",
+      "awayTeamName": "Dortmund",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-03-01T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Werder Bremen",
+      "awayTeamName": "Wolfsburg",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-03-01T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Ein Frankfurt",
+      "awayTeamName": "Leverkusen",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2025-03-02T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Union Berlin",
+      "awayTeamName": "Holstein Kiel",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-02T16:30:00Z",
+      "status": "FINISHED",
+      "matchday": 24,
+      "homeTeamName": "Augsburg",
+      "awayTeamName": "Freiburg",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-07T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "M'gladbach",
+      "awayTeamName": "Mainz",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-03-08T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Bayern Munich",
+      "awayTeamName": "Bochum",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-03-08T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Dortmund",
+      "awayTeamName": "Augsburg",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-08T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Holstein Kiel",
+      "awayTeamName": "Stuttgart",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-03-08T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Leverkusen",
+      "awayTeamName": "Werder Bremen",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-03-08T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Wolfsburg",
+      "awayTeamName": "St Pauli",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-08T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Freiburg",
+      "awayTeamName": "RB Leipzig",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-09T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Ein Frankfurt",
+      "awayTeamName": "Union Berlin",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-03-09T16:30:00Z",
+      "status": "FINISHED",
+      "matchday": 25,
+      "homeTeamName": "Hoffenheim",
+      "awayTeamName": "Heidenheim",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-14T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "St Pauli",
+      "awayTeamName": "Hoffenheim",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-15T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Augsburg",
+      "awayTeamName": "Wolfsburg",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-15T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Mainz",
+      "awayTeamName": "Freiburg",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-03-15T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Union Berlin",
+      "awayTeamName": "Bayern Munich",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-15T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Werder Bremen",
+      "awayTeamName": "M'gladbach",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2025-03-15T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "RB Leipzig",
+      "awayTeamName": "Dortmund",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-16T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Bochum",
+      "awayTeamName": "Ein Frankfurt",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-03-16T16:30:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Heidenheim",
+      "awayTeamName": "Holstein Kiel",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-16T18:30:00Z",
+      "status": "FINISHED",
+      "matchday": 26,
+      "homeTeamName": "Stuttgart",
+      "awayTeamName": "Leverkusen",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2025-03-28T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Leverkusen",
+      "awayTeamName": "Bochum",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-29T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Bayern Munich",
+      "awayTeamName": "St Pauli",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-03-29T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Hoffenheim",
+      "awayTeamName": "Augsburg",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-29T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Holstein Kiel",
+      "awayTeamName": "Werder Bremen",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-03-29T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "M'gladbach",
+      "awayTeamName": "RB Leipzig",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-29T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Wolfsburg",
+      "awayTeamName": "Heidenheim",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-03-29T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Ein Frankfurt",
+      "awayTeamName": "Stuttgart",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-03-30T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Freiburg",
+      "awayTeamName": "Union Berlin",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-03-30T16:30:00Z",
+      "status": "FINISHED",
+      "matchday": 27,
+      "homeTeamName": "Dortmund",
+      "awayTeamName": "Mainz",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-04T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Augsburg",
+      "awayTeamName": "Bayern Munich",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-04-05T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Bochum",
+      "awayTeamName": "Stuttgart",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2025-04-05T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Freiburg",
+      "awayTeamName": "Dortmund",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2025-04-05T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Heidenheim",
+      "awayTeamName": "Leverkusen",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-05T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Mainz",
+      "awayTeamName": "Holstein Kiel",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-05T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "RB Leipzig",
+      "awayTeamName": "Hoffenheim",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-05T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Werder Bremen",
+      "awayTeamName": "Ein Frankfurt",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-06T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "St Pauli",
+      "awayTeamName": "M'gladbach",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-06T16:30:00Z",
+      "status": "FINISHED",
+      "matchday": 28,
+      "homeTeamName": "Union Berlin",
+      "awayTeamName": "Wolfsburg",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-11T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Wolfsburg",
+      "awayTeamName": "RB Leipzig",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-04-12T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Bochum",
+      "awayTeamName": "Augsburg",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-04-12T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Hoffenheim",
+      "awayTeamName": "Mainz",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-12T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Holstein Kiel",
+      "awayTeamName": "St Pauli",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-04-12T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Leverkusen",
+      "awayTeamName": "Union Berlin",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-12T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "M'gladbach",
+      "awayTeamName": "Freiburg",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-04-12T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Bayern Munich",
+      "awayTeamName": "Dortmund",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-04-13T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Stuttgart",
+      "awayTeamName": "Werder Bremen",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-04-13T16:30:00Z",
+      "status": "FINISHED",
+      "matchday": 29,
+      "homeTeamName": "Ein Frankfurt",
+      "awayTeamName": "Heidenheim",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-19T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "Freiburg",
+      "awayTeamName": "Hoffenheim",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-04-19T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "Heidenheim",
+      "awayTeamName": "Bayern Munich",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2025-04-19T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "Mainz",
+      "awayTeamName": "Wolfsburg",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-04-19T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "RB Leipzig",
+      "awayTeamName": "Holstein Kiel",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-19T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "Werder Bremen",
+      "awayTeamName": "Bochum",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-19T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "Union Berlin",
+      "awayTeamName": "Stuttgart",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2025-04-20T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "Augsburg",
+      "awayTeamName": "Ein Frankfurt",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-20T16:30:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "Dortmund",
+      "awayTeamName": "M'gladbach",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-04-20T18:30:00Z",
+      "status": "FINISHED",
+      "matchday": 30,
+      "homeTeamName": "St Pauli",
+      "awayTeamName": "Leverkusen",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-25T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Stuttgart",
+      "awayTeamName": "Heidenheim",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-26T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Bayern Munich",
+      "awayTeamName": "Mainz",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-26T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Hoffenheim",
+      "awayTeamName": "Dortmund",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-04-26T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Holstein Kiel",
+      "awayTeamName": "M'gladbach",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-04-26T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Leverkusen",
+      "awayTeamName": "Augsburg",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-26T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Wolfsburg",
+      "awayTeamName": "Freiburg",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-26T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Ein Frankfurt",
+      "awayTeamName": "RB Leipzig",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-04-27T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Bochum",
+      "awayTeamName": "Union Berlin",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-04-27T16:30:00Z",
+      "status": "FINISHED",
+      "matchday": 31,
+      "homeTeamName": "Werder Bremen",
+      "awayTeamName": "St Pauli",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-02T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "Heidenheim",
+      "awayTeamName": "Bochum",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-03T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "M'gladbach",
+      "awayTeamName": "Hoffenheim",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2025-05-03T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "RB Leipzig",
+      "awayTeamName": "Bayern Munich",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-05-03T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "St Pauli",
+      "awayTeamName": "Stuttgart",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-03T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "Union Berlin",
+      "awayTeamName": "Werder Bremen",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-03T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "Dortmund",
+      "awayTeamName": "Wolfsburg",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-04T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "Augsburg",
+      "awayTeamName": "Holstein Kiel",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-05-04T16:30:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "Freiburg",
+      "awayTeamName": "Leverkusen",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-04T18:30:00Z",
+      "status": "FINISHED",
+      "matchday": 32,
+      "homeTeamName": "Mainz",
+      "awayTeamName": "Ein Frankfurt",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-09T19:30:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Wolfsburg",
+      "awayTeamName": "Hoffenheim",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-10T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Bochum",
+      "awayTeamName": "Mainz",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2025-05-10T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Holstein Kiel",
+      "awayTeamName": "Freiburg",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-10T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Union Berlin",
+      "awayTeamName": "Heidenheim",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-05-10T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Werder Bremen",
+      "awayTeamName": "RB Leipzig",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-10T17:30:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Bayern Munich",
+      "awayTeamName": "M'gladbach",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-11T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Leverkusen",
+      "awayTeamName": "Dortmund",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2025-05-11T16:30:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Ein Frankfurt",
+      "awayTeamName": "St Pauli",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-11T18:30:00Z",
+      "status": "FINISHED",
+      "matchday": 33,
+      "homeTeamName": "Stuttgart",
+      "awayTeamName": "Augsburg",
+      "result": {
+        "goalsHomeTeam": 4,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-17T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "Augsburg",
+      "awayTeamName": "Union Berlin",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-17T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "Dortmund",
+      "awayTeamName": "Holstein Kiel",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0
+      }
+    },
+    {
+      "date": "2025-05-17T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "Freiburg",
+      "awayTeamName": "Ein Frankfurt",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-05-17T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "Heidenheim",
+      "awayTeamName": "Werder Bremen",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2025-05-17T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "Hoffenheim",
+      "awayTeamName": "Bayern Munich",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 4
+      }
+    },
+    {
+      "date": "2025-05-17T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "Mainz",
+      "awayTeamName": "Leverkusen",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 2
+      }
+    },
+    {
+      "date": "2025-05-17T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "M'gladbach",
+      "awayTeamName": "Wolfsburg",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1
+      }
+    },
+    {
+      "date": "2025-05-17T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "RB Leipzig",
+      "awayTeamName": "Stuttgart",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      }
+    },
+    {
+      "date": "2025-05-17T14:30:00Z",
+      "status": "FINISHED",
+      "matchday": 34,
+      "homeTeamName": "St Pauli",
+      "awayTeamName": "Bochum",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      }
+    }
+  ]
+}

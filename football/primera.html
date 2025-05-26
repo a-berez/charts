@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Таблица Примеры</title>
+
+    <!-- Подключение стилей Replay Table -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/replay-table/dist/replay-table.css" />
+    <script type="text/javascript" src="https://d3js.org/d3.v4.min.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/replay-table/dist/replay-table.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/replay-table/dist/replay-table.css" />
+	<link rel="icon" type="image/png" href="/charts/favicon/favicon-96x96.png" sizes="96x96" />
+	<link rel="icon" type="image/svg+xml" href="/charts/favicon/favicon.svg" />
+	<link rel="shortcut icon" href="/charts/favicon/favicon.ico" />
+	<link rel="apple-touch-icon" sizes="180x180" href="/charts/favicon/apple-touch-icon.png" />
+	<link rel="manifest" href="/charts/favicon/site.webmanifest" />
+
+    <style>
+      body {
+          font-family: Arial, sans-serif;
+          margin: 0;
+          padding: 20px;
+          background-color: #f5f5f5;
+      }
+
+      .container {
+          max-width: 1000px;
+          margin: 0 auto;
+          background-color: #fff;
+          padding: 20px;
+          border-radius: 8px;
+          box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+          /* Добавляем свойство для обеспечения горизонтального скролла при необходимости */
+          overflow-x: auto;
+      }
+
+      h1 {
+          text-align: center;
+          color: #0055a4;
+          margin-bottom: 30px;
+      }
+
+      .replayTable {
+          width: 100%;
+      }
+
+      footer {
+          margin-top: 30px;
+          text-align: center;
+          font-size: 12px;
+          color: #666;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Таблица Примеры 2024/25</h1>
+	  <p>Порядок мест при равенстве очков может не соответствовать реальному</p>
+
+      <!-- Replay Table для РПЛ -->
+      <div class="replayTable" id="replay-primera" data-source="primera.json" data-format="football-data.org" data-order-by="points,goalsDifference,goalsFor" data-visualizer="sparklines"></div>
+      <script>
+        // Инициализируем таблицу
+        replayTable.magic();
+      </script>
+    </div>
+
+    <footer>
+      <p>Данные <a href="https://www.football-data.co.uk/" target="_blank">Football-Data.co.uk</a></p>
+	  <p>Визуализация с помощью <a href="https://github.com/antoniokov/replay-table" target="_blank">Replay Table</a>.</p>
+    </footer>
+  </body>
+</html>
