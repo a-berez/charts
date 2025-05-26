@@ -22,6 +22,8 @@
 
 - [Боровские муралы 2025](https://a-berez.github.io/charts/borovsk25)
 
+- [Гёмбёц-6](https://a-berez.github.io/charts/gomboc6)
+
 ## Бонус
 
 - [РПЛ 2024/25](https://a-berez.github.io/charts/rpl)
