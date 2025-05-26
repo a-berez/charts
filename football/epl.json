@@ -4072,112 +4072,112 @@
     },
     {
       "date": "2025-05-25T15:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 38,
       "homeTeamName": "AFC Bournemouth",
       "awayTeamName": "Leicester City FC",
       "result": {
-        "goalsHomeTeam": 0,
+        "goalsHomeTeam": 2,
         "goalsAwayTeam": 0
       }
     },
     {
       "date": "2025-05-25T15:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 38,
       "homeTeamName": "Fulham FC",
       "awayTeamName": "Manchester City FC",
       "result": {
         "goalsHomeTeam": 0,
-        "goalsAwayTeam": 0
+        "goalsAwayTeam": 2
       }
     },
     {
       "date": "2025-05-25T15:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 38,
       "homeTeamName": "Ipswich Town FC",
       "awayTeamName": "West Ham United FC",
       "result": {
-        "goalsHomeTeam": 0,
-        "goalsAwayTeam": 0
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
       }
     },
     {
       "date": "2025-05-25T15:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 38,
       "homeTeamName": "Liverpool FC",
       "awayTeamName": "Crystal Palace FC",
       "result": {
-        "goalsHomeTeam": 0,
-        "goalsAwayTeam": 0
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
       }
     },
     {
       "date": "2025-05-25T15:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 38,
       "homeTeamName": "Manchester United FC",
       "awayTeamName": "Aston Villa FC",
       "result": {
-        "goalsHomeTeam": 0,
+        "goalsHomeTeam": 2,
         "goalsAwayTeam": 0
       }
     },
     {
       "date": "2025-05-25T15:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 38,
       "homeTeamName": "Newcastle United FC",
       "awayTeamName": "Everton FC",
       "result": {
         "goalsHomeTeam": 0,
-        "goalsAwayTeam": 0
+        "goalsAwayTeam": 1
       }
     },
     {
       "date": "2025-05-25T15:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 38,
       "homeTeamName": "Nottingham Forest FC",
       "awayTeamName": "Chelsea FC",
       "result": {
         "goalsHomeTeam": 0,
-        "goalsAwayTeam": 0
+        "goalsAwayTeam": 1
       }
     },
     {
       "date": "2025-05-25T15:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 38,
       "homeTeamName": "Southampton FC",
       "awayTeamName": "Arsenal FC",
       "result": {
-        "goalsHomeTeam": 0,
-        "goalsAwayTeam": 0
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 2
       }
     },
     {
       "date": "2025-05-25T15:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 38,
       "homeTeamName": "Tottenham Hotspur FC",
       "awayTeamName": "Brighton & Hove Albion FC",
       "result": {
-        "goalsHomeTeam": 0,
-        "goalsAwayTeam": 0
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 4
       }
     },
     {
       "date": "2025-05-25T15:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 38,
       "homeTeamName": "Wolverhampton Wanderers FC",
       "awayTeamName": "Brentford FC",
       "result": {
-        "goalsHomeTeam": 0,
-        "goalsAwayTeam": 0
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
       }
     }
   ]
