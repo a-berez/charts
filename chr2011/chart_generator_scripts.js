@@ -5,6 +5,16 @@ document.addEventListener('DOMContentLoaded', function() {
     try {
         console.log('Вызываю replayTable.magic()');
         replayTable.magic();
+        console.log('replayTable.magic() вызван');
+        // Проверяем, что таблица создана
+        setTimeout(function() {
+            const table = document.querySelector('.table-container table');
+            if (table) {
+                console.log('Таблица найдена в DOM');
+            } else {
+                console.error('Таблица не найдена в DOM после вызова replayTable.magic()');
+            }
+        }, 1000);
     } catch (e) {
         console.error('Ошибка инициализации replayTable:', e);
     }
