@@ -13,6 +13,11 @@ document.addEventListener('DOMContentLoaded', function() {
                 console.log('Таблица найдена в DOM');
             } else {
                 console.error('Таблица не найдена в DOM после вызова replayTable.magic()');
+                // Выводим содержимое контейнера таблицы
+                const container = document.querySelector('.table-container');
+                if (container) {
+                    console.log('Содержимое контейнера таблицы:', container.innerHTML);
+                }
             }
         }, 1000);
     } catch (e) {
