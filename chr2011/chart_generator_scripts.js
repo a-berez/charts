@@ -1,5 +1,32 @@
 // Инициализируем таблицу
-replayTable.magic();
+// replayTable.magic();
+document.addEventListener('DOMContentLoaded', function() {
+    try {
+        replayTable.magic();
+    } catch (e) {
+        console.error('Ошибка инициализации replayTable:', e);
+    }
+    // Проверка загрузки CSV
+    const tableContainer = document.querySelector('.table-container[data-source]');
+    if (tableContainer) {
+        const src = tableContainer.getAttribute('data-source');
+        if (src) {
+            fetch(src)
+                .then(resp => {
+                    if (!resp.ok) throw new Error('HTTP ' + resp.status);
+                    return resp.text();
+                })
+                .then(text => {
+                    if (!text.trim()) {
+                        console.error('CSV-файл пустой:', src);
+                    }
+                })
+                .catch(err => {
+                    console.error('Ошибка загрузки CSV:', src, err);
+                });
+        }
+    }
+});
 
 // Добавляем скрипт для дополнительного центрирования и адаптивности
 window.addEventListener('load', function() {
