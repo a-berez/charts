@@ -39,6 +39,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         console.error('CSV-файл пустой:', src);
                     } else {
                         console.log('CSV-файл успешно загружен:', src);
+                        console.log('Содержимое CSV-файла:', text);
                     }
                 })
                 .catch(err => {
