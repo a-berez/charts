@@ -1,7 +1,9 @@
 // Инициализируем таблицу
 // replayTable.magic();
 document.addEventListener('DOMContentLoaded', function() {
+    console.log('DOMContentLoaded вызван');
     try {
+        console.log('Вызываю replayTable.magic()');
         replayTable.magic();
     } catch (e) {
         console.error('Ошибка инициализации replayTable:', e);
@@ -10,6 +12,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const tableContainer = document.querySelector('.table-container[data-source]');
     if (tableContainer) {
         const src = tableContainer.getAttribute('data-source');
+        console.log('Найден контейнер таблицы с data-source:', src);
         if (src) {
             fetch(src)
                 .then(resp => {
@@ -19,12 +22,16 @@ document.addEventListener('DOMContentLoaded', function() {
                 .then(text => {
                     if (!text.trim()) {
                         console.error('CSV-файл пустой:', src);
+                    } else {
+                        console.log('CSV-файл успешно загружен:', src);
                     }
                 })
                 .catch(err => {
                     console.error('Ошибка загрузки CSV:', src, err);
                 });
         }
+    } else {
+        console.error('Контейнер таблицы не найден');
     }
 });
 
