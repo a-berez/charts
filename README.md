@@ -4,6 +4,8 @@
 
 ## Список турниров
 
+- [ЧР 2011](https://a-berez.github.io/charts/chr2011/)
+
 - [Весна в ЛЭТИ](https://a-berez.github.io/charts/vvl25)
 
 - [ЧРБ 2025](https://a-berez.github.io/charts/chrb25)
@@ -23,6 +25,8 @@
 - [Боровские муралы 2025](https://a-berez.github.io/charts/borovsk25)
 
 - [Гёмбёц-6](https://a-berez.github.io/charts/gomboc6)
+
+- [ОЧБ 2025](https://a-berez.github.io/charts/berlin25)
 
 ## Бонус
 
