@@ -78,12 +78,13 @@
 				border: 1px solid #e0e0e0;
 				padding: 12px;
 				text-align: left;
+				word-break: break-word;
 			}
 			th {
 				background-color: #6464a6;
 				color: white;
 				font-weight: 600;
-			             text-align:center;
+				text-align: center;
 			}
 			tr:nth-child(even) {
 				background-color: #f8f9fa;
@@ -135,6 +136,13 @@
 				margin-bottom: 0;
 			}
 
+			.table-container {
+				width: 100%;
+				overflow-x: auto;
+				margin: 20px 0;
+				-webkit-overflow-scrolling: touch;
+			}
+
 			@media (max-width: 768px) {
 				.container {
 					padding: 10px;
@@ -146,6 +154,16 @@
 
 				h2 {
 					font-size: 1.3rem;
+				}
+
+				th, td {
+					padding: 8px;
+					font-size: 14px;
+				}
+
+				.table-container {
+					margin: 10px -10px;
+					padding: 0 10px;
 				}
 			}
 		</style>
@@ -303,162 +321,164 @@
 				<div class="analysis">
 					<p>Раз уж по мнению некоторых (Серёжа, привет) я сосредоточен на статистике студенческой части движения, я не мог не посмотреть, кто из участников СтудЧР 2025 сыграет на ЧР.</p>
 					<p>
-						Таких людей оказалось 19, из которых семеро представляют победителей СтудЧР <abbr title="Более известны как «Детективы для элит»">«Син уйлыйсың — мин беләм»</abbr> (при этом Денис Потехин сыграет за «Вжух»), пятеро — That's what she said, двое — команду «Ноунеймы», а также по одному представителю команд «ВШЭстером», «Кьют-джаз», «Рыбрендинг», «Троя» и Bikes for Peace.
+						Таких людей оказалось 19, из которых семеро представляют победителей СтудЧР <abbr title="Более известны как «Детективы для элит»">«Син уйлыйсың — мин беләм»</abbr> (при этом Денис Потехин сыграет за «Вжух»), пятеро —
+						That's what she said, двое — команду «Ноунеймы», а также по одному представителю команд «ВШЭстером», «Кьют-джаз», «Рыбрендинг», «Троя» и Bikes for Peace.
 					</p>
 				</div>
-				<table>
-					<thead>
-						<tr>
-							<th>ID</th>
-							<th>Игрок</th>
-							<th>Команда (СЧР)</th>
-							<th>Место (СЧР)</th>
-							<th>Команда (ЧР)</th>
-						</tr>
-					</thead>
-					<tbody>
-						<tr>
-							<td style="text-align: center">135968</td>
-							<td>Денис Александрович П.</td>
-							<td>Син уйлыйсың — мин беләм</td>
-							<td style="text-align: center">1</td>
-							<td>Вжух</td>
-						</tr>
-						<tr>
-							<td style="text-align: center">151022</td>
-							<td>Даниил Михайлович К.</td>
-							<td>Син уйлыйсың — мин беләм</td>
-							<td style="text-align: center">1</td>
-							<td>Детективы для элит</td>
-						</tr>
-						<tr>
-							<td style="text-align: center">151549</td>
-							<td>Даниил Семёнович Ч.</td>
-							<td>Син уйлыйсың — мин беләм</td>
-							<td style="text-align: center">1</td>
-							<td>Детективы для элит</td>
-						</tr>
-						<tr>
-							<td style="text-align: center">178273</td>
-							<td>Тася Дмитриевна К.</td>
-							<td>Син уйлыйсың — мин беләм</td>
-							<td style="text-align: center">1</td>
-							<td>Детективы для элит</td>
-						</tr>
-						<tr>
-							<td style="text-align: center">188417</td>
-							<td>Амиль Ленарович С.</td>
-							<td>Син уйлыйсың — мин беләм</td>
-							<td style="text-align: center">1</td>
-							<td>Детективы для элит</td>
-						</tr>
-						<tr>
-							<td style="text-align: center">197175</td>
-							<td>Игорь Евгеньевич Л.</td>
-							<td>Син уйлыйсың — мин беләм</td>
-							<td style="text-align: center">1</td>
-							<td>Детективы для элит</td>
-						</tr>
-						<tr>
-							<td style="text-align: center">241452</td>
-							<td>Анастасия Васильевна Б.</td>
-							<td>Син уйлыйсың — мин беләм</td>
-							<td style="text-align: center">1</td>
-							<td>Детективы для элит</td>
-						</tr>
-						<tr>
-							<td style="text-align: center">135967</td>
-							<td>Артём Сергеевич С.</td>
-							<td>That's what she said</td>
-							<td style="text-align: center">2</td>
-							<td>That's what she said</td>
-						</tr>
-						<tr>
-							<td style="text-align: center">137611</td>
-							<td>Алексей Михайлович К.</td>
-							<td>That's what she said</td>
-							<td style="text-align: center">2</td>
-							<td>That's what she said</td>
-						</tr>
-						<tr>
-							<td style="text-align: center">165458</td>
-							<td>Денис Юрьевич М.</td>
-							<td>That's what she said</td>
-							<td style="text-align: center">2</td>
-							<td>That's what she said</td>
-						</tr>
-						<tr>
-							<td style="text-align: center">175974</td>
-							<td>Филипп Анатольевич Т.</td>
-							<td>That's what she said</td>
-							<td style="text-align: center">2</td>
-							<td>That's what she said</td>
-						</tr>
-						<tr>
-							<td style="text-align: center">194823</td>
-							<td>Илья Андреевич О.</td>
-							<td>That's what she said</td>
-							<td style="text-align: center">2</td>
-							<td>That's what she said</td>
-						</tr>
-						<tr>
-							<td style="text-align: center">231862</td>
-							<td>Антон Павлович Б.</td>
-							<td>Bikes for Peace</td>
-							<td style="text-align: center">5</td>
-							<td>Ни стыда, ни совести</td>
-						</tr>
-						<tr>
-							<td style="text-align: center">280414</td>
-							<td>Дарья Игоревна Д.</td>
-							<td>Рыбрендинг</td>
-							<td style="text-align: center">7</td>
-							<td>Барышни и хулиганы</td>
-						</tr>
-						<tr>
-							<td style="text-align: center">168168</td>
-							<td>Дмитрий Евгеньевич Я.</td>
-							<td>ВШЭстером</td>
-							<td style="text-align: center">8–9</td>
-							<td>Детективы для элит</td>
-						</tr>
-						<tr>
-							<td style="text-align: center">159585</td>
-							<td>Алёна Алексеевна С.</td>
-							<td>Кьют-джаз</td>
-							<td style="text-align: center">8–9</td>
-							<td>Команда Ивана Зепнова</td>
-						</tr>
-						<tr>
-							<td style="text-align: center">245885</td>
-							<td>Марат Эдуардович М.</td>
-							<td>Троя</td>
-							<td style="text-align: center">36–38</td>
-							<td>СТЕПИ</td>
-						</tr>
-						<tr>
-							<td style="text-align: center">227748</td>
-							<td>Ксения Юрьевна М.</td>
-							<td>Ноунеймы</td>
-							<td style="text-align: center">48–49</td>
-							<td>Ноунеймы</td>
-						</tr>
-						<tr>
-							<td style="text-align: center">237409</td>
-							<td>Алексей Андреевич С.</td>
-							<td>Ноунеймы</td>
-							<td style="text-align: center">48–49</td>
-							<td>Ноунеймы</td>
-						</tr>
-					</tbody>
-				</table>
+				<div class="table-container">
+					<table>
+						<thead>
+							<tr>
+								<th>ID</th>
+								<th>Игрок</th>
+								<th>Команда (СЧР)</th>
+								<th>Место (СЧР)</th>
+								<th>Команда (ЧР)</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td style="text-align: center">135968</td>
+								<td>Денис Александрович П.</td>
+								<td>Син уйлыйсың — мин беләм</td>
+								<td style="text-align: center">1</td>
+								<td>Вжух</td>
+							</tr>
+							<tr>
+								<td style="text-align: center">151022</td>
+								<td>Даниил Михайлович К.</td>
+								<td>Син уйлыйсың — мин беләм</td>
+								<td style="text-align: center">1</td>
+								<td>Детективы для элит</td>
+							</tr>
+							<tr>
+								<td style="text-align: center">151549</td>
+								<td>Даниил Семёнович Ч.</td>
+								<td>Син уйлыйсың — мин беләм</td>
+								<td style="text-align: center">1</td>
+								<td>Детективы для элит</td>
+							</tr>
+							<tr>
+								<td style="text-align: center">178273</td>
+								<td>Тася Дмитриевна К.</td>
+								<td>Син уйлыйсың — мин беләм</td>
+								<td style="text-align: center">1</td>
+								<td>Детективы для элит</td>
+							</tr>
+							<tr>
+								<td style="text-align: center">188417</td>
+								<td>Амиль Ленарович С.</td>
+								<td>Син уйлыйсың — мин беләм</td>
+								<td style="text-align: center">1</td>
+								<td>Детективы для элит</td>
+							</tr>
+							<tr>
+								<td style="text-align: center">197175</td>
+								<td>Игорь Евгеньевич Л.</td>
+								<td>Син уйлыйсың — мин беләм</td>
+								<td style="text-align: center">1</td>
+								<td>Детективы для элит</td>
+							</tr>
+							<tr>
+								<td style="text-align: center">241452</td>
+								<td>Анастасия Васильевна Б.</td>
+								<td>Син уйлыйсың — мин беләм</td>
+								<td style="text-align: center">1</td>
+								<td>Детективы для элит</td>
+							</tr>
+							<tr>
+								<td style="text-align: center">135967</td>
+								<td>Артём Сергеевич С.</td>
+								<td>That's what she said</td>
+								<td style="text-align: center">2</td>
+								<td>That's what she said</td>
+							</tr>
+							<tr>
+								<td style="text-align: center">137611</td>
+								<td>Алексей Михайлович К.</td>
+								<td>That's what she said</td>
+								<td style="text-align: center">2</td>
+								<td>That's what she said</td>
+							</tr>
+							<tr>
+								<td style="text-align: center">165458</td>
+								<td>Денис Юрьевич М.</td>
+								<td>That's what she said</td>
+								<td style="text-align: center">2</td>
+								<td>That's what she said</td>
+							</tr>
+							<tr>
+								<td style="text-align: center">175974</td>
+								<td>Филипп Анатольевич Т.</td>
+								<td>That's what she said</td>
+								<td style="text-align: center">2</td>
+								<td>That's what she said</td>
+							</tr>
+							<tr>
+								<td style="text-align: center">194823</td>
+								<td>Илья Андреевич О.</td>
+								<td>That's what she said</td>
+								<td style="text-align: center">2</td>
+								<td>That's what she said</td>
+							</tr>
+							<tr>
+								<td style="text-align: center">231862</td>
+								<td>Антон Павлович Б.</td>
+								<td>Bikes for Peace</td>
+								<td style="text-align: center">5</td>
+								<td>Ни стыда, ни совести</td>
+							</tr>
+							<tr>
+								<td style="text-align: center">280414</td>
+								<td>Дарья Игоревна Д.</td>
+								<td>Рыбрендинг</td>
+								<td style="text-align: center">7</td>
+								<td>Барышни и хулиганы</td>
+							</tr>
+							<tr>
+								<td style="text-align: center">168168</td>
+								<td>Дмитрий Евгеньевич Я.</td>
+								<td>ВШЭстером</td>
+								<td style="text-align: center">8–9</td>
+								<td>Детективы для элит</td>
+							</tr>
+							<tr>
+								<td style="text-align: center">159585</td>
+								<td>Алёна Алексеевна С.</td>
+								<td>Кьют-джаз</td>
+								<td style="text-align: center">8–9</td>
+								<td>Команда Ивана Зепнова</td>
+							</tr>
+							<tr>
+								<td style="text-align: center">245885</td>
+								<td>Марат Эдуардович М.</td>
+								<td>Троя</td>
+								<td style="text-align: center">36–38</td>
+								<td>СТЕПИ</td>
+							</tr>
+							<tr>
+								<td style="text-align: center">227748</td>
+								<td>Ксения Юрьевна М.</td>
+								<td>Ноунеймы</td>
+								<td style="text-align: center">48–49</td>
+								<td>Ноунеймы</td>
+							</tr>
+							<tr>
+								<td style="text-align: center">237409</td>
+								<td>Алексей Андреевич С.</td>
+								<td>Ноунеймы</td>
+								<td style="text-align: center">48–49</td>
+								<td>Ноунеймы</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
 			</div>
 
 			<div class="footer">
 				<p>Использованы данные <a href="https://rating.chgk.info"> Турнирного сайта сообщества знатоков</a></p>
 				<p>Данные по состоянию на 10.06.2025</p>
-				<p>Данные в табличном виде можно посмотреть
-					<a href="https://docs.google.com/spreadsheets/d/13HeUmhITSm-ipl_aZoPAOOkRocPNwMy3eofg21ULgpo/edit?usp=sharing">тут</a>.</p>
+				<p>Данные в табличном виде можно посмотреть <a href="https://docs.google.com/spreadsheets/d/13HeUmhITSm-ipl_aZoPAOOkRocPNwMy3eofg21ULgpo/edit?usp=sharing">тут</a>.</p>
 			</div>
 		</div>
 	</body>
