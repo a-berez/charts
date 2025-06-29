@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>UT и ОКА</title>
+
+		<!-- Подключаем фавикон -->
+		<link rel="icon" type="image/png" href="/charts/favicon/favicon-96x96.png" sizes="96x96" />
+		<link rel="icon" type="image/svg+xml" href="/charts/favicon/favicon.svg" />
+		<link rel="shortcut icon" href="/charts/favicon/favicon.ico" />
+		<link rel="apple-touch-icon" sizes="180x180" href="/charts/favicon/apple-touch-icon.png" />
+		<link rel="manifest" href="/charts/favicon/site.webmanifest" />
+
+		<!-- Подключаем шрифт Noto Sans с Google Fonts -->
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet" />
+
+		<!-- Подключаем D3.js -->
+		<script type="text/javascript" src="https://d3js.org/d3.v4.min.js"></script>
+
+		<!-- Подключаем Replay Table -->
+		<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/replay-table/dist/replay-table.min.js"></script>
+
+		<!-- Подключаем стили -->
+		<link rel="stylesheet" type="text/css" href="chart_generator_style.css" />
+	</head>
+	<body>
+		<div class="container">
+			<h1>UT и ОКА</h1>
+
+			<div class="tournament-info">
+				<p>Следите за изменением положения команд после каждого вопроса</p>
+				<p>Интерактивный график можно посмотреть <a href="/charts/ut_oka25/ut_oka25_chart.html" target="_blank">тут</a></p>
+			</div>
+
+			<div class="content">
+				<div class="replayTable" id="chgk-table" data-source="/charts/ut_oka25/ut_oka25.csv" data-preset="chgk"></div>
+			</div>
+
+			<footer>
+				<p>Сгенерировано с помощью <a href="https://github.com/a-berez/games_features/tree/main/chart_generator" target="_blank">chart_generator</a></p>
+				<p><a href="https://docs.google.com/spreadsheets/d/1TNjd-CIZ6_IQoIwF1GgDRXKJFMCSEsAYScjjD6b8yAY/edit?usp=sharing" target="_blank">Общая таблица</a></p>
+				<p>Создано с помощью библиотеки <a href="https://github.com/antoniokov/replay-table">Replay Table</a> by <a href="https://github.com/antoniokov/">antoniokov</a></p>
+			</footer>
+		</div>
+		<div class="flag-links">
+			<h3>Ссылки</h3>
+			<ul>
+				<li>Общие: <a href="/charts/ut_oka25/ut_oka25_chart.html" target="_blank">график</a>, <a href="/charts/ut_oka25/ut_oka25_table.html" target="_blank">таблица</a></li>
+				<li>Ultima Tule: <a href="/charts/ut_oka25/ut25_chart.html" target="_blank">график</a>, <a href="/charts/ut_oka25/ut25_table.html" target="_blank">таблица</a></li>
+				<li>Открытый кубок Адриатики: <a href="/charts/ut_oka25/oka25_chart.html" target="_blank">график</a>, <a href="/charts/ut_oka25/oka25_table.html" target="_blank">таблица</a></li>
+			</ul>
+		</div>
+		<!-- Подключаем скрипты -->
+		<script type="text/javascript" src="chart_generator_scripts.js"></script>
+	</body>
+</html>
